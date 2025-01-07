@@ -1,0 +1,1571 @@
+Overall Rank,Season Rank,Player,Team,Org ID,Season,Game Count,Game Numbers,Game Dates,Opponents,Rushing Yards
+54.0,9.0,Kairee Robinson,San Jose St.,630,2023-24,4,"[7, 8, 9, 10]","['10/14/2023', '10/21/2023', '10/28/2023', '11/11/2023']","['New Mexico', 'Utah St.', 'Hawaii', 'Fresno St.']","[126.0, 102.0, 146.0, 200.0]"
+523.0,78.0,Quali Conley,San Jose St.,630,2023-24,1,[11],['11/18/2023'],['San Diego St.'],[155.0]
+199.0,29.0,La'Damian Webb,South Alabama,646,2023-24,2,"[10, 11]","['11/11/2023', '11/18/2023']","['Arkansas St.', 'Marshall']","[163.0, 117.0]"
+523.0,78.0,Mario Anderson,South Carolina,648,2023-24,1,[10],['11/11/2023'],['Vanderbilt'],[102.0]
+199.0,29.0,Nay'Quan Wright,South Fla.,651,2023-24,2,"[7, 8]","['10/14/2023', '10/21/2023']","['Fla. Atlantic', 'UConn']","[106.0, 186.0]"
+523.0,78.0,Byrum Brown,South Fla.,651,2023-24,1,[9],['11/04/2023'],['Memphis'],[100.0]
+523.0,78.0,Michel Dukes,South Fla.,651,2023-24,1,[12],['11/25/2023'],['Charlotte'],[104.0]
+523.0,78.0,MarShawn Lloyd,Southern California,657,2023-24,1,[9],['10/28/2023'],['California'],[115.0]
+523.0,78.0,Austin Jones,Southern California,657,2023-24,1,[10],['11/04/2023'],['Washington'],[127.0]
+523.0,78.0,Jaylan Knighton,SMU,663,2023-24,1,[10],['11/10/2023'],['North Texas'],[129.0]
+199.0,29.0,LJ Johnson Jr.,SMU,663,2023-24,2,"[10, 11]","['11/10/2023', '11/18/2023']","['North Texas', 'Memphis']","[106.0, 115.0]"
+96.0,15.0,Frank Gore,Southern Miss.,664,2023-24,3,"[8, 9, 10]","['10/28/2023', '11/04/2023', '11/09/2023']","['App State', 'ULM', 'Louisiana']","[247.0, 131.0, 158.0]"
+523.0,78.0,Malik Hornsby,Texas St.,670,2023-24,1,[3],['09/16/2023'],['Jackson St.'],[133.0]
+523.0,78.0,Damarius Good,Texas St.,670,2023-24,1,[3],['09/16/2023'],['Jackson St.'],[105.0]
+523.0,78.0,Ismail Mahdi,Texas St.,670,2023-24,1,[13],['12/26/2023'],['Rice'],[122.0]
+199.0,29.0,Jacob Kibodi,Louisiana,671,2023-24,2,"[4, 5]","['09/16/2023', '09/23/2023']","['UAB', 'Buffalo']","[108.0, 100.0]"
+523.0,78.0,Elijah Davis,Louisiana,671,2023-24,1,[12],['11/25/2023'],['ULM'],[109.0]
+523.0,78.0,Zeon Chriss,Louisiana,671,2023-24,1,[7],['10/21/2023'],['Georgia St.'],[119.0]
+523.0,78.0,Dre'lyn Washington,Louisiana,671,2023-24,1,[5],['09/23/2023'],['Buffalo'],[103.0]
+54.0,9.0,LeQuint Allen,Syracuse,688,2023-24,4,"[9, 10, 11, 12]","['11/03/2023', '11/11/2023', '11/18/2023', '11/25/2023']","['Boston College', 'Pittsburgh', 'Georgia Tech', 'Wake Forest']","[142.0, 103.0, 120.0, 144.0]"
+523.0,78.0,Dan Villari,Syracuse,688,2023-24,1,[10],['11/11/2023'],['Pittsburgh'],[154.0]
+523.0,78.0,Garrett Shrader,Syracuse,688,2023-24,1,[10],['11/11/2023'],['Pittsburgh'],[105.0]
+523.0,78.0,Quincy Patterson,Temple,690,2023-24,1,[7],['10/14/2023'],['North Texas'],[113.0]
+523.0,78.0,Joquez Smith,Temple,690,2023-24,1,[3],['09/16/2023'],['Norfolk St.'],[142.0]
+523.0,78.0,Dylan Sampson,Tennessee,694,2023-24,1,[13],['01/01/2024'],['Iowa'],[133.0]
+199.0,29.0,Jaylen Wright,Tennessee,694,2023-24,2,"[8, 9]","['10/28/2023', '11/04/2023']","['Kentucky', 'UConn']","[120.0, 113.0]"
+523.0,78.0,Rueben Owens,Texas A&M,697,2023-24,1,[11],['11/18/2023'],['Abilene Christian'],[106.0]
+523.0,78.0,Le'Veon Moss,Texas A&M,697,2023-24,1,[5],['09/30/2023'],['Arkansas'],[107.0]
+199.0,29.0,Emani Bailey,TCU,698,2023-24,2,"[3, 4]","['09/16/2023', '09/23/2023']","['Houston', 'SMU']","[126.0, 126.0]"
+523.0,78.0,Cam'Ron Valdez,Texas Tech,700,2023-24,1,[12],['09/30/2023'],['Houston'],[111.0]
+523.0,78.0,Tyler Shough,Texas Tech,700,2023-24,1,[2],['09/09/2023'],['Oregon'],[101.0]
+54.0,9.0,Tahj Brooks,Texas Tech,700,2023-24,4,"[7, 8, 9, 10]","['10/21/2023', '11/02/2023', '11/11/2023', '11/18/2023']","['BYU', 'TCU', 'Kansas', 'UCF']","[101.0, 146.0, 133.0, 182.0]"
+54.0,9.0,Jonathon Brooks,Texas,703,2023-24,4,"[3, 4, 5, 6]","['09/16/2023', '09/23/2023', '09/30/2023', '10/07/2023']","['Wyoming', 'Baylor', 'Kansas', 'Oklahoma']","[164.0, 106.0, 218.0, 129.0]"
+523.0,78.0,Jaydon Blue,Texas,703,2023-24,1,[12],['11/24/2023'],['Texas Tech'],[121.0]
+523.0,78.0,CJ Baxter,Texas,703,2023-24,1,[11],['11/18/2023'],['Iowa St.'],[117.0]
+199.0,29.0,Deion Hankins,UTEP,704,2023-24,2,"[8, 9]","['10/18/2023', '10/25/2023']","['New Mexico St.', 'Sam Houston']","[120.0, 117.0]"
+199.0,29.0,Kevorian Barnes,UTSA,706,2023-24,2,"[1, 2]","['09/02/2023', '09/09/2023']","['Houston', 'Texas St.']","[103.0, 103.0]"
+523.0,78.0,Frank Harris,UTSA,706,2023-24,1,[11],['11/17/2023'],['South Fla.'],[112.0]
+31.0,5.0,Peny Boone,Toledo,709,2023-24,5,"[3, 4, 5, 6, 7]","['09/16/2023', '09/23/2023', '09/30/2023', '10/07/2023', '10/14/2023']","['San Jose St.', 'Western Mich.', 'NIU', 'Massachusetts', 'Ball St.']","[123.0, 211.0, 113.0, 129.0, 148.0]"
+523.0,78.0,Dequan Finn,Toledo,709,2023-24,1,[6],['10/07/2023'],['Massachusetts'],[172.0]
+199.0,29.0,Kimani Vidal,Troy,716,2023-24,2,"[6, 7]","['10/07/2023', '10/14/2023']","['Arkansas St.', 'Army West Point']","[245.0, 116.0]"
+18.0,1.0,Makhi Hughes,Tulane,718,2023-24,6,"[5, 6, 7, 8, 9, 10]","['09/30/2023', '10/13/2023', '10/21/2023', '10/28/2023', '11/04/2023', '11/11/2023']","['UAB', 'Memphis', 'North Texas', 'Rice', 'East Carolina', 'Tulsa']","[123.0, 130.0, 121.0, 153.0, 105.0, 131.0]"
+199.0,29.0,Anthony Watkins,Tulsa,719,2023-24,2,"[11, 12]","['11/18/2023', '11/25/2023']","['North Texas', 'East Carolina']","[115.0, 106.0]"
+523.0,78.0,Jordan Ford,Tulsa,719,2023-24,1,[1],['08/31/2023'],['Ark.-Pine Bluff'],[110.0]
+523.0,78.0,John Lee Eldridge III,Air Force,721,2023-24,1,[4],['09/22/2023'],['San Jose St.'],[102.0]
+199.0,29.0,Emmanuel Michel,Air Force,721,2023-24,2,"[3, 4]","['09/15/2023', '09/22/2023']","['Utah St.', 'San Jose St.']","[106.0, 148.0]"
+523.0,78.0,Owen Burk,Air Force,721,2023-24,1,[3],['09/15/2023'],['Utah St.'],[110.0]
+199.0,29.0,Zac Larrier,Air Force,721,2023-24,2,"[5, 6]","['09/30/2023', '10/14/2023']","['San Diego St.', 'Wyoming']","[103.0, 111.0]"
+199.0,29.0,Dylan Carson,Air Force,721,2023-24,2,"[11, 12]","['11/18/2023', '11/24/2023']","['UNLV', 'Boise St.']","[104.0, 132.0]"
+523.0,78.0,Hayden Reed,Army West Point,725,2023-24,1,[3],['09/15/2023'],['UTSA'],[107.0]
+523.0,78.0,Bryson Daily,Army West Point,725,2023-24,1,[9],['11/04/2023'],['Air Force'],[170.0]
+523.0,78.0,Tyson Riley,Army West Point,725,2023-24,1,[11],['11/18/2023'],['Coastal Carolina'],[112.0]
+199.0,29.0,Kanye Udoh,Army West Point,725,2023-24,2,"[6, 7]","['10/14/2023', '10/21/2023']","['Troy', 'LSU']","[124.0, 108.0]"
+523.0,78.0,Braxton Woodson,Navy,726,2023-24,1,[11],['11/25/2023'],['SMU'],[104.0]
+523.0,78.0,Alex Tecza,Navy,726,2023-24,1,[5],['10/07/2023'],['North Texas'],[137.0]
+523.0,78.0,Xavier Arline,Navy,726,2023-24,1,[9],['11/11/2023'],['UAB'],[109.0]
+523.0,78.0,Davon Booth,Utah St.,731,2023-24,1,[10],['11/18/2023'],['Boise St.'],[125.0]
+523.0,78.0,Levi Williams,Utah St.,731,2023-24,1,[11],['11/24/2023'],['New Mexico'],[153.0]
+523.0,78.0,Rahsul Faison,Utah St.,731,2023-24,1,[11],['11/24/2023'],['New Mexico'],[106.0]
+523.0,78.0,Robert Briggs,Utah St.,731,2023-24,1,[1],['09/09/2023'],['Idaho St.'],[101.0]
+523.0,78.0,Sione Vaki,Utah,732,2023-24,1,[6],['10/14/2023'],['California'],[158.0]
+523.0,78.0,Jaylon Glover,Utah,732,2023-24,1,[12],['11/25/2023'],['Colorado'],[107.0]
+523.0,78.0,Ja'Quinden Jackson,Utah,732,2023-24,1,[9],['11/04/2023'],['Arizona St.'],[111.0]
+199.0,29.0,Bhayshul Tuten,Virginia Tech,742,2023-24,2,"[12, 13]","['11/25/2023', '12/27/2023']","['Virginia', 'Tulane']","[117.0, 136.0]"
+523.0,78.0,Kyron Drones,Virginia Tech,742,2023-24,1,[13],['12/27/2023'],['Tulane'],[176.0]
+523.0,78.0,Perris Jones,Virginia,746,2023-24,1,[6],['10/07/2023'],['William & Mary'],[134.0]
+523.0,78.0,Tate Carney,Wake Forest,749,2023-24,1,[2],['09/09/2023'],['Vanderbilt'],[117.0]
+523.0,78.0,Demond Claiborne,Wake Forest,749,2023-24,1,[2],['09/09/2023'],['Vanderbilt'],[165.0]
+523.0,78.0,Justice Ellison,Wake Forest,749,2023-24,1,[4],['09/23/2023'],['Georgia Tech'],[137.0]
+199.0,29.0,Dillon Johnson,Washington,756,2023-24,2,"[8, 9]","['11/04/2023', '11/11/2023']","['Southern California', 'Utah']","[256.0, 104.0]"
+199.0,29.0,Garrett Greene,West Virginia,768,2023-24,2,"[10, 11]","['11/18/2023', '11/25/2023']","['Cincinnati', 'Baylor']","[154.0, 103.0]"
+199.0,29.0,CJ Donaldson,West Virginia,768,2023-24,2,"[7, 8]","['10/28/2023', '11/04/2023']","['UCF', 'BYU']","[121.0, 102.0]"
+199.0,29.0,Jahiem White,West Virginia,768,2023-24,2,"[10, 11]","['11/18/2023', '11/25/2023']","['Cincinnati', 'Baylor']","[204.0, 133.0]"
+523.0,78.0,Elijah Young,Western Ky.,772,2023-24,1,[9],['11/04/2023'],['UTEP'],[139.0]
+199.0,29.0,Jalen Buckley,Western Mich.,774,2023-24,2,"[9, 10]","['10/28/2023', '11/07/2023']","['Eastern Mich.', 'Central Mich.']","[138.0, 117.0]"
+523.0,78.0,Chez Mellusi,Wisconsin,796,2023-24,1,[1],['09/02/2023'],['Buffalo'],[157.0]
+96.0,15.0,Braelon Allen,Wisconsin,796,2023-24,3,"[3, 4, 5]","['09/22/2023', '10/07/2023', '10/21/2023']","['Purdue', 'Rutgers', 'Illinois']","[116.0, 101.0, 145.0]"
+96.0,15.0,Harrison Waylee,Wyoming,811,2023-24,3,"[3, 4, 5]","['09/16/2023', '09/23/2023', '09/30/2023']","['Texas', 'App State', 'New Mexico']","[110.0, 156.0, 191.0]"
+523.0,78.0,Billy Lucas,Liberty,355,2023-24,1,[4],['09/23/2023'],['FIU'],[102.0]
+54.0,9.0,Quinton Cooley,Liberty,355,2023-24,4,"[4, 5, 6, 7]","['09/23/2023', '10/05/2023', '10/10/2023', '10/17/2023']","['FIU', 'Sam Houston', 'Jacksonville St.', 'Middle Tenn.']","[102.0, 106.0, 163.0, 134.0]"
+199.0,29.0,Kaidon Salter,Liberty,355,2023-24,2,"[7, 8]","['10/17/2023', '10/24/2023']","['Middle Tenn.', 'Western Ky.']","[160.0, 117.0]"
+199.0,29.0,Jermaine Brown Jr.,UAB,9,2023-24,2,"[11, 12]","['11/18/2023', '11/25/2023']","['Temple', 'North Texas']","[153.0, 116.0]"
+523.0,78.0,Lee Beebe,UAB,9,2023-24,1,[12],['11/25/2023'],['North Texas'],[101.0]
+523.0,78.0,DJ Irons,Akron,5,2023-24,1,[1],['09/23/2023'],['Indiana'],[141.0]
+523.0,78.0,Lorenzo Lingard,Akron,5,2023-24,1,[9],['11/01/2023'],['Kent St.'],[106.0]
+523.0,78.0,Roydell Williams,Alabama,8,2023-24,1,[3],['09/16/2023'],['South Fla.'],[129.0]
+523.0,78.0,Jase McClellan,Alabama,8,2023-24,1,[8],['10/21/2023'],['Tennessee'],[115.0]
+523.0,78.0,Jalen Milroe,Alabama,8,2023-24,1,[12],['11/25/2023'],['Auburn'],[107.0]
+523.0,78.0,Anderson Castle,App State,27,2023-24,1,[14],['12/16/2023'],['Miami (OH)'],[119.0]
+31.0,5.0,Nate Noel,App State,27,2023-24,5,"[1, 2, 3, 4, 5]","['09/02/2023', '09/09/2023', '09/16/2023', '09/23/2023', '09/30/2023']","['Gardner-Webb', 'North Carolina', 'East Carolina', 'Wyoming', 'ULM']","[115.0, 127.0, 193.0, 107.0, 109.0]"
+199.0,29.0,Kanye Roberts,App State,27,2023-24,2,"[7, 8]","['10/21/2023', '10/28/2023']","['Old Dominion', 'Southern Miss.']","[109.0, 109.0]"
+523.0,78.0,Cam Skattebo,Arizona St.,28,2023-24,1,[12],['11/25/2023'],['Arizona'],[108.0]
+523.0,78.0,Jonah Coleman,Arizona,29,2023-24,1,[10],['11/11/2023'],['Colorado'],[179.0]
+523.0,78.0,Zak Wallace,Arkansas St.,30,2023-24,1,[8],['10/28/2023'],['ULM'],[118.0]
+523.0,78.0,Ja'Quez Cross,Arkansas St.,30,2023-24,1,[11],['11/18/2023'],['Texas St.'],[139.0]
+523.0,78.0,Isaiah Augustave,Arkansas,31,2023-24,1,[11],['11/18/2023'],['FIU'],[101.0]
+523.0,78.0,Raheim Sanders,Arkansas,31,2023-24,1,[9],['11/04/2023'],['Florida'],[103.0]
+523.0,78.0,Payton Thorne,Auburn,37,2023-24,1,[3],['09/16/2023'],['Samford'],[123.0]
+96.0,15.0,Jarquez Hunter,Auburn,37,2023-24,3,"[8, 9, 10]","['10/28/2023', '11/04/2023', '11/11/2023']","['Mississippi St.', 'Vanderbilt', 'Arkansas']","[144.0, 183.0, 109.0]"
+523.0,78.0,Kiael Kelly,Ball St.,47,2023-24,1,[12],['11/25/2023'],['Miami (OH)'],[136.0]
+199.0,29.0,Marquez Cooper,Ball St.,47,2023-24,2,"[11, 12]","['11/18/2023', '11/25/2023']","['Kent St.', 'Miami (OH)']","[140.0, 136.0]"
+523.0,78.0,Richard Reese,Baylor,51,2023-24,1,[5],['09/30/2023'],['UCF'],[100.0]
+523.0,78.0,Dawson Pendergrass,Baylor,51,2023-24,1,[3],['09/16/2023'],['LIU'],[111.0]
+199.0,29.0,Ashton Jeanty,Boise St.,66,2023-24,2,"[12, 13]","['11/24/2023', '12/02/2023']","['Air Force', 'UNLV']","[107.0, 153.0]"
+523.0,78.0,George Holani,Boise St.,66,2023-24,1,[14],['12/16/2023'],['UCLA'],[138.0]
+523.0,78.0,Patrick Garwo,Boston College,67,2023-24,1,[6],['10/07/2023'],['Army West Point'],[111.0]
+199.0,29.0,Kye Robichaux,Boston College,67,2023-24,2,"[7, 8]","['10/21/2023', '10/28/2023']","['Georgia Tech', 'UConn']","[165.0, 112.0]"
+199.0,29.0,Thomas Castellanos,Boston College,67,2023-24,2,"[12, 13]","['11/24/2023', '12/28/2023']","['Miami (FL)', 'SMU']","[130.0, 156.0]"
+199.0,29.0,Terion Stewart,Bowling Green,71,2023-24,2,"[6, 7]","['10/14/2023', '10/21/2023']","['Buffalo', 'Akron']","[123.0, 131.0]"
+523.0,78.0,Ta'ron Keith,Bowling Green,71,2023-24,1,[9],['11/08/2023'],['Kent St.'],[103.0]
+523.0,78.0,Aidan Robbins,BYU,77,2023-24,1,[11],['11/18/2023'],['Oklahoma'],[182.0]
+523.0,78.0,Malik Sherrod,Fresno St.,96,2023-24,1,[12],['11/25/2023'],['San Diego St.'],[138.0]
+523.0,78.0,Isaiah Ifanse,California,107,2023-24,1,[3],['09/16/2023'],['Idaho'],[137.0]
+199.0,29.0,Jaydn Ott,California,107,2023-24,2,"[10, 11]","['11/11/2023', '11/18/2023']","['Washington St.', 'Stanford']","[167.0, 166.0]"
+523.0,78.0,Collin Schlee,UCLA,110,2023-24,1,[13],['12/16/2023'],['Boise St.'],[127.0]
+523.0,78.0,T.J. Harden,UCLA,110,2023-24,1,[13],['12/16/2023'],['Boise St.'],[105.0]
+199.0,29.0,Carson Steele,UCLA,110,2023-24,2,"[5, 6]","['10/07/2023', '10/14/2023']","['Washington St.', 'Oregon St.']","[141.0, 110.0]"
+523.0,78.0,Johnny Richardson,UCF,128,2023-24,1,[5],['09/30/2023'],['Baylor'],[105.0]
+31.0,5.0,RJ Harvey,UCF,128,2023-24,5,"[6, 7, 8, 9, 10]","['10/07/2023', '10/21/2023', '10/28/2023', '11/04/2023', '11/11/2023']","['Kansas', 'Oklahoma', 'West Virginia', 'Cincinnati', 'Oklahoma St.']","[133.0, 101.0, 100.0, 164.0, 206.0]"
+523.0,78.0,Myles Bailey,Central Mich.,129,2023-24,1,[1],['09/09/2023'],['New Hampshire'],[108.0]
+523.0,78.0,Jase Bauer,Central Mich.,129,2023-24,1,[8],['10/31/2023'],['NIU'],[106.0]
+199.0,29.0,Marion Lukes,Central Mich.,129,2023-24,2,"[8, 9]","['10/31/2023', '11/07/2023']","['NIU', 'Western Mich.']","[202.0, 147.0]"
+523.0,78.0,"Bert Emanuel, Jr.",Central Mich.,129,2023-24,1,[1],['09/09/2023'],['New Hampshire'],[101.0]
+199.0,29.0,Corey Kiner,Cincinnati,140,2023-24,2,"[9, 10]","['11/04/2023', '11/11/2023']","['UCF', 'Houston']","[114.0, 129.0]"
+523.0,78.0,Emory Jones,Cincinnati,140,2023-24,1,[3],['09/16/2023'],['Miami (OH)'],[101.0]
+523.0,78.0,Myles Montgomery,Cincinnati,140,2023-24,1,[7],['10/21/2023'],['Baylor'],[103.0]
+523.0,78.0,Ryan Montgomery,Cincinnati,140,2023-24,1,[9],['11/04/2023'],['UCF'],[113.0]
+523.0,78.0,Phil Mafah,Clemson,147,2023-24,1,[9],['11/04/2023'],['Notre Dame'],[186.0]
+523.0,78.0,Will Shipley,Clemson,147,2023-24,1,[11],['11/18/2023'],['North Carolina'],[126.0]
+523.0,78.0,Braydon Bennett,Coastal Carolina,149,2023-24,1,[5],['09/30/2023'],['Ga. Southern'],[114.0]
+523.0,78.0,Ethan Vasko,Coastal Carolina,149,2023-24,1,[9],['11/04/2023'],['Old Dominion'],[170.0]
+523.0,78.0,Justin Marshall,Colorado St.,156,2023-24,1,[10],['11/11/2023'],['San Diego St.'],[119.0]
+523.0,78.0,Cam Edwards,UConn,164,2023-24,1,[12],['11/25/2023'],['Massachusetts'],[102.0]
+523.0,78.0,Devontae Houston,UConn,164,2023-24,1,[3],['09/16/2023'],['FIU'],[126.0]
+523.0,78.0,Jordan Waters,Duke,193,2023-24,1,[9],['11/11/2023'],['North Carolina'],[113.0]
+523.0,78.0,Jaquez Moore,Duke,193,2023-24,1,[10],['11/18/2023'],['Virginia'],[100.0]
+523.0,78.0,Mason Garcia,East Carolina,196,2023-24,1,[1],['09/09/2023'],['Marshall'],[118.0]
+523.0,78.0,Rahjai Harris,East Carolina,196,2023-24,1,[11],['11/25/2023'],['Tulsa'],[145.0]
+523.0,78.0,Samson Evans,Eastern Mich.,204,2023-24,1,[12],['11/21/2023'],['Buffalo'],[127.0]
+523.0,78.0,Larry McCammon,Fla. Atlantic,229,2023-24,1,[5],['10/07/2023'],['Tulsa'],[130.0]
+523.0,78.0,Kejon Owens,FIU,231,2023-24,1,[3],['09/09/2023'],['North Texas'],[101.0]
+523.0,78.0,Shomari Lawrence,FIU,231,2023-24,1,[1],['08/26/2023'],['Louisiana Tech'],[139.0]
+523.0,78.0,Trey Benson,Florida St.,234,2023-24,1,[5],['10/07/2023'],['Virginia Tech'],[200.0]
+523.0,78.0,Lawrance Toafili,Florida St.,234,2023-24,1,[13],['12/02/2023'],['Louisville'],[118.0]
+523.0,78.0,Trevor Etienne,Florida,235,2023-24,1,[3],['09/16/2023'],['Tennessee'],[172.0]
+523.0,78.0,Montrell Johnson Jr.,Florida,235,2023-24,1,[12],['11/25/2023'],['Florida St.'],[107.0]
+96.0,15.0,Jalen White,Ga. Southern,253,2023-24,3,"[7, 8, 9]","['10/21/2023', '10/26/2023', '11/04/2023']","['ULM', 'Georgia St.', 'Texas St.']","[164.0, 116.0, 159.0]"
+96.0,15.0,Marcus Carroll,Georgia St.,254,2023-24,3,"[6, 7, 8]","['10/14/2023', '10/21/2023', '10/26/2023']","['Marshall', 'Louisiana', 'Ga. Southern']","[159.0, 110.0, 208.0]"
+523.0,78.0,Freddie Brock,Georgia St.,254,2023-24,1,[13],['12/23/2023'],['Utah St.'],[276.0]
+523.0,78.0,Darren Grainger,Georgia St.,254,2023-24,1,[13],['12/23/2023'],['Utah St.'],[111.0]
+523.0,78.0,Haynes King,Georgia Tech,255,2023-24,1,[7],['10/21/2023'],['Boston College'],[150.0]
+523.0,78.0,Dontae Smith,Georgia Tech,255,2023-24,1,[8],['10/28/2023'],['North Carolina'],[178.0]
+199.0,29.0,Jamal Haynes,Georgia Tech,255,2023-24,2,"[9, 10]","['11/04/2023', '11/11/2023']","['Virginia', 'Clemson']","[119.0, 104.0]"
+523.0,78.0,Daijun Edwards,Georgia,257,2023-24,1,[7],['10/14/2023'],['Vanderbilt'],[146.0]
+523.0,78.0,Kendall Milton,Georgia,257,2023-24,1,[14],['12/30/2023'],['Florida St.'],[104.0]
+523.0,78.0,Parker Jenkins,Houston,288,2023-24,1,[4],['09/23/2023'],['Sam Houston'],[105.0]
+523.0,78.0,Reggie Love III,Illinois,301,2023-24,1,[9],['11/25/2023'],['Northwestern'],[106.0]
+523.0,78.0,Luke Altmyer,Illinois,301,2023-24,1,[2],['10/21/2023'],['Wisconsin'],[100.0]
+523.0,78.0,Abu Sama,Iowa St.,311,2023-24,1,[12],['11/25/2023'],['Kansas St.'],[276.0]
+523.0,78.0,Kaleb Johnson,Iowa,312,2023-24,1,[7],['10/07/2023'],['Purdue'],[134.0]
+523.0,78.0,Leshon Williams,Iowa,312,2023-24,1,[11],['11/24/2023'],['Nebraska'],[111.0]
+523.0,78.0,Will Howard,Kansas St.,327,2023-24,1,[5],['10/06/2023'],['Oklahoma St.'],[104.0]
+54.0,9.0,DJ Giddens,Kansas St.,327,2023-24,4,"[10, 11, 12, 13]","['11/11/2023', '11/18/2023', '11/25/2023', '12/28/2023']","['Baylor', 'Kansas', 'Iowa St.', 'NC State']","[115.0, 102.0, 114.0, 151.0]"
+523.0,78.0,Treshaun Ward,Kansas St.,327,2023-24,1,[6],['10/14/2023'],['Texas Tech'],[118.0]
+523.0,78.0,Daniel Hishaw,Kansas,328,2023-24,1,[6],['10/07/2023'],['UCF'],[134.0]
+96.0,15.0,Devin Neal,Kansas,328,2023-24,3,"[10, 11, 12]","['11/11/2023', '11/18/2023', '11/25/2023']","['Texas Tech', 'Kansas St.', 'Cincinnati']","[137.0, 138.0, 106.0]"
+523.0,78.0,Gavin Garcia,Kent St.,331,2023-24,1,[3],['09/16/2023'],['Central Conn. St.'],[125.0]
+523.0,78.0,Ray Davis,Kentucky,334,2023-24,1,[7],['10/14/2023'],['Missouri'],[128.0]
+199.0,29.0,Logan Diggs,LSU,365,2023-24,2,"[5, 6]","['09/30/2023', '10/07/2023']","['Ole Miss', 'Missouri']","[101.0, 134.0]"
+199.0,29.0,Jayden Daniels,LSU,365,2023-24,2,"[9, 10]","['11/04/2023', '11/11/2023']","['Alabama', 'Florida']","[163.0, 234.0]"
+523.0,78.0,Keith Willis Jr.,Louisiana Tech,366,2023-24,1,[4],['09/09/2023'],['Northwestern St.'],[188.0]
+96.0,15.0,Tyre Shelton,Louisiana Tech,366,2023-24,3,"[5, 6, 7]","['09/16/2023', '09/29/2023', '10/05/2023']","['North Texas', 'UTEP', 'Western Ky.']","[152.0, 104.0, 118.0]"
+199.0,29.0,Jawhar Jordan,Louisville,367,2023-24,2,"[3, 4]","['09/07/2023', '09/23/2023']","['Murray St.', 'Boston College']","[135.0, 134.0]"
+523.0,78.0,Isaac Guerendo,Louisville,367,2023-24,1,[14],['12/27/2023'],['Southern California'],[161.0]
+523.0,78.0,Rasheen Ali,Marshall,388,2023-24,1,[10],['11/11/2023'],['Ga. Southern'],[165.0]
+523.0,78.0,Ethan Payne,Marshall,388,2023-24,1,[12],['11/25/2023'],['Arkansas St.'],[113.0]
+523.0,78.0,Cam Fancher,Marshall,388,2023-24,1,[12],['11/25/2023'],['Arkansas St.'],[100.0]
+523.0,78.0,Roman Hemby,Maryland,392,2023-24,1,[7],['09/09/2023'],['Charlotte'],[162.0]
+523.0,78.0,Gregory Desrosiers,Massachusetts,400,2023-24,1,[10],['11/04/2023'],['Merrimack'],[162.0]
+199.0,29.0,Kay'Ron Adams,Massachusetts,400,2023-24,2,"[8, 9]","['10/07/2023', '10/28/2023']","['Toledo', 'Army West Point']","[157.0, 234.0]"
+523.0,78.0,Sutton Smith,Memphis,404,2023-24,1,[1],['09/02/2023'],['Bethune-Cookman'],[115.0]
+199.0,29.0,Blake Watson,Memphis,404,2023-24,2,"[7, 8]","['10/21/2023', '10/28/2023']","['UAB', 'North Texas']","[125.0, 169.0]"
+523.0,78.0,Jordan Brunson,Miami (OH),414,2023-24,1,[4],['09/23/2023'],['Delaware St.'],[109.0]
+199.0,29.0,Rashad Amos,Miami (OH),414,2023-24,2,"[9, 10]","['10/28/2023', '11/08/2023']","['Ohio', 'Akron']","[163.0, 118.0]"
+523.0,78.0,Mark Fletcher Jr.,Miami (FL),415,2023-24,1,[11],['11/18/2023'],['Louisville'],[126.0]
+523.0,78.0,"Donald Chaney, Jr.",Miami (FL),415,2023-24,1,[5],['10/07/2023'],['Georgia Tech'],[106.0]
+523.0,78.0,Henry Parrish Jr.,Miami (FL),415,2023-24,1,[12],['11/24/2023'],['Boston College'],[111.0]
+523.0,78.0,Nate Carter,Michigan St.,416,2023-24,1,[10],['09/01/2023'],['Central Mich.'],[113.0]
+523.0,78.0,Donovan Edwards,Michigan,418,2023-24,1,[14],['01/08/2024'],['Washington'],[104.0]
+523.0,78.0,Blake Corum,Michigan,418,2023-24,1,[14],['01/08/2024'],['Washington'],[134.0]
+523.0,78.0,Jaiden Credle,Middle Tenn.,419,2023-24,1,[3],['09/16/2023'],['Murray St.'],[132.0]
+523.0,78.0,Jordan Nubin,Minnesota,428,2023-24,1,[10],['10/28/2023'],['Michigan St.'],[204.0]
+96.0,15.0,Darius Taylor,Minnesota,428,2023-24,3,"[6, 7, 13]","['09/16/2023', '09/23/2023', '12/26/2023']","['North Carolina', 'Northwestern', 'Bowling Green']","[138.0, 198.0, 208.0]"
+199.0,29.0,Jo'quavious Marks,Mississippi St.,430,2023-24,2,"[1, 2]","['09/02/2023', '09/09/2023']","['Southeastern La.', 'Arizona']","[127.0, 123.0]"
+523.0,78.0,Jaxson Dart,Ole Miss,433,2023-24,1,[3],['09/16/2023'],['Georgia Tech'],[136.0]
+96.0,15.0,Quinshon Judkins,Ole Miss,433,2023-24,3,"[7, 8, 9]","['10/21/2023', '10/28/2023', '11/04/2023']","['Auburn', 'Vanderbilt', 'Texas A&M']","[124.0, 124.0, 102.0]"
+18.0,1.0,Cody Schrader,Missouri,434,2023-24,6,"[8, 9, 10, 11, 12, 13]","['10/21/2023', '11/04/2023', '11/11/2023', '11/18/2023', '11/24/2023', '12/29/2023']","['South Carolina', 'Georgia', 'Tennessee', 'Florida', 'Arkansas', 'Ohio St.']","[159.0, 112.0, 205.0, 148.0, 217.0, 128.0]"
+523.0,78.0,British Brooks,North Carolina,457,2023-24,1,[2],['09/02/2023'],['South Carolina'],[103.0]
+18.0,1.0,Omarion Hampton,North Carolina,457,2023-24,6,"[6, 7, 8, 9, 10, 11]","['10/14/2023', '10/21/2023', '10/28/2023', '11/04/2023', '11/11/2023', '11/18/2023']","['Miami (FL)', 'Virginia', 'Georgia Tech', 'Campbell', 'Duke', 'Clemson']","[197.0, 112.0, 153.0, 144.0, 169.0, 178.0]"
+523.0,78.0,Drake Maye,North Carolina,457,2023-24,1,[12],['11/25/2023'],['NC State'],[106.0]
+523.0,78.0,Jalon Jones,Charlotte,458,2023-24,1,[7],['10/21/2023'],['East Carolina'],[127.0]
+523.0,78.0,Hahsaun Wilson,Charlotte,458,2023-24,1,[10],['11/11/2023'],['Memphis'],[198.0]
+523.0,78.0,Anthony Grant,Nebraska,463,2023-24,1,[8],['09/23/2023'],['Louisiana Tech'],[135.0]
+523.0,78.0,Heinrich Haarberg,Nebraska,463,2023-24,1,[8],['09/23/2023'],['Louisiana Tech'],[157.0]
+523.0,78.0,Chubba Purdy,Nebraska,463,2023-24,1,[2],['11/18/2023'],['Wisconsin'],[105.0]
+523.0,78.0,Jai'Den Thomas,UNLV,465,2023-24,1,[3],['09/23/2023'],['UTEP'],[100.0]
+523.0,78.0,Brendon Lewis,Nevada,466,2023-24,1,[6],['10/14/2023'],['UNLV'],[115.0]
+523.0,78.0,Diego Pavia,New Mexico St.,472,2023-24,1,[7],['10/11/2023'],['Sam Houston'],[115.0]
+523.0,78.0,Monte Watkins,New Mexico St.,472,2023-24,1,[8],['10/18/2023'],['UTEP'],[109.0]
+523.0,78.0,Andrew Henry,New Mexico,473,2023-24,1,[7],['10/21/2023'],['Hawaii'],[112.0]
+199.0,29.0,Jacory Croskey-Merritt,New Mexico,473,2023-24,2,"[11, 12]","['11/18/2023', '11/24/2023']","['Fresno St.', 'Utah St.']","[209.0, 233.0]"
+523.0,78.0,Brennan Armstrong,NC State,490,2023-24,1,[13],['12/28/2023'],['Kansas St.'],[121.0]
+96.0,15.0,Ayo Adeyi,North Texas,497,2023-24,3,"[3, 4, 5]","['09/16/2023', '09/30/2023', '10/07/2023']","['Louisiana Tech', 'Abilene Christian', 'Navy']","[148.0, 110.0, 125.0]"
+199.0,29.0,Oscar Adaway III,North Texas,497,2023-24,2,"[11, 12]","['11/18/2023', '11/25/2023']","['Tulsa', 'UAB']","[126.0, 113.0]"
+199.0,29.0,Hunter Smith,ULM,498,2023-24,2,"[1, 2]","['09/02/2023', '09/09/2023']","['Army West Point', 'Lamar University']","[103.0, 101.0]"
+523.0,78.0,Isaiah Woullard,ULM,498,2023-24,1,[2],['09/09/2023'],['Lamar University'],[113.0]
+523.0,78.0,Gavin Williams,NIU,503,2023-24,1,[12],['11/25/2023'],['Kent St.'],[103.0]
+199.0,29.0,Antario Brown,NIU,503,2023-24,2,"[5, 6]","['09/30/2023', '10/07/2023']","['Toledo', 'Akron']","[152.0, 280.0]"
+523.0,78.0,Jadarian Price,Notre Dame,513,2023-24,1,[13],['12/29/2023'],['Oregon St.'],[106.0]
+96.0,15.0,Audric Estime,Notre Dame,513,2023-24,3,"[3, 4, 5]","['09/02/2023', '09/09/2023', '09/16/2023']","['Tennessee St.', 'NC State', 'Central Mich.']","[116.0, 134.0, 176.0]"
+199.0,29.0,TreVeyon Henderson,Ohio St.,518,2023-24,2,"[9, 10]","['10/28/2023', '11/04/2023']","['Wisconsin', 'Rutgers']","[162.0, 128.0]"
+199.0,29.0,Sieh Bangura,Ohio,519,2023-24,2,"[11, 12]","['11/15/2023', '11/24/2023']","['Central Mich.', 'Akron']","[126.0, 121.0]"
+523.0,78.0,Rickey Hunt,Ohio,519,2023-24,1,[13],['12/16/2023'],['Ga. Southern'],[115.0]
+18.0,1.0,Ollie Gordon,Oklahoma St.,521,2023-24,6,"[4, 5, 6, 7, 8, 9]","['09/23/2023', '10/06/2023', '10/14/2023', '10/21/2023', '10/28/2023', '11/04/2023']","['Iowa St.', 'Kansas St.', 'Kansas', 'West Virginia', 'Cincinnati', 'Oklahoma']","[121.0, 136.0, 168.0, 282.0, 271.0, 138.0]"
+523.0,78.0,Tawee Walker,Oklahoma,522,2023-24,1,[8],['10/28/2023'],['Kansas'],[146.0]
+523.0,78.0,Dillon Gabriel,Oklahoma,522,2023-24,1,[6],['10/07/2023'],['Texas'],[113.0]
+31.0,5.0,Gavin Sawchuk,Oklahoma,522,2023-24,5,"[9, 10, 11, 12, 13]","['11/04/2023', '11/11/2023', '11/18/2023', '11/24/2023', '12/28/2023']","['Oklahoma St.', 'West Virginia', 'BYU', 'TCU', 'Arizona']","[111.0, 135.0, 107.0, 130.0, 134.0]"
+523.0,78.0,Grant Wilson,Old Dominion,523,2023-24,1,[13],['12/18/2023'],['Western Ky.'],[126.0]
+523.0,78.0,Keshawn Wicks,Old Dominion,523,2023-24,1,[2],['09/09/2023'],['Louisiana'],[104.0]
+523.0,78.0,Kadarius Calloway,Old Dominion,523,2023-24,1,[7],['10/21/2023'],['App State'],[104.0]
+523.0,78.0,Deshaun Fenwick,Oregon St.,528,2023-24,1,[4],['09/23/2023'],['Washington St.'],[101.0]
+96.0,15.0,Damien Martinez,Oregon St.,528,2023-24,3,"[9, 10, 11]","['11/04/2023', '11/11/2023', '11/18/2023']","['Colorado', 'Stanford', 'Washington']","[115.0, 146.0, 123.0]"
+199.0,29.0,Bucky Irving,Oregon,529,2023-24,2,"[6, 7]","['10/14/2023', '10/21/2023']","['Washington', 'Washington St.']","[127.0, 129.0]"
+523.0,78.0,Jordan James,Oregon,529,2023-24,1,[7],['10/21/2023'],['Washington St.'],[103.0]
+523.0,78.0,Nicholas Singleton,Penn St.,539,2023-24,1,[12],['11/24/2023'],['Michigan St.'],[118.0]
+523.0,78.0,Kaytron Allen,Penn St.,539,2023-24,1,[12],['11/24/2023'],['Michigan St.'],[137.0]
+523.0,78.0,Rodney Hammond Jr.,Pittsburgh,545,2023-24,1,[11],['11/16/2023'],['Boston College'],[145.0]
+523.0,78.0,C'Bo Flemister,Pittsburgh,545,2023-24,1,[7],['10/21/2023'],['Wake Forest'],[105.0]
+523.0,78.0,Tyrone Tracy Jr.,Purdue,559,2023-24,1,[12],['11/18/2023'],['Northwestern'],[160.0]
+523.0,78.0,Devin Mockobee,Purdue,559,2023-24,1,[4],['11/11/2023'],['Minnesota'],[153.0]
+523.0,78.0,Dean Connors,Rice,574,2023-24,1,[11],['11/18/2023'],['Charlotte'],[184.0]
+523.0,78.0,Gavin Wimsatt,Rutgers,587,2023-24,1,[6],['10/21/2023'],['Indiana'],[143.0]
+96.0,15.0,Kyle Monangai,Rutgers,587,2023-24,3,"[8, 9, 10]","['09/16/2023', '11/25/2023', '10/14/2023']","['Virginia Tech', 'Maryland', 'Michigan St.']","[143.0, 118.0, 148.0]"
+523.0,78.0,Jalen Mayden,San Diego St.,626,2023-24,1,[2],['09/02/2023'],['Idaho St.'],[132.0]
+523.0,78.0,Jaylon Armstead,San Diego St.,626,2023-24,1,[11],['11/18/2023'],['San Jose St.'],[134.0]
+523.0,78.0,Kaelon Black,James Madison,317,2023-24,1,[1],['09/02/2023'],['Bucknell'],[125.0]
+523.0,78.0,Jordan McCloud,James Madison,317,2023-24,1,[9],['11/04/2023'],['Georgia St.'],[104.0]
+199.0,29.0,Malik Jackson,Jacksonville St.,315,2023-24,2,"[4, 5]","['09/23/2023', '09/28/2023']","['Eastern Mich.', 'Sam Houston']","[127.0, 129.0]"
+523.0,78.0,Logan Smothers,Jacksonville St.,315,2023-24,1,[4],['09/23/2023'],['Eastern Mich.'],[118.0]
+523.0,78.0,Anwar Lewis,Jacksonville St.,315,2023-24,1,[11],['11/18/2023'],['Louisiana Tech'],[122.0]
+523.0,78.0,Ron Wiggins,Jacksonville St.,315,2023-24,1,[13],['12/16/2023'],['Louisiana'],[126.0]
+199.0,29.0,Zion Webb,Jacksonville St.,315,2023-24,2,"[8, 9]","['10/17/2023', '10/25/2023']","['Western Ky.', 'FIU']","[146.0, 125.0]"
+523.0,94.0,Chevan Cordeiro,San Jose St.,630,2022-23,1,[5],['10/07/2022'],['UNLV'],[109.0]
+523.0,94.0,Kairee Robinson,San Jose St.,630,2022-23,1,[11],['11/26/2022'],['Hawaii'],[148.0]
+523.0,94.0,Braylon McReynolds,South Alabama,646,2022-23,1,[11],['11/19/2022'],['Southern Miss.'],[100.0]
+199.0,37.0,La'Damian Webb,South Alabama,646,2022-23,2,"[8, 9]","['10/29/2022', '11/05/2022']","['Arkansas St.', 'Ga. Southern']","[162.0, 247.0]"
+523.0,94.0,MarShawn Lloyd,South Carolina,648,2022-23,1,[6],['10/08/2022'],['Kentucky'],[110.0]
+523.0,94.0,Byrum Brown,South Fla.,651,2022-23,1,[11],['11/26/2022'],['UCF'],[109.0]
+31.0,12.0,Brian Battie,South Fla.,651,2022-23,5,"[7, 8, 9, 10, 11]","['10/29/2022', '11/05/2022', '11/12/2022', '11/18/2022', '11/26/2022']","['Houston', 'Temple', 'SMU', 'Tulsa', 'UCF']","[106.0, 129.0, 145.0, 169.0, 144.0]"
+523.0,94.0,Gerry Bohanon,South Fla.,651,2022-23,1,[6],['10/08/2022'],['Cincinnati'],[117.0]
+199.0,37.0,Austin Jones,Southern California,657,2022-23,2,"[11, 12]","['11/19/2022', '11/26/2022']","['UCLA', 'Notre Dame']","[120.0, 154.0]"
+96.0,19.0,Travis Dye,Southern California,657,2022-23,3,"[2, 3, 4]","['09/10/2022', '09/17/2022', '09/24/2022']","['Stanford', 'Fresno St.', 'Oregon St.']","[105.0, 102.0, 133.0]"
+199.0,37.0,Tyler Lavine,SMU,663,2022-23,2,"[9, 10]","['11/05/2022', '11/12/2022']","['Houston', 'South Fla.']","[146.0, 112.0]"
+523.0,94.0,Velton Gardner,SMU,663,2022-23,1,[2],['09/10/2022'],['Lamar University'],[100.0]
+523.0,94.0,Camar Wheaton,SMU,663,2022-23,1,[10],['11/12/2022'],['South Fla.'],[112.0]
+199.0,37.0,Frank Gore,Southern Miss.,664,2022-23,2,"[12, 13]","['11/26/2022', '12/17/2022']","['ULM', 'Rice']","[199.0, 329.0]"
+523.0,94.0,Lincoln Pare,Texas St.,670,2022-23,1,[12],['11/26/2022'],['Louisiana'],[221.0]
+523.0,94.0,Calvin Hill,Texas St.,670,2022-23,1,[2],['09/10/2022'],['FIU'],[195.0]
+523.0,94.0,Chris Smith,Louisiana,671,2022-23,1,[4],['10/01/2022'],['South Alabama'],[108.0]
+523.0,94.0,Casey Filkins,Stanford,674,2022-23,1,[3],['09/24/2022'],['Washington'],[100.0]
+523.0,94.0,E.J. Smith,Stanford,674,2022-23,1,[1],['09/03/2022'],['Colgate'],[118.0]
+199.0,37.0,Sean Tucker,Syracuse,688,2022-23,2,"[11, 12]","['11/19/2022', '11/26/2022']","['Wake Forest', 'Boston College']","[106.0, 125.0]"
+523.0,94.0,LeQuint Allen,Syracuse,688,2022-23,1,[5],['10/01/2022'],['Wagner'],[112.0]
+523.0,94.0,Edward Saydee,Temple,690,2022-23,1,[9],['11/05/2022'],['South Fla.'],[265.0]
+523.0,94.0,Dylan Sampson,Tennessee,694,2022-23,1,[12],['11/26/2022'],['Vanderbilt'],[131.0]
+523.0,94.0,Hendon Hooker,Tennessee,694,2022-23,1,[4],['09/24/2022'],['Florida'],[112.0]
+523.0,94.0,Jaylen Wright,Tennessee,694,2022-23,1,[12],['11/26/2022'],['Vanderbilt'],[160.0]
+523.0,94.0,Jabari Small,Tennessee,694,2022-23,1,[5],['10/08/2022'],['LSU'],[127.0]
+96.0,19.0,Devon Achane,Texas A&M,697,2022-23,3,"[8, 9, 12]","['10/29/2022', '11/05/2022', '11/26/2022']","['Ole Miss', 'Florida', 'LSU']","[138.0, 122.0, 215.0]"
+523.0,94.0,Emari Demercado,TCU,698,2022-23,1,[14],['12/31/2022'],['Michigan'],[150.0]
+31.0,12.0,Kendre Miller,TCU,698,2022-23,5,"[6, 7, 8, 9, 10]","['10/15/2022', '10/22/2022', '10/29/2022', '11/05/2022', '11/12/2022']","['Oklahoma St.', 'Kansas St.', 'West Virginia', 'Texas Tech', 'Texas']","[104.0, 153.0, 120.0, 158.0, 138.0]"
+523.0,94.0,Max Duggan,TCU,698,2022-23,1,[13],['12/03/2022'],['Kansas St.'],[110.0]
+523.0,94.0,Tyler Shough,Texas Tech,700,2022-23,1,[13],['12/28/2022'],['Ole Miss'],[111.0]
+523.0,94.0,Tahj Brooks,Texas Tech,700,2022-23,1,[7],['10/22/2022'],['West Virginia'],[107.0]
+11.0,6.0,Bijan Robinson,Texas,703,2022-23,7,"[3, 4, 5, 6, 7, 8, 9]","['09/17/2022', '09/24/2022', '10/01/2022', '10/08/2022', '10/15/2022', '10/22/2022', '11/05/2022']","['UTSA', 'Texas Tech', 'West Virginia', 'Oklahoma', 'Iowa St.', 'Oklahoma St.', 'Kansas St.']","[183.0, 103.0, 101.0, 130.0, 135.0, 140.0, 209.0]"
+523.0,94.0,Jonathon Brooks,Texas,703,2022-23,1,[11],['11/19/2022'],['Kansas'],[108.0]
+523.0,94.0,Reynaldo Flores,UTEP,704,2022-23,1,[11],['11/19/2022'],['FIU'],[128.0]
+523.0,94.0,Deion Hankins,UTEP,704,2022-23,1,[8],['10/22/2022'],['Fla. Atlantic'],[138.0]
+523.0,94.0,Ronald Awatt,UTEP,704,2022-23,1,[3],['09/10/2022'],['New Mexico St.'],[115.0]
+523.0,94.0,Brenden Brady,UTSA,706,2022-23,1,[8],['10/22/2022'],['North Texas'],[112.0]
+199.0,37.0,Kevorian Barnes,UTSA,706,2022-23,2,"[13, 14]","['12/02/2022', '12/16/2022']","['North Texas', 'Troy']","[175.0, 132.0]"
+523.0,94.0,Frank Harris,UTSA,706,2022-23,1,[11],['11/19/2022'],['Rice'],[124.0]
+523.0,94.0,Tucker Gleason,Toledo,709,2022-23,1,[11],['11/15/2022'],['Bowling Green'],[106.0]
+523.0,94.0,Jacquez Stuart,Toledo,709,2022-23,1,[14],['12/20/2022'],['Liberty'],[111.0]
+523.0,94.0,DK Billingsley,Troy,716,2022-23,1,[4],['10/01/2022'],['Western Ky.'],[122.0]
+199.0,37.0,Kimani Vidal,Troy,716,2022-23,2,"[10, 11]","['11/19/2022', '11/26/2022']","['ULM', 'Arkansas St.']","[242.0, 208.0]"
+523.0,94.0,Shaadie Clayton-Johnson,Tulane,718,2022-23,1,[8],['11/05/2022'],['Tulsa'],[106.0]
+6.0,4.0,Tyjae Spears,Tulane,718,2022-23,8,"[7, 8, 9, 10, 11, 12, 13, 14]","['10/22/2022', '11/05/2022', '11/12/2022', '11/17/2022', '11/25/2022', '10/15/2022', '12/03/2022', '01/02/2023']","['Memphis', 'Tulsa', 'UCF', 'SMU', 'Cincinnati', 'South Fla.', 'UCF', 'Southern California']","[125.0, 157.0, 130.0, 121.0, 181.0, 151.0, 199.0, 205.0]"
+523.0,94.0,Deneric Prince,Tulsa,719,2022-23,1,[11],['11/18/2022'],['South Fla.'],[220.0]
+31.0,12.0,Brad Roberts,Air Force,721,2022-23,5,"[9, 10, 11, 12, 13]","['11/05/2022', '11/12/2022', '11/19/2022', '11/26/2022', '12/22/2022']","['Army West Point', 'New Mexico', 'Colorado St.', 'San Diego St.', 'Baylor']","[135.0, 163.0, 184.0, 187.0, 116.0]"
+199.0,37.0,John Lee Eldridge III,Air Force,721,2022-23,2,"[3, 4]","['09/16/2022', '09/23/2022']","['Wyoming', 'Nevada']","[104.0, 102.0]"
+523.0,94.0,Haaziq Daniels,Air Force,721,2022-23,1,[10],['11/12/2022'],['New Mexico'],[113.0]
+523.0,94.0,Braheam Murphy,Army West Point,725,2022-23,1,[10],['11/19/2022'],['UConn'],[124.0]
+523.0,94.0,Tyhier Tyler,Army West Point,725,2022-23,1,[11],['11/26/2022'],['Massachusetts'],[101.0]
+523.0,94.0,Tyrell Robinson,Army West Point,725,2022-23,1,[1],['09/03/2022'],['Coastal Carolina'],[135.0]
+523.0,94.0,Jemel Jones,Army West Point,725,2022-23,1,[6],['10/15/2022'],['Colgate'],[113.0]
+523.0,94.0,Tyson Riley,Army West Point,725,2022-23,1,[3],['09/17/2022'],['Villanova'],[158.0]
+199.0,37.0,Daba Fofana,Navy,726,2022-23,2,"[10, 11]","['11/12/2022', '11/19/2022']","['Notre Dame', 'UCF']","[133.0, 114.0]"
+523.0,94.0,Xavier Arline,Navy,726,2022-23,1,[12],['12/10/2022'],['Army West Point'],[102.0]
+523.0,94.0,Tai Lavatai,Navy,726,2022-23,1,[6],['10/14/2022'],['SMU'],[120.0]
+96.0,19.0,Calvin Tyler Jr.,Utah St.,731,2022-23,3,"[5, 6, 7]","['09/29/2022', '10/08/2022', '10/15/2022']","['BYU', 'Air Force', 'Colorado St.']","[104.0, 109.0, 129.0]"
+523.0,94.0,Tavion Thomas,Utah,732,2022-23,1,[10],['11/12/2022'],['Stanford'],[180.0]
+199.0,37.0,Ja'Quinden Jackson,Utah,732,2022-23,2,"[12, 13]","['11/26/2022', '12/02/2022']","['Colorado', 'Southern California']","[117.0, 105.0]"
+96.0,19.0,Ray Davis,Vanderbilt,736,2022-23,3,"[9, 10, 11]","['11/05/2022', '11/12/2022', '11/19/2022']","['South Carolina', 'Kentucky', 'Florida']","[167.0, 129.0, 122.0]"
+523.0,94.0,Mike Wright,Vanderbilt,736,2022-23,1,[10],['11/12/2022'],['Kentucky'],[126.0]
+523.0,94.0,Keshawn King,Virginia Tech,742,2022-23,1,[1],['09/02/2022'],['Old Dominion'],[111.0]
+523.0,94.0,Brennan Armstrong,Virginia,746,2022-23,1,[1],['09/03/2022'],['Richmond'],[105.0]
+523.0,94.0,Perris Jones,Virginia,746,2022-23,1,[1],['09/03/2022'],['Richmond'],[104.0]
+523.0,94.0,Justice Ellison,Wake Forest,749,2022-23,1,[5],['10/01/2022'],['Florida St.'],[114.0]
+523.0,94.0,Christian Turner,Wake Forest,749,2022-23,1,[1],['09/01/2022'],['VMI'],[100.0]
+523.0,94.0,Jaylen Jenkins,Washington St.,754,2022-23,1,[6],['10/08/2022'],['Southern California'],[130.0]
+199.0,37.0,Nakia Watson,Washington St.,754,2022-23,2,"[9, 10]","['11/05/2022', '11/12/2022']","['Stanford', 'Arizona St.']","[166.0, 116.0]"
+96.0,19.0,Wayne Taulapapa,Washington,756,2022-23,3,"[11, 12, 13]","['11/19/2022', '11/26/2022', '12/29/2022']","['Colorado', 'Washington St.', 'Texas']","[107.0, 126.0, 108.0]"
+523.0,94.0,Jaylen Anderson,West Virginia,768,2022-23,1,[12],['11/26/2022'],['Oklahoma St.'],[155.0]
+523.0,94.0,Tony Mathis Jr.,West Virginia,768,2022-23,1,[6],['10/13/2022'],['Baylor'],[163.0]
+199.0,37.0,CJ Donaldson,West Virginia,768,2022-23,2,"[3, 4]","['09/17/2022', '09/22/2022']","['Towson', 'Virginia Tech']","[101.0, 106.0]"
+523.0,94.0,Garrett Greene,West Virginia,768,2022-23,1,[10],['11/12/2022'],['Oklahoma'],[119.0]
+523.0,94.0,Davion Ervin-Poindexter,Western Ky.,772,2022-23,1,[13],['11/26/2022'],['Fla. Atlantic'],[108.0]
+523.0,94.0,Kye Robichaux,Western Ky.,772,2022-23,1,[3],['09/17/2022'],['Indiana'],[135.0]
+523.0,94.0,L.T. Sanders,Western Ky.,772,2022-23,1,[8],['10/21/2022'],['UAB'],[120.0]
+199.0,37.0,Sean Tyler,Western Mich.,774,2022-23,2,"[11, 12]","['11/16/2022', '11/25/2022']","['Central Mich.', 'Toledo']","[177.0, 131.0]"
+523.0,94.0,Isaac Guerendo,Wisconsin,796,2022-23,1,[9],['11/05/2022'],['Maryland'],[114.0]
+54.0,17.0,Braelon Allen,Wisconsin,796,2022-23,4,"[6, 7, 8, 9]","['10/08/2022', '10/15/2022', '10/22/2022', '11/05/2022']","['Northwestern', 'Michigan St.', 'Purdue', 'Maryland']","[135.0, 123.0, 113.0, 119.0]"
+199.0,37.0,D.Q. James,Wyoming,811,2022-23,2,"[8, 9]","['10/22/2022', '10/29/2022']","['Utah St.', 'Hawaii']","[120.0, 179.0]"
+523.0,94.0,Titus Swen,Wyoming,811,2022-23,1,[11],['11/19/2022'],['Boise St.'],[212.0]
+199.0,37.0,Dae Dae Hunter,Liberty,355,2022-23,2,"[4, 5]","['09/24/2022', '10/01/2022']","['Akron', 'Old Dominion']","[118.0, 121.0]"
+523.0,94.0,Shedro Louis,Liberty,355,2022-23,1,[5],['10/01/2022'],['Old Dominion'],[109.0]
+523.0,94.0,TJ Green,Liberty,355,2022-23,1,[10],['11/12/2022'],['UConn'],[119.0]
+523.0,94.0,Demario Douglas,Liberty,355,2022-23,1,[10],['11/12/2022'],['UConn'],[105.0]
+4.0,2.0,DeWayne McBride,UAB,9,2022-23,9,"[2, 3, 4, 5, 6, 7, 8, 9, 10]","['09/10/2022', '09/17/2022', '10/01/2022', '10/08/2022', '10/15/2022', '10/21/2022', '10/29/2022', '11/05/2022', '11/12/2022']","['Liberty', 'Ga. Southern', 'Rice', 'Middle Tenn.', 'Charlotte', 'Western Ky.', 'Fla. Atlantic', 'UTSA', 'North Texas']","[177.0, 223.0, 121.0, 120.0, 137.0, 200.0, 168.0, 141.0, 120.0]"
+523.0,94.0,Dylan Hopkins,UAB,9,2022-23,1,[6],['10/15/2022'],['Charlotte'],[103.0]
+199.0,37.0,Jermaine Brown Jr.,UAB,9,2022-23,2,"[12, 13]","['11/26/2022', '12/16/2022']","['Louisiana Tech', 'Miami (OH)']","[119.0, 116.0]"
+199.0,37.0,Cam Wiley,Akron,5,2022-23,2,"[10, 12]","['11/08/2022', '11/26/2022']","['Eastern Mich.', 'NIU']","[144.0, 128.0]"
+523.0,94.0,DJ Irons,Akron,5,2022-23,1,[5],['10/01/2022'],['Bowling Green'],[105.0]
+523.0,94.0,Jase McClellan,Alabama,8,2022-23,1,[11],['11/19/2022'],['Austin Peay'],[156.0]
+523.0,94.0,Bryce Young,Alabama,8,2022-23,1,[1],['09/03/2022'],['Utah St.'],[100.0]
+96.0,19.0,Jahmyr Gibbs,Alabama,8,2022-23,3,"[5, 6, 7]","['10/01/2022', '10/08/2022', '10/15/2022']","['Arkansas', 'Texas A&M', 'Tennessee']","[206.0, 154.0, 103.0]"
+523.0,94.0,Ahmani Marshall,App State,27,2022-23,1,[11],['11/19/2022'],['Old Dominion'],[137.0]
+523.0,94.0,Nate Noel,App State,27,2022-23,1,[12],['11/26/2022'],['Ga. Southern'],[171.0]
+199.0,37.0,Camerun Peoples,App State,27,2022-23,2,"[5, 7]","['10/01/2022', '10/19/2022']","['The Citadel', 'Georgia St.']","[102.0, 168.0]"
+96.0,19.0,Xazavian Valladay,Arizona St.,28,2022-23,3,"[1, 2, 3]","['09/01/2022', '09/10/2022', '09/17/2022']","['Northern Ariz.', 'Oklahoma St.', 'Eastern Mich.']","[116.0, 118.0, 127.0]"
+523.0,94.0,Michael Wiley,Arizona,29,2022-23,1,[12],['11/25/2022'],['Arizona St.'],[214.0]
+523.0,94.0,Marcel Murray,Arkansas St.,30,2022-23,1,[10],['11/12/2022'],['Massachusetts'],[123.0]
+523.0,94.0,Johnnie Lang,Arkansas St.,30,2022-23,1,[1],['09/03/2022'],['Grambling'],[124.0]
+523.0,94.0,KJ Jefferson,Arkansas,31,2022-23,1,[13],['12/28/2022'],['Kansas'],[130.0]
+523.0,94.0,Rashod Dubinion,Arkansas,31,2022-23,1,[13],['12/28/2022'],['Kansas'],[112.0]
+96.0,19.0,Raheim Sanders,Arkansas,31,2022-23,3,"[1, 2, 3]","['09/03/2022', '09/10/2022', '09/17/2022']","['Cincinnati', 'South Carolina', 'Missouri St.']","[117.0, 156.0, 167.0]"
+523.0,94.0,Malik Hornsby,Arkansas,31,2022-23,1,[6],['10/08/2022'],['Mississippi St.'],[114.0]
+199.0,37.0,Tank Bigsby,Auburn,37,2022-23,2,"[10, 11]","['11/12/2022', '11/19/2022']","['Texas A&M', 'Western Ky.']","[121.0, 110.0]"
+96.0,19.0,Jarquez Hunter,Auburn,37,2022-23,3,"[10, 11, 12]","['11/12/2022', '11/19/2022', '11/26/2022']","['Texas A&M', 'Western Ky.', 'Alabama']","[114.0, 109.0, 134.0]"
+523.0,94.0,Robby Ashford,Auburn,37,2022-23,1,[12],['11/26/2022'],['Alabama'],[121.0]
+31.0,12.0,Carson Steele,Ball St.,47,2022-23,5,"[6, 7, 8, 9, 10]","['10/08/2022', '10/15/2022', '10/22/2022', '11/01/2022', '11/08/2022']","['Central Mich.', 'UConn', 'Eastern Mich.', 'Kent St.', 'Toledo']","[124.0, 179.0, 101.0, 192.0, 198.0]"
+523.0,94.0,Craig Williams,Baylor,51,2022-23,1,[11],['11/19/2022'],['TCU'],[112.0]
+199.0,37.0,Richard Reese,Baylor,51,2022-23,2,"[7, 8]","['10/22/2022', '10/29/2022']","['Kansas', 'Texas Tech']","[186.0, 148.0]"
+523.0,94.0,Ashton Jeanty,Boise St.,66,2022-23,1,[14],['12/17/2022'],['North Texas'],[178.0]
+96.0,19.0,George Holani,Boise St.,66,2022-23,3,"[5, 6, 8]","['09/30/2022', '10/08/2022', '10/29/2022']","['San Diego St.', 'Fresno St.', 'Colorado St.']","[131.0, 157.0, 108.0]"
+199.0,37.0,Taylen Green,Boise St.,66,2022-23,2,"[1, 5]","['09/03/2022', '09/30/2022']","['Oregon St.', 'San Diego St.']","[102.0, 105.0]"
+523.0,94.0,Jaison Patterson,Bowling Green,71,2022-23,1,[8],['10/22/2022'],['Central Mich.'],[101.0]
+523.0,94.0,Miles Davis,BYU,77,2022-23,1,[4],['09/24/2022'],['Wyoming'],[131.0]
+199.0,37.0,Christopher Brooks,BYU,77,2022-23,2,"[11, 12]","['11/19/2022', '11/26/2022']","['Utah Tech', 'Stanford']","[102.0, 164.0]"
+523.0,94.0,Lopini Katoa,BYU,77,2022-23,1,[9],['10/28/2022'],['East Carolina'],[116.0]
+523.0,94.0,Ron Cook,Buffalo,86,2022-23,1,[10],['11/09/2022'],['Central Mich.'],[100.0]
+523.0,94.0,Matt Myers,Buffalo,86,2022-23,1,[12],['11/26/2022'],['Kent St.'],[110.0]
+523.0,94.0,Mike Washington,Buffalo,86,2022-23,1,[6],['10/08/2022'],['Bowling Green'],[155.0]
+199.0,37.0,Jordan Mims,Fresno St.,96,2022-23,2,"[2, 3]","['09/10/2022', '09/17/2022']","['Oregon St.', 'Southern California']","[122.0, 114.0]"
+523.0,94.0,Jaydn Ott,California,107,2022-23,1,[4],['09/24/2022'],['Arizona'],[274.0]
+18.0,9.0,Zach Charbonnet,UCLA,110,2022-23,6,"[4, 5, 6, 7, 8, 10]","['09/24/2022', '09/30/2022', '10/08/2022', '10/22/2022', '10/29/2022', '11/12/2022']","['Colorado', 'Washington', 'Utah', 'Oregon', 'Stanford', 'Arizona']","[104.0, 124.0, 198.0, 151.0, 198.0, 181.0]"
+523.0,94.0,T.J. Harden,UCLA,110,2022-23,1,[13],['12/30/2022'],['Pittsburgh'],[111.0]
+523.0,94.0,Kazmeir Allen,UCLA,110,2022-23,1,[9],['11/05/2022'],['Arizona St.'],[137.0]
+523.0,94.0,Dorian Thompson-Robinson,UCLA,110,2022-23,1,[9],['11/05/2022'],['Arizona St.'],[120.0]
+523.0,94.0,RJ Harvey,UCF,128,2022-23,1,[9],['11/05/2022'],['Memphis'],[151.0]
+199.0,37.0,John Rhys Plumlee,UCF,128,2022-23,2,"[3, 4]","['09/17/2022', '09/24/2022']","['Fla. Atlantic', 'Georgia Tech']","[121.0, 100.0]"
+523.0,94.0,Marion Lukes,Central Mich.,129,2022-23,1,[7],['10/15/2022'],['Akron'],[160.0]
+199.0,37.0,Jase Bauer,Central Mich.,129,2022-23,2,"[8, 9]","['10/22/2022', '11/02/2022']","['Bowling Green', 'NIU']","[109.0, 109.0]"
+523.0,94.0,Lew Nichols,Central Mich.,129,2022-23,1,[3],['09/17/2022'],['Bucknell'],[166.0]
+523.0,94.0,"Bert Emanuel, Jr.",Central Mich.,129,2022-23,1,[10],['11/09/2022'],['Buffalo'],[293.0]
+199.0,37.0,Charles McClelland,Cincinnati,140,2022-23,2,"[6, 7]","['10/08/2022', '10/22/2022']","['South Fla.', 'SMU']","[179.0, 129.0]"
+523.0,94.0,Corey Kiner,Cincinnati,140,2022-23,1,[5],['10/01/2022'],['Tulsa'],[106.0]
+523.0,94.0,Myles Montgomery,Cincinnati,140,2022-23,1,[2],['09/10/2022'],['Kennesaw St.'],[104.0]
+199.0,37.0,Will Shipley,Clemson,147,2022-23,2,"[7, 8]","['10/15/2022', '10/22/2022']","['Florida St.', 'Syracuse']","[121.0, 172.0]"
+523.0,94.0,Phil Mafah,Clemson,147,2022-23,1,[10],['11/12/2022'],['Louisville'],[106.0]
+523.0,94.0,Reese White,Coastal Carolina,149,2022-23,1,[1],['09/03/2022'],['Army West Point'],[133.0]
+523.0,94.0,CJ Beasley,Coastal Carolina,149,2022-23,1,[6],['10/08/2022'],['ULM'],[115.0]
+96.0,19.0,Avery Morrow,Colorado St.,156,2022-23,3,"[5, 6, 7]","['10/07/2022', '10/15/2022', '10/22/2022']","['Nevada', 'Utah St.', 'Hawaii']","[168.0, 116.0, 147.0]"
+523.0,94.0,Deion Smith,Colorado,157,2022-23,1,[8],['10/29/2022'],['Arizona St.'],[111.0]
+523.0,94.0,Alex Fontenot,Colorado,157,2022-23,1,[10],['11/11/2022'],['Southern California'],[108.0]
+523.0,94.0,Victor Rosa,UConn,164,2022-23,1,[12],['11/19/2022'],['Army West Point'],[111.0]
+199.0,37.0,Nate Carter,UConn,164,2022-23,2,"[1, 2]","['08/27/2022', '09/03/2022']","['Utah St.', 'Central Conn. St.']","[190.0, 123.0]"
+199.0,37.0,Devontae Houston,UConn,164,2022-23,2,"[6, 7]","['10/01/2022', '10/08/2022']","['Fresno St.', 'FIU']","[105.0, 135.0]"
+523.0,94.0,Robert Burns,UConn,164,2022-23,1,[11],['11/12/2022'],['Liberty'],[104.0]
+523.0,94.0,Riley Leonard,Duke,193,2022-23,1,[7],['10/15/2022'],['North Carolina'],[130.0]
+11.0,6.0,Keaton Mitchell,East Carolina,196,2022-23,7,"[7, 8, 9, 10, 11, 12, 13]","['10/15/2022', '10/22/2022', '10/28/2022', '11/11/2022', '11/19/2022', '11/26/2022', '12/27/2022']","['Memphis', 'UCF', 'BYU', 'Cincinnati', 'Houston', 'Temple', 'Coastal Carolina']","[149.0, 105.0, 176.0, 112.0, 128.0, 222.0, 127.0]"
+523.0,94.0,Samson Evans,Eastern Mich.,204,2022-23,1,[11],['11/25/2022'],['Central Mich.'],[135.0]
+523.0,94.0,Zuberi Mobley,Fla. Atlantic,229,2022-23,1,[3],['09/10/2022'],['Southeastern La.'],[146.0]
+523.0,94.0,Larry McCammon,Fla. Atlantic,229,2022-23,1,[12],['11/26/2022'],['Western Ky.'],[124.0]
+523.0,94.0,Lexington Joseph,FIU,231,2022-23,1,[5],['10/08/2022'],['UConn'],[103.0]
+523.0,94.0,Treshaun Ward,Florida St.,234,2022-23,1,[12],['08/27/2022'],['Duquesne'],[127.0]
+96.0,19.0,Trey Benson,Florida St.,234,2022-23,3,"[7, 8, 9]","['10/29/2022', '11/05/2022', '11/12/2022']","['Georgia Tech', 'Miami (FL)', 'Syracuse']","[111.0, 128.0, 163.0]"
+523.0,94.0,Lawrance Toafili,Florida St.,234,2022-23,1,[12],['08/27/2022'],['Duquesne'],[101.0]
+523.0,94.0,Jordan Travis,Florida St.,234,2022-23,1,[5],['10/08/2022'],['NC State'],[108.0]
+523.0,94.0,Anthony Richardson,Florida,235,2022-23,1,[7],['10/15/2022'],['LSU'],[109.0]
+523.0,94.0,Trevor Etienne,Florida,235,2022-23,1,[12],['11/25/2022'],['Florida St.'],[129.0]
+199.0,37.0,Montrell Johnson Jr.,Florida,235,2022-23,2,"[9, 10]","['11/05/2022', '11/12/2022']","['Texas A&M', 'South Carolina']","[100.0, 161.0]"
+523.0,94.0,Gerald Green,Ga. Southern,253,2022-23,1,[2],['09/10/2022'],['Nebraska'],[132.0]
+523.0,94.0,Jalen White,Ga. Southern,253,2022-23,1,[11],['11/19/2022'],['Marshall'],[143.0]
+199.0,37.0,Jamyest Williams,Georgia St.,254,2022-23,2,"[5, 6]","['10/01/2022', '10/08/2022']","['Army West Point', 'Ga. Southern']","[106.0, 129.0]"
+199.0,37.0,Darren Grainger,Georgia St.,254,2022-23,2,"[8, 9]","['10/29/2022', '11/05/2022']","['Old Dominion', 'Southern Miss.']","[104.0, 143.0]"
+199.0,37.0,Marcus Carroll,Georgia St.,254,2022-23,2,"[9, 10]","['11/05/2022', '11/12/2022']","['Southern Miss.', 'ULM']","[163.0, 100.0]"
+199.0,37.0,Tucker Gregg,Georgia St.,254,2022-23,2,"[5, 6]","['10/01/2022', '10/08/2022']","['Army West Point', 'Ga. Southern']","[124.0, 111.0]"
+523.0,94.0,Dontae Smith,Georgia Tech,255,2022-23,1,[2],['09/10/2022'],['Western Caro.'],[102.0]
+523.0,94.0,Hassan Hall,Georgia Tech,255,2022-23,1,[5],['10/01/2022'],['Pittsburgh'],[157.0]
+523.0,94.0,Kendall Milton,Georgia,257,2022-23,1,[13],['12/03/2022'],['LSU'],[113.0]
+523.0,94.0,Kenny McIntosh,Georgia,257,2022-23,1,[11],['11/19/2022'],['Kentucky'],[143.0]
+523.0,94.0,Daijun Edwards,Georgia,257,2022-23,1,[8],['10/29/2022'],['Florida'],[106.0]
+199.0,37.0,Dedrick Parson,Hawaii,277,2022-23,2,"[11, 12]","['11/12/2022', '11/19/2022']","['Utah St.', 'UNLV']","[101.0, 115.0]"
+523.0,94.0,Tylan Hines,Hawaii,277,2022-23,1,[9],['10/29/2022'],['Wyoming'],[103.0]
+523.0,94.0,Clayton Tune,Houston,288,2022-23,1,[9],['11/05/2022'],['SMU'],[111.0]
+523.0,94.0,Stacy Sneed,Houston,288,2022-23,1,[10],['11/12/2022'],['Temple'],[143.0]
+523.0,94.0,Ta'Zhawn Henry,Houston,288,2022-23,1,[4],['09/24/2022'],['Rice'],[112.0]
+4.0,2.0,Chase Brown,Illinois,301,2022-23,9,"[1, 2, 3, 4, 5, 6, 7, 8, 9]","['08/27/2022', '09/02/2022', '09/10/2022', '09/22/2022', '10/01/2022', '10/08/2022', '10/15/2022', '10/29/2022', '11/05/2022']","['Wyoming', 'Indiana', 'Virginia', 'Chattanooga', 'Wisconsin', 'Iowa', 'Minnesota', 'Nebraska', 'Michigan St.']","[151.0, 199.0, 146.0, 108.0, 129.0, 146.0, 180.0, 149.0, 136.0]"
+523.0,94.0,Jaylin Lucas,Indiana,306,2022-23,1,[12],['11/26/2022'],['Purdue'],[100.0]
+523.0,94.0,Shaun Shivers,Indiana,306,2022-23,1,[11],['11/19/2022'],['Michigan St.'],[115.0]
+199.0,37.0,Jirehl Brock,Iowa St.,311,2022-23,2,"[1, 2]","['09/03/2022', '09/10/2022']","['Southeast Mo. St.', 'Iowa']","[104.0, 100.0]"
+523.0,94.0,Kaleb Johnson,Iowa,312,2022-23,1,[12],['11/25/2022'],['Nebraska'],[109.0]
+199.0,37.0,Adrian Martinez,Kansas St.,327,2022-23,2,"[4, 5]","['09/24/2022', '10/01/2022']","['Oklahoma', 'Texas Tech']","[148.0, 171.0]"
+96.0,19.0,Deuce Vaughn,Kansas St.,327,2022-23,3,"[12, 13, 14]","['11/26/2022', '12/03/2022', '12/31/2022']","['Kansas', 'TCU', 'Alabama']","[147.0, 130.0, 133.0]"
+523.0,94.0,Jalon Daniels,Kansas,328,2022-23,1,[3],['09/17/2022'],['Houston'],[123.0]
+199.0,37.0,Devin Neal,Kansas,328,2022-23,2,"[9, 10]","['11/05/2022', '11/12/2022']","['Oklahoma St.', 'Texas Tech']","[224.0, 190.0]"
+96.0,19.0,Marquez Cooper,Kent St.,331,2022-23,3,"[7, 8, 9]","['10/15/2022', '10/22/2022', '11/01/2022']","['Toledo', 'Akron', 'Ball St.']","[166.0, 137.0, 168.0]"
+199.0,37.0,Christopher Rodriguez Jr.,Kentucky,334,2022-23,2,"[9, 10]","['11/05/2022', '11/12/2022']","['Missouri', 'Vanderbilt']","[112.0, 162.0]"
+523.0,94.0,Jayden Daniels,LSU,365,2022-23,1,[11],['11/19/2022'],['UAB'],[111.0]
+523.0,94.0,Josh Williams,LSU,365,2022-23,1,[10],['11/12/2022'],['Arkansas'],[118.0]
+199.0,37.0,Marquis Crosby,Louisiana Tech,366,2022-23,2,"[8, 9]","['10/28/2022', '11/05/2022']","['FIU', 'Middle Tenn.']","[115.0, 123.0]"
+523.0,94.0,Charvis Thornton,Louisiana Tech,366,2022-23,1,[12],['11/26/2022'],['UAB'],[132.0]
+96.0,19.0,Malik Cunningham,Louisville,367,2022-23,3,"[2, 3, 4]","['09/09/2022', '09/16/2022', '09/24/2022']","['UCF', 'Florida St.', 'South Fla.']","[121.0, 127.0, 113.0]"
+199.0,37.0,Tiyon Evans,Louisville,367,2022-23,2,"[8, 9]","['10/29/2022', '11/05/2022']","['Wake Forest', 'James Madison']","[106.0, 126.0]"
+523.0,94.0,Maurice Turner,Louisville,367,2022-23,1,[13],['12/17/2022'],['Cincinnati'],[160.0]
+96.0,19.0,Jawhar Jordan,Louisville,367,2022-23,3,"[11, 12, 13]","['11/19/2022', '11/26/2022', '12/17/2022']","['NC State', 'Kentucky', 'Cincinnati']","[105.0, 145.0, 115.0]"
+523.0,94.0,Ethan Payne,Marshall,388,2022-23,1,[1],['09/03/2022'],['Norfolk St.'],[110.0]
+523.0,94.0,Rasheen Ali,Marshall,388,2022-23,1,[12],['11/26/2022'],['Georgia St.'],[102.0]
+11.0,6.0,Khalan Laborn,Marshall,388,2022-23,7,"[1, 2, 3, 4, 5, 6, 7]","['09/03/2022', '09/10/2022', '09/17/2022', '09/24/2022', '10/01/2022', '10/12/2022', '10/22/2022']","['Norfolk St.', 'Notre Dame', 'Bowling Green', 'Troy', 'Gardner-Webb', 'Louisiana', 'James Madison']","[102.0, 163.0, 157.0, 118.0, 191.0, 120.0, 151.0]"
+523.0,94.0,Cam Fancher,Marshall,388,2022-23,1,[9],['11/05/2022'],['Old Dominion'],[136.0]
+199.0,37.0,Roman Hemby,Maryland,392,2022-23,2,"[7, 8]","['10/15/2022', '10/22/2022']","['Indiana', 'Northwestern']","[107.0, 179.0]"
+523.0,94.0,Antwain Littleton II,Maryland,392,2022-23,1,[5],['10/01/2022'],['Michigan St.'],[120.0]
+523.0,94.0,Gregory Desrosiers,Massachusetts,400,2022-23,1,[6],['10/08/2022'],['Liberty'],[110.0]
+523.0,94.0,Gino Campiotti,Massachusetts,400,2022-23,1,[5],['10/01/2022'],['Eastern Mich.'],[118.0]
+523.0,94.0,Ellis Merriweather,Massachusetts,400,2022-23,1,[10],['11/12/2022'],['Arkansas St.'],[122.0]
+523.0,94.0,Aveon Smith,Miami (OH),414,2022-23,1,[11],['11/16/2022'],['NIU'],[105.0]
+523.0,94.0,Keyon Mozee,Miami (OH),414,2022-23,1,[4],['09/24/2022'],['Northwestern'],[171.0]
+199.0,37.0,Henry Parrish Jr.,Miami (FL),415,2022-23,2,"[1, 2]","['09/03/2022', '09/10/2022']","['Bethune-Cookman', 'Southern Miss.']","[108.0, 109.0]"
+523.0,94.0,Jaylan Knighton,Miami (FL),415,2022-23,1,[10],['11/12/2022'],['Georgia Tech'],[118.0]
+199.0,37.0,Jalen Berger,Michigan St.,416,2022-23,2,"[1, 2]","['09/02/2022', '09/10/2022']","['Western Mich.', 'Akron']","[120.0, 107.0]"
+523.0,94.0,Elijah Collins,Michigan St.,416,2022-23,1,[11],['11/19/2022'],['Indiana'],[107.0]
+6.0,4.0,Blake Corum,Michigan,418,2022-23,8,"[4, 5, 6, 7, 8, 9, 10, 11]","['09/24/2022', '10/01/2022', '10/08/2022', '10/15/2022', '10/29/2022', '11/05/2022', '11/12/2022', '11/19/2022']","['Maryland', 'Iowa', 'Indiana', 'Penn St.', 'Michigan St.', 'Rutgers', 'Nebraska', 'Illinois']","[243.0, 133.0, 124.0, 166.0, 177.0, 109.0, 162.0, 108.0]"
+96.0,19.0,Donovan Edwards,Michigan,418,2022-23,3,"[12, 13, 14]","['11/26/2022', '12/03/2022', '12/31/2022']","['Ohio St.', 'Purdue', 'TCU']","[216.0, 185.0, 119.0]"
+523.0,94.0,Frank Peasant,Middle Tenn.,419,2022-23,1,[3],['09/17/2022'],['Tennessee St.'],[125.0]
+2.0,1.0,Mohamed Ibrahim,Minnesota,428,2022-23,10,"[1, 2, 3, 4, 6, 7, 8, 9, 10, 11]","['09/01/2022', '09/10/2022', '09/17/2022', '09/24/2022', '10/15/2022', '10/22/2022', '10/29/2022', '11/05/2022', '11/12/2022', '11/19/2022']","['New Mexico St.', 'Western Ill.', 'Colorado', 'Michigan St.', 'Illinois', 'Penn St.', 'Rutgers', 'Nebraska', 'Northwestern', 'Iowa']","[132.0, 130.0, 202.0, 103.0, 127.0, 102.0, 159.0, 128.0, 178.0, 263.0]"
+523.0,94.0,Jaxson Dart,Ole Miss,433,2022-23,1,[6],['10/15/2022'],['Auburn'],[115.0]
+31.0,12.0,Quinshon Judkins,Ole Miss,433,2022-23,5,"[6, 7, 8, 9, 10]","['10/15/2022', '10/22/2022', '10/29/2022', '11/12/2022', '11/19/2022']","['Auburn', 'LSU', 'Texas A&M', 'Alabama', 'Arkansas']","[139.0, 111.0, 205.0, 135.0, 214.0]"
+199.0,37.0,Zach Evans,Ole Miss,433,2022-23,2,"[1, 2]","['09/03/2022', '09/17/2022']","['Troy', 'Georgia Tech']","[130.0, 134.0]"
+523.0,94.0,Nathaniel Peat,Missouri,434,2022-23,1,[6],['10/08/2022'],['Florida'],[117.0]
+523.0,94.0,Brady Cook,Missouri,434,2022-23,1,[12],['11/25/2022'],['Arkansas'],[138.0]
+523.0,94.0,Omarion Hampton,North Carolina,457,2022-23,1,[3],['09/10/2022'],['Georgia St.'],[110.0]
+523.0,94.0,Calvin Camp,Charlotte,458,2022-23,1,[12],['11/19/2022'],['Louisiana Tech'],[111.0]
+96.0,19.0,Anthony Grant,Nebraska,463,2022-23,3,"[1, 2, 3]","['08/27/2022', '09/03/2022', '09/10/2022']","['Northwestern', 'North Dakota', 'Ga. Southern']","[101.0, 189.0, 138.0]"
+523.0,94.0,Doug Brumfield,UNLV,465,2022-23,1,[3],['09/17/2022'],['North Texas'],[100.0]
+523.0,94.0,Courtney Reese,UNLV,465,2022-23,1,[8],['10/22/2022'],['Notre Dame'],[142.0]
+199.0,37.0,Aidan Robbins,UNLV,465,2022-23,2,"[9, 10]","['11/05/2022', '11/11/2022']","['San Diego St.', 'Fresno St.']","[115.0, 144.0]"
+523.0,94.0,Toa Taua,Nevada,466,2022-23,1,[12],['11/26/2022'],['UNLV'],[144.0]
+523.0,94.0,Diego Pavia,New Mexico St.,472,2022-23,1,[11],['11/26/2022'],['Liberty'],[125.0]
+523.0,94.0,Star Thomas,New Mexico St.,472,2022-23,1,[5],['09/24/2022'],['Hawaii'],[144.0]
+523.0,94.0,Nate Jones,New Mexico,473,2022-23,1,[9],['11/05/2022'],['Utah St.'],[146.0]
+199.0,37.0,Ikaika Ragsdale,North Texas,497,2022-23,2,"[12, 13]","['11/26/2022', '12/02/2022']","['Rice', 'UTSA']","[122.0, 108.0]"
+523.0,94.0,Oscar Adaway III,North Texas,497,2022-23,1,[7],['10/15/2022'],['Louisiana Tech'],[113.0]
+523.0,94.0,Ayo Adeyi,North Texas,497,2022-23,1,[7],['10/15/2022'],['Louisiana Tech'],[122.0]
+523.0,94.0,Andrew Henry,ULM,498,2022-23,1,[4],['09/24/2022'],['Louisiana'],[123.0]
+523.0,94.0,Harrison Waylee,NIU,503,2022-23,1,[9],['11/02/2022'],['Central Mich.'],[136.0]
+523.0,94.0,Antario Brown,NIU,503,2022-23,1,[8],['10/22/2022'],['Ohio'],[160.0]
+523.0,94.0,Jaiden Credle,NIU,503,2022-23,1,[10],['11/09/2022'],['Western Mich.'],[136.0]
+523.0,94.0,Evan Hull,Northwestern,509,2022-23,1,[11],['11/19/2022'],['Purdue'],[105.0]
+199.0,37.0,Audric Estime,Notre Dame,513,2022-23,2,"[8, 9]","['10/29/2022', '11/05/2022']","['Syracuse', 'Clemson']","[123.0, 104.0]"
+523.0,94.0,Logan Diggs,Notre Dame,513,2022-23,1,[11],['11/19/2022'],['Boston College'],[122.0]
+199.0,37.0,TreVeyon Henderson,Ohio St.,518,2022-23,2,"[4, 6]","['09/24/2022', '10/08/2022']","['Wisconsin', 'Michigan St.']","[121.0, 118.0]"
+199.0,37.0,Miyan Williams,Ohio St.,518,2022-23,2,"[9, 10]","['11/05/2022', '11/12/2022']","['Northwestern', 'Indiana']","[111.0, 147.0]"
+199.0,37.0,Dallan Hayden,Ohio St.,518,2022-23,2,"[10, 11]","['11/12/2022', '11/19/2022']","['Indiana', 'Maryland']","[102.0, 146.0]"
+199.0,37.0,Sieh Bangura,Ohio,519,2022-23,2,"[10, 11]","['11/08/2022', '11/15/2022']","['Miami (OH)', 'Ball St.']","[145.0, 148.0]"
+523.0,94.0,Dominic Richardson,Oklahoma St.,521,2022-23,1,[2],['09/10/2022'],['Arizona St.'],[131.0]
+523.0,94.0,Ollie Gordon,Oklahoma St.,521,2022-23,1,[12],['11/26/2022'],['West Virginia'],[136.0]
+523.0,94.0,Jovantae Barnes,Oklahoma,522,2022-23,1,[13],['12/29/2022'],['Florida St.'],[108.0]
+54.0,17.0,Eric Gray,Oklahoma,522,2022-23,4,"[7, 8, 9, 10]","['10/15/2022', '10/29/2022', '11/05/2022', '11/12/2022']","['Kansas', 'Iowa St.', 'Baylor', 'West Virginia']","[176.0, 101.0, 106.0, 211.0]"
+523.0,94.0,Gavin Sawchuk,Oklahoma,522,2022-23,1,[13],['12/29/2022'],['Florida St.'],[100.0]
+199.0,37.0,Blake Watson,Old Dominion,523,2022-23,2,"[6, 7]","['10/15/2022', '10/22/2022']","['Coastal Carolina', 'Ga. Southern']","[256.0, 108.0]"
+18.0,9.0,Damien Martinez,Oregon St.,528,2022-23,6,"[7, 8, 9, 10, 11, 12]","['10/15/2022', '10/22/2022', '11/04/2022', '11/12/2022', '11/19/2022', '11/26/2022']","['Washington St.', 'Colorado', 'Washington', 'California', 'Arizona St.', 'Oregon']","[111.0, 178.0, 107.0, 105.0, 138.0, 103.0]"
+523.0,94.0,Deshaun Fenwick,Oregon St.,528,2022-23,1,[13],['12/17/2022'],['Florida'],[107.0]
+199.0,37.0,Bucky Irving,Oregon,529,2022-23,2,"[9, 10]","['11/05/2022', '11/12/2022']","['Colorado', 'Washington']","[120.0, 149.0]"
+523.0,94.0,Noah Whittington,Oregon,529,2022-23,1,[10],['11/12/2022'],['Washington'],[106.0]
+523.0,94.0,Bo Nix,Oregon,529,2022-23,1,[5],['10/01/2022'],['Stanford'],[141.0]
+523.0,94.0,Kaytron Allen,Penn St.,539,2022-23,1,[11],['11/19/2022'],['Rutgers'],[117.0]
+199.0,37.0,Nicholas Singleton,Penn St.,539,2022-23,2,"[2, 3]","['09/10/2022', '09/17/2022']","['Ohio', 'Auburn']","[179.0, 124.0]"
+18.0,9.0,Israel Abanikanda,Pittsburgh,545,2022-23,6,"[6, 7, 8, 10, 11, 12]","['10/08/2022', '10/22/2022', '10/29/2022', '11/12/2022', '11/19/2022', '11/26/2022']","['Virginia Tech', 'Louisville', 'North Carolina', 'Virginia', 'Duke', 'Miami (FL)']","[320.0, 129.0, 127.0, 121.0, 113.0, 111.0]"
+523.0,94.0,Rodney Hammond Jr.,Pittsburgh,545,2022-23,1,[9],['11/05/2022'],['Syracuse'],[124.0]
+523.0,94.0,Dylan Downing,Purdue,559,2022-23,1,[4],['09/24/2022'],['Fla. Atlantic'],[113.0]
+199.0,37.0,Devin Mockobee,Purdue,559,2022-23,2,"[7, 8]","['10/15/2022', '10/22/2022']","['Nebraska', 'Wisconsin']","[178.0, 108.0]"
+523.0,94.0,Samuel Brown V,Rutgers,587,2022-23,1,[7],['10/22/2022'],['Indiana'],[101.0]
+523.0,94.0,Kyle Monangai,Rutgers,587,2022-23,1,[10],['11/12/2022'],['Michigan St.'],[162.0]
+523.0,94.0,Jordan Byrd,San Diego St.,626,2022-23,1,[4],['09/24/2022'],['Toledo'],[115.0]
+523.0,94.0,Kenan Christon,San Diego St.,626,2022-23,1,[11],['11/18/2022'],['New Mexico'],[102.0]
+523.0,94.0,Todd Centeio,James Madison,317,2022-23,1,[1],['09/03/2022'],['Middle Tenn.'],[110.0]
+199.0,37.0,Percy Agyei-Obese,James Madison,317,2022-23,2,"[5, 6]","['10/08/2022', '10/15/2022']","['Arkansas St.', 'Ga. Southern']","[158.0, 106.0]"
+523.0,94.0,Latrele Palmer,James Madison,317,2022-23,1,[4],['10/01/2022'],['Texas St.'],[106.0]
+199.0,34.0,Nick Nash,San Jose St.,630,2021-22,2,"[8, 9]","['10/21/2021', '10/30/2021']","['UNLV', 'Wyoming']","[121.0, 111.0]"
+523.0,94.0,Tyler Nevens,San Jose St.,630,2021-22,1,[10],['11/06/2021'],['Nevada'],[116.0]
+523.0,94.0,Kareem Walker,South Alabama,646,2021-22,1,[12],['09/18/2021'],['Alcorn'],[150.0]
+523.0,94.0,Terrion Avery,South Alabama,646,2021-22,1,[7],['10/30/2021'],['Arkansas St.'],[113.0]
+523.0,94.0,Zaquandre White,South Carolina,648,2021-22,1,[9],['11/06/2021'],['Florida'],[111.0]
+523.0,94.0,Kevin Harris,South Carolina,648,2021-22,1,[13],['12/30/2021'],['North Carolina'],[182.0]
+523.0,94.0,Brian Battie,South Fla.,651,2021-22,1,[3],['09/18/2021'],['Florida A&M'],[110.0]
+199.0,34.0,Kelley Joiner,South Fla.,651,2021-22,2,"[7, 8]","['10/23/2021', '10/28/2021']","['Temple', 'East Carolina']","[126.0, 103.0]"
+523.0,94.0,Jaren Mangham,South Fla.,651,2021-22,1,[7],['10/23/2021'],['Temple'],[152.0]
+523.0,94.0,Vavae Malepeai,Southern California,657,2021-22,1,[10],['12/04/2021'],['California'],[107.0]
+199.0,34.0,Keaontay Ingram,Southern California,657,2021-22,2,"[7, 8]","['10/23/2021', '10/30/2021']","['Notre Dame', 'Arizona']","[138.0, 204.0]"
+523.0,94.0,Ulysses Bentley IV,SMU,663,2021-22,1,[4],['09/25/2021'],['TCU'],[153.0]
+523.0,94.0,Tre Siggers,SMU,663,2021-22,1,[4],['09/25/2021'],['TCU'],[110.0]
+523.0,94.0,Frank Gore,Southern Miss.,664,2021-22,1,[10],['11/13/2021'],['UTSA'],[123.0]
+199.0,34.0,Dajon Richard,Southern Miss.,664,2021-22,2,"[11, 12]","['11/19/2021', '11/27/2021']","['Louisiana Tech', 'FIU']","[120.0, 107.0]"
+199.0,34.0,Calvin Hill,Texas St.,670,2021-22,2,"[11, 12]","['11/20/2021', '11/27/2021']","['Coastal Carolina', 'Arkansas St.']","[100.0, 123.0]"
+523.0,94.0,Chris Smith,Louisiana,671,2021-22,1,[10],['11/13/2021'],['Troy'],[102.0]
+523.0,94.0,Emani Bailey,Louisiana,671,2021-22,1,[13],['12/04/2021'],['App State'],[117.0]
+199.0,34.0,Montrell Johnson Jr.,Louisiana,671,2021-22,2,"[6, 7]","['10/12/2021', '10/21/2021']","['App State', 'Arkansas St.']","[103.0, 150.0]"
+523.0,94.0,Nathaniel Peat,Stanford,674,2021-22,1,[2],['09/11/2021'],['Southern California'],[115.0]
+199.0,34.0,Garrett Shrader,Syracuse,688,2021-22,2,"[5, 6]","['10/02/2021', '10/09/2021']","['Florida St.', 'Wake Forest']","[137.0, 178.0]"
+11.0,2.0,Sean Tucker,Syracuse,688,2021-22,7,"[3, 4, 5, 6, 7, 8, 9]","['09/18/2021', '09/24/2021', '10/02/2021', '10/09/2021', '10/15/2021', '10/23/2021', '10/30/2021']","['UAlbany', 'Liberty', 'Florida St.', 'Wake Forest', 'Clemson', 'Virginia Tech', 'Boston College']","[132.0, 169.0, 102.0, 153.0, 157.0, 112.0, 207.0]"
+523.0,94.0,Jaylen Wright,Tennessee,694,2021-22,1,[12],['11/27/2021'],['Vanderbilt'],[112.0]
+199.0,34.0,Tiyon Evans,Tennessee,694,2021-22,2,"[5, 6]","['10/02/2021', '10/09/2021']","['Missouri', 'South Carolina']","[156.0, 119.0]"
+199.0,34.0,Jabari Small,Tennessee,694,2021-22,2,"[12, 13]","['11/27/2021', '12/30/2021']","['Vanderbilt', 'Purdue']","[103.0, 180.0]"
+523.0,94.0,Hendon Hooker,Tennessee,694,2021-22,1,[7],['10/16/2021'],['Ole Miss'],[108.0]
+199.0,34.0,Devon Achane,Texas A&M,697,2021-22,2,"[7, 8]","['10/16/2021', '10/23/2021']","['Missouri', 'South Carolina']","[124.0, 154.0]"
+96.0,18.0,Isaiah Spiller,Texas A&M,697,2021-22,3,"[7, 8, 9]","['10/16/2021', '10/23/2021', '11/06/2021']","['Missouri', 'South Carolina', 'Auburn']","[168.0, 102.0, 112.0]"
+523.0,94.0,Emari Demercado,TCU,698,2021-22,1,[13],['11/13/2021'],['Oklahoma St.'],[115.0]
+523.0,94.0,Kendre Miller,TCU,698,2021-22,1,[11],['11/20/2021'],['Kansas'],[112.0]
+54.0,10.0,Zach Evans,TCU,698,2021-22,4,"[2, 3, 4, 5]","['09/11/2021', '09/25/2021', '10/02/2021', '10/09/2021']","['California', 'SMU', 'Texas', 'Texas Tech']","[190.0, 113.0, 113.0, 143.0]"
+199.0,34.0,Tahj Brooks,Texas Tech,700,2021-22,2,"[12, 13]","['09/11/2021', '12/28/2021']","['SFA', 'Mississippi St.']","[103.0, 107.0]"
+523.0,94.0,SaRodorick Thompson,Texas Tech,700,2021-22,1,[5],['10/09/2021'],['TCU'],[118.0]
+523.0,94.0,Roschon Johnson,Texas,703,2021-22,1,[12],['11/26/2021'],['Kansas St.'],[179.0]
+523.0,94.0,Keilan Robinson,Texas,703,2021-22,1,[11],['11/20/2021'],['West Virginia'],[111.0]
+31.0,6.0,Bijan Robinson,Texas,703,2021-22,5,"[3, 4, 5, 6, 7]","['09/18/2021', '09/25/2021', '10/02/2021', '10/09/2021', '10/16/2021']","['Rice', 'Texas Tech', 'TCU', 'Oklahoma', 'Oklahoma St.']","[127.0, 137.0, 216.0, 137.0, 135.0]"
+523.0,94.0,Willie Eldridge,UTEP,704,2021-22,1,[2],['09/04/2021'],['Bethune-Cookman'],[118.0]
+523.0,94.0,Ronald Awatt,UTEP,704,2021-22,1,[11],['11/20/2021'],['Rice'],[119.0]
+54.0,10.0,Sincere McCormick,UTSA,706,2021-22,4,"[6, 7, 8, 9]","['10/09/2021', '10/16/2021', '10/23/2021', '11/06/2021']","['Western Ky.', 'Rice', 'Louisiana Tech', 'UTEP']","[120.0, 117.0, 113.0, 169.0]"
+18.0,4.0,Bryant Koback,Toledo,709,2021-22,6,"[8, 9, 10, 11, 12, 13]","['10/23/2021', '11/02/2021', '11/10/2021', '11/16/2021', '11/27/2021', '12/17/2021']","['Western Mich.', 'Eastern Mich.', 'Bowling Green', 'Ohio', 'Akron', 'Middle Tenn.']","[100.0, 180.0, 121.0, 203.0, 135.0, 126.0]"
+523.0,94.0,Dequan Finn,Toledo,709,2021-22,1,[4],['09/25/2021'],['Ball St.'],[106.0]
+199.0,34.0,Kimani Vidal,Troy,716,2021-22,2,"[7, 8]","['10/16/2021', '10/28/2021']","['Texas St.', 'Coastal Carolina']","[162.0, 142.0]"
+523.0,94.0,B.J. Smith,Troy,716,2021-22,1,[5],['10/02/2021'],['South Carolina'],[102.0]
+96.0,18.0,Tyjae Spears,Tulane,718,2021-22,3,"[10, 11, 12]","['11/13/2021', '11/20/2021', '11/27/2021']","['Tulsa', 'South Fla.', 'Memphis']","[104.0, 111.0, 264.0]"
+199.0,34.0,Shamari Brooks,Tulsa,719,2021-22,2,"[6, 7]","['10/09/2021', '10/16/2021']","['Memphis', 'South Fla.']","[126.0, 145.0]"
+523.0,94.0,Anthony Watkins,Tulsa,719,2021-22,1,[9],['11/06/2021'],['Cincinnati'],[105.0]
+523.0,94.0,Deneric Prince,Tulsa,719,2021-22,1,[7],['10/16/2021'],['South Fla.'],[110.0]
+523.0,94.0,Emmanuel Michel,Air Force,721,2021-22,1,[12],['11/26/2021'],['UNLV'],[123.0]
+523.0,94.0,Micah Davis,Air Force,721,2021-22,1,[1],['09/04/2021'],['Lafayette'],[101.0]
+96.0,18.0,Brad Roberts,Air Force,721,2021-22,3,"[5, 6, 7]","['10/02/2021', '10/09/2021', '10/16/2021']","['New Mexico', 'Wyoming', 'Boise St.']","[142.0, 140.0, 138.0]"
+199.0,34.0,Haaziq Daniels,Air Force,721,2021-22,2,"[3, 4]","['09/18/2021', '09/25/2021']","['Utah St.', 'Fla. Atlantic']","[102.0, 164.0]"
+199.0,34.0,DeAndre Hughes,Air Force,721,2021-22,2,"[10, 11]","['11/13/2021', '11/19/2021']","['Colorado St.', 'Nevada']","[108.0, 208.0]"
+523.0,94.0,Christian Anderson,Army West Point,725,2021-22,1,[4],['09/25/2021'],['Miami (OH)'],[236.0]
+523.0,94.0,Tyrell Robinson,Army West Point,725,2021-22,1,[10],['11/20/2021'],['Massachusetts'],[137.0]
+523.0,94.0,Tyhier Tyler,Army West Point,725,2021-22,1,[7],['10/23/2021'],['Wake Forest'],[104.0]
+523.0,94.0,Carlinos Acie,Navy,726,2021-22,1,[10],['11/20/2021'],['East Carolina'],[155.0]
+199.0,34.0,Calvin Tyler Jr.,Utah St.,731,2021-22,2,"[3, 4]","['09/18/2021', '09/25/2021']","['Air Force', 'Boise St.']","[132.0, 126.0]"
+523.0,94.0,Elelyon Noa,Utah St.,731,2021-22,1,[8],['10/30/2021'],['Hawaii'],[111.0]
+199.0,34.0,T.J. Pledger,Utah,732,2021-22,2,"[9, 10]","['11/05/2021', '11/13/2021']","['Stanford', 'Arizona']","[107.0, 119.0]"
+523.0,94.0,Micah Bernard,Utah,732,2021-22,1,[9],['11/05/2021'],['Stanford'],[110.0]
+199.0,34.0,Tavion Thomas,Utah,732,2021-22,2,"[8, 9]","['10/30/2021', '11/05/2021']","['UCLA', 'Stanford']","[160.0, 177.0]"
+523.0,94.0,Mike Wright,Vanderbilt,736,2021-22,1,[9],['10/30/2021'],['Missouri'],[152.0]
+199.0,34.0,Rocko Griffin,Vanderbilt,736,2021-22,2,"[11, 12]","['11/20/2021', '11/27/2021']","['Ole Miss', 'Tennessee']","[117.0, 104.0]"
+199.0,34.0,Malachi Thomas,Virginia Tech,742,2021-22,2,"[7, 8]","['10/23/2021', '10/30/2021']","['Syracuse', 'Georgia Tech']","[151.0, 103.0]"
+523.0,94.0,Raheem Blackshear,Virginia Tech,742,2021-22,1,[12],['11/27/2021'],['Virginia'],[169.0]
+523.0,94.0,Connor Blumrick,Virginia Tech,742,2021-22,1,[11],['11/20/2021'],['Miami (FL)'],[132.0]
+523.0,94.0,Braxton Burmeister,Virginia Tech,742,2021-22,1,[12],['11/27/2021'],['Virginia'],[115.0]
+199.0,34.0,Max Borghi,Washington St.,754,2021-22,2,"[11, 12]","['11/19/2021', '11/26/2021']","['Arizona', 'Washington']","[139.0, 129.0]"
+523.0,94.0,Sean McGrew,Washington,756,2021-22,1,[8],['10/30/2021'],['Stanford'],[114.0]
+199.0,34.0,Leddie Brown,West Virginia,768,2021-22,2,"[11, 12]","['11/20/2021', '11/27/2021']","['Texas', 'Kansas']","[158.0, 156.0]"
+523.0,94.0,Tony Mathis Jr.,West Virginia,768,2021-22,1,[12],['11/27/2021'],['Kansas'],[118.0]
+523.0,94.0,Garrett Greene,West Virginia,768,2021-22,1,[2],['09/11/2021'],['LIU'],[107.0]
+523.0,94.0,Noah Whittington,Western Ky.,772,2021-22,1,[14],['12/18/2021'],['App State'],[150.0]
+523.0,94.0,La'Darius Jefferson,Western Mich.,774,2021-22,1,[2],['09/11/2021'],['Illinois St.'],[106.0]
+199.0,34.0,Sean Tyler,Western Mich.,774,2021-22,2,"[12, 13]","['11/23/2021', '12/27/2021']","['NIU', 'Nevada']","[115.0, 146.0]"
+523.0,94.0,Jaxson Kincaide,Western Mich.,774,2021-22,1,[13],['12/27/2021'],['Nevada'],[105.0]
+11.0,2.0,Braelon Allen,Wisconsin,796,2021-22,7,"[5, 6, 7, 8, 9, 10, 11]","['10/09/2021', '10/16/2021', '10/23/2021', '10/30/2021', '11/06/2021', '11/13/2021', '11/20/2021']","['Illinois', 'Army West Point', 'Purdue', 'Iowa', 'Rutgers', 'Northwestern', 'Nebraska']","[131.0, 108.0, 140.0, 104.0, 129.0, 173.0, 228.0]"
+199.0,34.0,Chez Mellusi,Wisconsin,796,2021-22,2,"[1, 2]","['09/04/2021', '09/11/2021']","['Penn St.', 'Eastern Mich.']","[121.0, 144.0]"
+523.0,94.0,Levi Williams,Wyoming,811,2021-22,1,[13],['12/21/2021'],['Kent St.'],[200.0]
+523.0,94.0,Titus Swen,Wyoming,811,2021-22,1,[11],['11/20/2021'],['Utah St.'],[169.0]
+523.0,94.0,Xazavian Valladay,Wyoming,811,2021-22,1,[11],['11/20/2021'],['Utah St.'],[145.0]
+523.0,94.0,Malik Willis,Liberty,355,2021-22,1,[7],['10/16/2021'],['ULM'],[157.0]
+523.0,94.0,Shedro Louis,Liberty,355,2021-22,1,[10],['11/06/2021'],['Ole Miss'],[101.0]
+96.0,18.0,DeWayne McBride,UAB,9,2021-22,3,"[9, 10, 11]","['11/06/2021', '11/13/2021', '11/20/2021']","['Louisiana Tech', 'Marshall', 'UTSA']","[210.0, 108.0, 144.0]"
+523.0,94.0,Jermaine Brown Jr.,UAB,9,2021-22,1,[5],['10/02/2021'],['Liberty'],[106.0]
+523.0,94.0,Blake Hester,Akron,5,2021-22,1,[6],['10/09/2021'],['Bowling Green'],[120.0]
+523.0,94.0,Jonzell Norrils,Akron,5,2021-22,1,[8],['10/23/2021'],['Buffalo'],[155.0]
+523.0,94.0,DJ Irons,Akron,5,2021-22,1,[3],['09/18/2021'],['Bryant'],[136.0]
+523.0,94.0,Roydell Williams,Alabama,8,2021-22,1,[4],['09/25/2021'],['Southern Miss.'],[110.0]
+199.0,34.0,Brian Robinson Jr.,Alabama,8,2021-22,2,"[5, 6]","['10/02/2021', '10/09/2021']","['Ole Miss', 'Texas A&M']","[171.0, 147.0]"
+199.0,34.0,Nate Noel,App State,27,2021-22,2,"[8, 9]","['10/30/2021', '11/06/2021']","['ULM', 'Arkansas St.']","[132.0, 122.0]"
+523.0,94.0,Camerun Peoples,App State,27,2021-22,1,[14],['12/18/2021'],['Western Ky.'],[101.0]
+199.0,34.0,Rachaad White,Arizona St.,28,2021-22,2,"[9, 10]","['11/06/2021', '11/13/2021']","['Southern California', 'Washington']","[202.0, 184.0]"
+523.0,94.0,Jayden Daniels,Arizona St.,28,2021-22,1,[2],['09/11/2021'],['UNLV'],[125.0]
+523.0,94.0,Dominique Johnson,Arkansas,31,2021-22,1,[9],['11/06/2021'],['Mississippi St.'],[107.0]
+523.0,94.0,Trelon Smith,Arkansas,31,2021-22,1,[1],['09/04/2021'],['Rice'],[102.0]
+523.0,94.0,Raheim Sanders,Arkansas,31,2021-22,1,[6],['10/09/2021'],['Ole Miss'],[139.0]
+523.0,94.0,KJ Jefferson,Arkansas,31,2021-22,1,[13],['01/01/2022'],['Penn St.'],[110.0]
+96.0,18.0,Tank Bigsby,Auburn,37,2021-22,3,"[1, 2, 3]","['09/04/2021', '09/11/2021', '09/18/2021']","['Akron', 'Alabama St.', 'Penn St.']","[119.0, 122.0, 102.0]"
+199.0,34.0,Jarquez Hunter,Auburn,37,2021-22,2,"[1, 2]","['09/04/2021', '09/11/2021']","['Akron', 'Alabama St.']","[110.0, 147.0]"
+199.0,34.0,Carson Steele,Ball St.,47,2021-22,2,"[9, 10]","['11/02/2021', '11/10/2021']","['Akron', 'NIU']","[154.0, 109.0]"
+54.0,10.0,Abram Smith,Baylor,51,2021-22,4,"[7, 8, 9, 10]","['10/16/2021', '10/30/2021', '11/06/2021', '11/13/2021']","['BYU', 'Texas', 'TCU', 'Oklahoma']","[188.0, 145.0, 125.0, 148.0]"
+523.0,94.0,Taye McWilliams,Baylor,51,2021-22,1,[2],['09/11/2021'],['Texas Southern'],[102.0]
+199.0,34.0,Trestan Ebner,Baylor,51,2021-22,2,"[1, 2]","['09/04/2021', '09/11/2021']","['Texas St.', 'Texas Southern']","[120.0, 125.0]"
+523.0,94.0,Gerry Bohanon,Baylor,51,2021-22,1,[10],['11/13/2021'],['Oklahoma'],[107.0]
+96.0,18.0,George Holani,Boise St.,66,2021-22,3,"[9, 10, 11]","['11/06/2021', '11/12/2021', '11/20/2021']","['Fresno St.', 'Wyoming', 'New Mexico']","[117.0, 102.0, 114.0]"
+199.0,34.0,Patrick Garwo,Boston College,67,2021-22,2,"[9, 10]","['11/05/2021', '11/13/2021']","['Virginia Tech', 'Georgia Tech']","[116.0, 104.0]"
+523.0,94.0,Terion Stewart,Bowling Green,71,2021-22,1,[9],['10/30/2021'],['Buffalo'],[170.0]
+96.0,18.0,Tyler Allgeier,BYU,77,2021-22,3,"[11, 12, 13]","['11/20/2021', '11/27/2021', '12/18/2021']","['Ga. Southern', 'Southern California', 'UAB']","[136.0, 111.0, 192.0]"
+96.0,18.0,Dylan McDuffie,Buffalo,86,2021-22,3,"[7, 8, 9]","['10/16/2021', '10/23/2021', '10/30/2021']","['Ohio', 'Akron', 'Bowling Green']","[143.0, 108.0, 166.0]"
+199.0,34.0,Jordan Mims,Fresno St.,96,2021-22,2,"[8, 9]","['10/23/2021', '10/30/2021']","['Nevada', 'San Diego St.']","[134.0, 186.0]"
+523.0,94.0,Ronnie Rivers,Fresno St.,96,2021-22,1,[4],['09/18/2021'],['UCLA'],[136.0]
+523.0,94.0,Damien Moore,California,107,2021-22,1,[8],['10/30/2021'],['Oregon St.'],[111.0]
+523.0,94.0,Christopher Brooks,California,107,2021-22,1,[11],['11/20/2021'],['Stanford'],[131.0]
+96.0,18.0,Zach Charbonnet,UCLA,110,2021-22,3,"[10, 11, 12]","['11/20/2021', '11/27/2021', '09/25/2021']","['Southern California', 'California', 'Stanford']","[167.0, 106.0, 118.0]"
+523.0,94.0,Brittain Brown,UCLA,110,2021-22,1,[5],['10/09/2021'],['Arizona'],[146.0]
+523.0,94.0,Dorian Thompson-Robinson,UCLA,110,2021-22,1,[11],['11/27/2021'],['California'],[102.0]
+523.0,94.0,Ryan O'Keefe,UCF,128,2021-22,1,[13],['12/23/2021'],['Florida'],[110.0]
+523.0,94.0,Mark-Antony Richards,UCF,128,2021-22,1,[9],['11/13/2021'],['SMU'],[104.0]
+523.0,94.0,Isaiah Bowser,UCF,128,2021-22,1,[13],['12/23/2021'],['Florida'],[155.0]
+523.0,94.0,Johnny Richardson,UCF,128,2021-22,1,[10],['11/20/2021'],['UConn'],[147.0]
+6.0,1.0,Lew Nichols,Central Mich.,129,2021-22,8,"[6, 7, 8, 9, 10, 11, 12, 13]","['10/09/2021', '10/16/2021', '10/23/2021', '11/03/2021', '11/10/2021', '11/17/2021', '11/26/2021', '12/31/2021']","['Ohio', 'Toledo', 'NIU', 'Western Mich.', 'Kent St.', 'Ball St.', 'Eastern Mich.', 'Washington St.']","[186.0, 136.0, 192.0, 163.0, 215.0, 219.0, 194.0, 138.0]"
+199.0,34.0,Jerome Ford,Cincinnati,140,2021-22,2,"[5, 6]","['10/08/2021', '10/16/2021']","['Temple', 'UCF']","[149.0, 189.0]"
+523.0,94.0,Kobe Pace,Clemson,147,2021-22,1,[11],['11/20/2021'],['Wake Forest'],[191.0]
+199.0,34.0,Will Shipley,Clemson,147,2021-22,2,"[11, 12]","['11/20/2021', '11/27/2021']","['Wake Forest', 'South Carolina']","[111.0, 128.0]"
+523.0,94.0,Braydon Bennett,Coastal Carolina,149,2021-22,1,[13],['12/17/2021'],['NIU'],[108.0]
+199.0,34.0,Shermari Jones,Coastal Carolina,149,2021-22,2,"[3, 6]","['09/18/2021', '10/07/2021']","['Buffalo', 'Arkansas St.']","[145.0, 113.0]"
+523.0,94.0,Reese White,Coastal Carolina,149,2021-22,1,[2],['09/10/2021'],['Kansas'],[102.0]
+523.0,94.0,A'Jon Vivens,Colorado St.,156,2021-22,1,[5],['10/09/2021'],['San Jose St.'],[114.0]
+523.0,94.0,David Bailey,Colorado St.,156,2021-22,1,[7],['10/22/2021'],['Utah St.'],[159.0]
+199.0,34.0,Jarek Broussard,Colorado,157,2021-22,2,"[9, 10]","['11/06/2021', '11/13/2021']","['Oregon St.', 'UCLA']","[151.0, 108.0]"
+199.0,34.0,Nate Carter,UConn,164,2021-22,2,"[6, 7]","['10/02/2021', '10/09/2021']","['Vanderbilt', 'Massachusetts']","[123.0, 136.0]"
+54.0,10.0,Mataeo Durant,Duke,193,2021-22,4,"[3, 4, 5, 6]","['09/18/2021', '09/25/2021', '10/02/2021', '10/09/2021']","['Northwestern', 'Kansas', 'North Carolina', 'Georgia Tech']","[102.0, 124.0, 114.0, 152.0]"
+523.0,94.0,Jordan Moore,Duke,193,2021-22,1,[10],['11/13/2021'],['Virginia Tech'],[113.0]
+523.0,94.0,Rahjai Harris,East Carolina,196,2021-22,1,[8],['10/28/2021'],['South Fla.'],[100.0]
+96.0,18.0,Keaton Mitchell,East Carolina,196,2021-22,3,"[3, 4, 5]","['09/18/2021', '09/25/2021', '10/02/2021']","['Marshall', 'Charleston So.', 'Tulane']","[135.0, 125.0, 222.0]"
+523.0,94.0,Darius Boone,Eastern Mich.,204,2021-22,1,[1],['09/03/2021'],['Saint Francis (PA)'],[107.0]
+523.0,94.0,Jawon Hamilton,Eastern Mich.,204,2021-22,1,[11],['11/16/2021'],['Western Mich.'],[179.0]
+199.0,34.0,Johnny Ford,Fla. Atlantic,229,2021-22,2,"[9, 10]","['11/06/2021', '11/13/2021']","['Marshall', 'Old Dominion']","[138.0, 101.0]"
+523.0,94.0,Lexington Joseph,FIU,231,2021-22,1,[12],['11/27/2021'],['Southern Miss.'],[105.0]
+199.0,34.0,D'vonte Price,FIU,231,2021-22,2,"[1, 2]","['09/02/2021', '09/11/2021']","['LIU', 'Texas St.']","[165.0, 111.0]"
+199.0,34.0,Jashaun Corbin,Florida St.,234,2021-22,2,"[1, 2]","['09/05/2021', '09/11/2021']","['Notre Dame', 'Jacksonville St.']","[144.0, 109.0]"
+199.0,34.0,Jordan Travis,Florida St.,234,2021-22,2,"[5, 6]","['10/02/2021', '10/09/2021']","['Syracuse', 'North Carolina']","[113.0, 121.0]"
+523.0,94.0,Malik Davis,Florida,235,2021-22,1,[1],['09/04/2021'],['Fla. Atlantic'],[104.0]
+199.0,34.0,Anthony Richardson,Florida,235,2021-22,2,"[1, 2]","['09/04/2021', '09/11/2021']","['Fla. Atlantic', 'South Fla.']","[160.0, 115.0]"
+523.0,94.0,Emory Jones,Florida,235,2021-22,1,[4],['09/25/2021'],['Tennessee'],[144.0]
+523.0,94.0,Jalen White,Ga. Southern,253,2021-22,1,[5],['10/02/2021'],['Arkansas St.'],[157.0]
+523.0,94.0,Gerald Green,Ga. Southern,253,2021-22,1,[4],['09/25/2021'],['Louisiana'],[186.0]
+523.0,94.0,Logan Wright,Ga. Southern,253,2021-22,1,[8],['10/30/2021'],['Georgia St.'],[113.0]
+523.0,94.0,Tucker Gregg,Georgia St.,254,2021-22,1,[7],['10/23/2021'],['Texas St.'],[115.0]
+199.0,34.0,Jamyest Williams,Georgia St.,254,2021-22,2,"[11, 12]","['11/20/2021', '11/27/2021']","['Arkansas St.', 'Troy']","[125.0, 108.0]"
+523.0,94.0,Darren Grainger,Georgia St.,254,2021-22,1,[13],['12/25/2021'],['Ball St.'],[122.0]
+523.0,94.0,Jahmyr Gibbs,Georgia Tech,255,2021-22,1,[12],['10/23/2021'],['Virginia'],[132.0]
+523.0,94.0,Jeff Sims,Georgia Tech,255,2021-22,1,[4],['09/25/2021'],['North Carolina'],[128.0]
+523.0,94.0,James Cook,Georgia,257,2021-22,1,[10],['11/13/2021'],['Tennessee'],[104.0]
+523.0,94.0,Zamir White,Georgia,257,2021-22,1,[8],['10/30/2021'],['Florida'],[105.0]
+199.0,34.0,Dae Dae Hunter,Hawaii,277,2021-22,2,"[6, 7]","['10/02/2021', '10/16/2021']","['Fresno St.', 'Nevada']","[127.0, 174.0]"
+523.0,94.0,Dedrick Parson,Hawaii,277,2021-22,1,[8],['10/23/2021'],['New Mexico St.'],[161.0]
+523.0,94.0,Ta'Zhawn Henry,Houston,288,2021-22,1,[9],['11/06/2021'],['South Fla.'],[130.0]
+199.0,34.0,Alton McCaskill,Houston,288,2021-22,2,"[9, 10]","['11/06/2021', '11/13/2021']","['South Fla.', 'Temple']","[125.0, 129.0]"
+523.0,94.0,Chase Brown,Illinois,301,2021-22,1,[12],['11/27/2021'],['Northwestern'],[112.0]
+523.0,94.0,Josh McCray,Illinois,301,2021-22,1,[8],['10/23/2021'],['Penn St.'],[142.0]
+523.0,94.0,Stephen Carr,Indiana,306,2021-22,1,[8],['10/30/2021'],['Maryland'],[136.0]
+54.0,10.0,Breece Hall,Iowa St.,311,2021-22,4,"[3, 4, 5, 6]","['09/18/2021', '09/25/2021', '10/02/2021', '10/16/2021']","['UNLV', 'Baylor', 'Kansas', 'Kansas St.']","[100.0, 190.0, 123.0, 197.0]"
+199.0,34.0,Tyler Goodson,Iowa,312,2021-22,2,"[11, 12]","['11/20/2021', '11/26/2021']","['Illinois', 'Nebraska']","[132.0, 156.0]"
+18.0,4.0,Deuce Vaughn,Kansas St.,327,2021-22,6,"[8, 9, 10, 11, 12, 13]","['10/30/2021', '11/06/2021', '11/13/2021', '11/20/2021', '11/26/2021', '01/04/2022']","['TCU', 'Kansas', 'West Virginia', 'Baylor', 'Texas', 'LSU']","[109.0, 162.0, 121.0, 128.0, 143.0, 146.0]"
+523.0,94.0,Devin Neal,Kansas,328,2021-22,1,[10],['11/13/2021'],['Texas'],[143.0]
+523.0,94.0,Jason Bean,Kansas,328,2021-22,1,[2],['09/10/2021'],['Coastal Carolina'],[100.0]
+199.0,34.0,Marquez Cooper,Kent St.,331,2021-22,2,"[11, 12]","['11/20/2021', '11/27/2021']","['Akron', 'Miami (OH)']","[135.0, 126.0]"
+523.0,94.0,Bryan Bradford,Kent St.,331,2021-22,1,[14],['12/21/2021'],['Wyoming'],[109.0]
+523.0,94.0,Xavier Williams,Kent St.,331,2021-22,1,[12],['11/27/2021'],['Miami (OH)'],[168.0]
+523.0,94.0,Dustin Crum,Kent St.,331,2021-22,1,[11],['11/20/2021'],['Akron'],[114.0]
+523.0,94.0,Kavosiey Smoke,Kentucky,334,2021-22,1,[6],['10/09/2021'],['LSU'],[104.0]
+31.0,6.0,Christopher Rodriguez Jr.,Kentucky,334,2021-22,5,"[9, 10, 11, 12, 13]","['11/06/2021', '11/13/2021', '11/20/2021', '11/27/2021', '01/01/2022']","['Tennessee', 'Vanderbilt', 'New Mexico St.', 'Louisville', 'Iowa']","[109.0, 114.0, 119.0, 121.0, 107.0]"
+523.0,94.0,Will Levis,Kentucky,334,2021-22,1,[12],['11/27/2021'],['Louisville'],[113.0]
+199.0,34.0,Tyrion Davis-Price,LSU,365,2021-22,2,"[9, 10]","['11/06/2021', '11/13/2021']","['Alabama', 'Arkansas']","[104.0, 106.0]"
+523.0,94.0,Marcus Williams Jr.,Louisiana Tech,366,2021-22,1,[10],['11/13/2021'],['Charlotte'],[131.0]
+523.0,94.0,Trey Cooley,Louisville,367,2021-22,1,[7],['10/23/2021'],['Boston College'],[112.0]
+523.0,94.0,Hassan Hall,Louisville,367,2021-22,1,[6],['10/09/2021'],['Virginia'],[162.0]
+523.0,94.0,Jalen Mitchell,Louisville,367,2021-22,1,[10],['11/13/2021'],['Syracuse'],[102.0]
+523.0,94.0,Malik Cunningham,Louisville,367,2021-22,1,[11],['11/18/2021'],['Duke'],[224.0]
+199.0,34.0,Rasheen Ali,Marshall,388,2021-22,2,"[7, 8]","['10/15/2021', '10/30/2021']","['North Texas', 'FIU']","[109.0, 133.0]"
+523.0,94.0,Tayon Fleet-Davis,Maryland,392,2021-22,1,[12],['11/27/2021'],['Rutgers'],[152.0]
+31.0,6.0,Ellis Merriweather,Massachusetts,400,2021-22,5,"[8, 9, 10, 11, 12]","['10/30/2021', '11/06/2021', '11/13/2021', '11/20/2021', '11/27/2021']","['Liberty', 'Rhode Island', 'Maine', 'Army West Point', 'New Mexico St.']","[149.0, 118.0, 177.0, 110.0, 168.0]"
+199.0,34.0,Brandon Thomas,Memphis,404,2021-22,2,"[1, 2]","['09/04/2021', '09/11/2021']","['Nicholls', 'Arkansas St.']","[147.0, 191.0]"
+199.0,34.0,Cam'Ron Harris,Miami (FL),415,2021-22,2,"[4, 5]","['09/25/2021', '09/30/2021']","['Central Conn. St.', 'Virginia']","[100.0, 111.0]"
+523.0,94.0,Jaylan Knighton,Miami (FL),415,2021-22,1,[9],['11/06/2021'],['Georgia Tech'],[162.0]
+523.0,94.0,Jordon Simmons,Michigan St.,416,2021-22,1,[2],['09/11/2021'],['Youngstown St.'],[121.0]
+96.0,18.0,Kenneth Walker III,Michigan St.,416,2021-22,3,"[8, 9, 10]","['10/30/2021', '11/06/2021', '11/13/2021']","['Michigan', 'Purdue', 'Maryland']","[197.0, 136.0, 143.0]"
+96.0,18.0,Blake Corum,Michigan,418,2021-22,3,"[1, 2, 3]","['09/04/2021', '09/11/2021', '09/18/2021']","['Western Mich.', 'Washington', 'NIU']","[111.0, 171.0, 125.0]"
+199.0,34.0,Hassan Haskins,Michigan,418,2021-22,2,"[9, 10]","['11/06/2021', '11/13/2021']","['Indiana', 'Penn St.']","[168.0, 156.0]"
+523.0,94.0,Chaton Mobley,Middle Tenn.,419,2021-22,1,[5],['10/02/2021'],['Marshall'],[132.0]
+199.0,34.0,Ky Thomas,Minnesota,428,2021-22,2,"[10, 11]","['11/13/2021', '11/20/2021']","['Iowa', 'Indiana']","[126.0, 105.0]"
+96.0,18.0,Trey Potts,Minnesota,428,2021-22,3,"[2, 3, 4]","['09/11/2021', '09/18/2021', '09/25/2021']","['Miami (OH)', 'Colorado', 'Bowling Green']","[178.0, 121.0, 141.0]"
+523.0,94.0,Bryce Williams,Minnesota,428,2021-22,1,[6],['10/16/2021'],['Nebraska'],[127.0]
+199.0,34.0,Bucky Irving,Minnesota,428,2021-22,2,"[7, 8]","['10/23/2021', '10/30/2021']","['Maryland', 'Northwestern']","[105.0, 110.0]"
+523.0,94.0,Mohamed Ibrahim,Minnesota,428,2021-22,1,[1],['09/02/2021'],['Ohio St.'],[163.0]
+523.0,94.0,Snoop Conner,Ole Miss,433,2021-22,1,[7],['10/23/2021'],['LSU'],[117.0]
+523.0,94.0,Henry Parrish Jr.,Ole Miss,433,2021-22,1,[5],['10/09/2021'],['Arkansas'],[111.0]
+199.0,34.0,Jerrion Ealy,Ole Miss,433,2021-22,2,"[9, 10]","['11/06/2021', '11/13/2021']","['Liberty', 'Texas A&M']","[115.0, 152.0]"
+523.0,94.0,Matt Corral,Ole Miss,433,2021-22,1,[6],['10/16/2021'],['Tennessee'],[195.0]
+96.0,18.0,Tyler Badie,Missouri,434,2021-22,3,"[10, 11, 12]","['11/13/2021', '11/20/2021', '11/26/2021']","['South Carolina', 'Florida', 'Arkansas']","[209.0, 146.0, 219.0]"
+523.0,94.0,Ty Chandler,North Carolina,457,2021-22,1,[9],['11/06/2021'],['Wake Forest'],[213.0]
+199.0,34.0,Sam Howell,North Carolina,457,2021-22,2,"[8, 9]","['10/30/2021', '11/06/2021']","['Notre Dame', 'Wake Forest']","[101.0, 104.0]"
+523.0,94.0,British Brooks,North Carolina,457,2021-22,1,[12],['11/26/2021'],['NC State'],[124.0]
+523.0,94.0,Calvin Camp,Charlotte,458,2021-22,1,[4],['09/24/2021'],['Middle Tenn.'],[101.0]
+523.0,94.0,Markese Stepp,Nebraska,463,2021-22,1,[2],['09/04/2021'],['Fordham'],[101.0]
+523.0,94.0,Jaquez Yant,Nebraska,463,2021-22,1,[6],['10/02/2021'],['Northwestern'],[127.0]
+523.0,94.0,Adrian Martinez,Nebraska,463,2021-22,1,[3],['09/11/2021'],['Buffalo'],[112.0]
+523.0,94.0,Charles Williams,UNLV,465,2021-22,1,[12],['11/26/2021'],['Air Force'],[137.0]
+523.0,94.0,Toa Taua,Nevada,466,2021-22,1,[4],['10/02/2021'],['Boise St.'],[124.0]
+523.0,94.0,Juwaun Price,New Mexico St.,472,2021-22,1,[12],['11/27/2021'],['Massachusetts'],[156.0]
+523.0,94.0,Bobby Cole,New Mexico,473,2021-22,1,[2],['09/11/2021'],['New Mexico St.'],[107.0]
+523.0,94.0,Aaron Dumas,New Mexico,473,2021-22,1,[10],['11/13/2021'],['Fresno St.'],[143.0]
+523.0,94.0,Zonovan Knight,NC State,490,2021-22,1,[3],['09/18/2021'],['Furman'],[104.0]
+523.0,94.0,Ricky Person,NC State,490,2021-22,1,[1],['09/02/2021'],['South Fla.'],[105.0]
+523.0,94.0,Isaiah Johnson,North Texas,497,2021-22,1,[9],['11/06/2021'],['Southern Miss.'],[119.0]
+199.0,34.0,Ikaika Ragsdale,North Texas,497,2021-22,2,"[11, 12]","['11/20/2021', '11/27/2021']","['FIU', 'UTSA']","[102.0, 146.0]"
+199.0,34.0,DeAndre Torrey,North Texas,497,2021-22,2,"[11, 12]","['11/20/2021', '11/27/2021']","['FIU', 'UTSA']","[109.0, 108.0]"
+523.0,94.0,Andrew Henry,ULM,498,2021-22,1,[3],['09/25/2021'],['Troy'],[105.0]
+523.0,94.0,Malik Jackson,ULM,498,2021-22,1,[12],['11/27/2021'],['Louisiana'],[112.0]
+523.0,94.0,Antario Brown,NIU,503,2021-22,1,[14],['12/17/2021'],['Coastal Carolina'],[105.0]
+523.0,94.0,Rocky Lombardi,NIU,503,2021-22,1,[4],['09/25/2021'],['Maine'],[119.0]
+54.0,10.0,Jay Ducker,NIU,503,2021-22,4,"[7, 8, 9, 10]","['10/16/2021', '10/23/2021', '11/03/2021', '11/10/2021']","['Bowling Green', 'Central Mich.', 'Kent St.', 'Ball St.']","[210.0, 183.0, 101.0, 155.0]"
+199.0,34.0,Harrison Waylee,NIU,503,2021-22,2,"[1, 2]","['09/04/2021', '09/11/2021']","['Georgia Tech', 'Wyoming']","[144.0, 179.0]"
+523.0,94.0,Evan Hull,Northwestern,509,2021-22,1,[12],['11/27/2021'],['Illinois'],[101.0]
+199.0,34.0,Kyren Williams,Notre Dame,513,2021-22,2,"[7, 8]","['10/23/2021', '10/30/2021']","['Southern California', 'North Carolina']","[138.0, 199.0]"
+523.0,94.0,Miyan Williams,Ohio St.,518,2021-22,1,[10],['11/13/2021'],['Purdue'],[117.0]
+523.0,94.0,TreVeyon Henderson,Ohio St.,518,2021-22,1,[8],['10/30/2021'],['Penn St.'],[152.0]
+523.0,94.0,Armani Rogers,Ohio,519,2021-22,1,[7],['10/16/2021'],['Buffalo'],[183.0]
+523.0,94.0,De'Montre Tuggle,Ohio,519,2021-22,1,[5],['10/02/2021'],['Akron'],[201.0]
+523.0,94.0,Spencer Sanders,Oklahoma St.,521,2021-22,1,[15],['01/01/2022'],['Notre Dame'],[125.0]
+523.0,94.0,Dominic Richardson,Oklahoma St.,521,2021-22,1,[13],['11/13/2021'],['TCU'],[134.0]
+54.0,10.0,Jaylen Warren,Oklahoma St.,521,2021-22,4,"[3, 4, 5, 6]","['09/18/2021', '09/25/2021', '10/02/2021', '10/16/2021']","['Boise St.', 'Kansas St.', 'Baylor', 'Texas']","[218.0, 123.0, 125.0, 193.0]"
+96.0,18.0,Kennedy Brooks,Oklahoma,522,2021-22,3,"[11, 12, 13]","['11/20/2021', '11/27/2021', '12/29/2021']","['Iowa St.', 'Oklahoma St.', 'Oregon']","[115.0, 139.0, 142.0]"
+523.0,94.0,Elijah Davis,Old Dominion,523,2021-22,1,[9],['11/06/2021'],['FIU'],[114.0]
+523.0,94.0,Jon-Luke Peaker,Old Dominion,523,2021-22,1,[2],['09/11/2021'],['Hampton'],[141.0]
+31.0,6.0,Blake Watson,Old Dominion,523,2021-22,5,"[6, 7, 8, 9, 10]","['10/09/2021', '10/16/2021', '10/30/2021', '11/06/2021', '11/13/2021']","['Marshall', 'Western Ky.', 'Louisiana Tech', 'FIU', 'Fla. Atlantic']","[168.0, 104.0, 108.0, 158.0, 163.0]"
+54.0,10.0,B.J. Baylor,Oregon St.,528,2021-22,4,"[4, 5, 6, 7]","['09/25/2021', '10/02/2021', '10/09/2021', '10/23/2021']","['Southern California', 'Washington', 'Washington St.', 'Utah']","[158.0, 111.0, 145.0, 152.0]"
+523.0,94.0,Deshaun Fenwick,Oregon St.,528,2021-22,1,[6],['10/09/2021'],['Washington St.'],[127.0]
+523.0,94.0,CJ Verdell,Oregon,529,2021-22,1,[2],['09/11/2021'],['Ohio St.'],[161.0]
+523.0,94.0,Travis Dye,Oregon,529,2021-22,1,[14],['12/29/2021'],['Oklahoma'],[153.0]
+523.0,94.0,Byron Cardwell,Oregon,529,2021-22,1,[8],['10/30/2021'],['Colorado'],[127.0]
+523.0,94.0,Anthony Brown,Oregon,529,2021-22,1,[10],['11/13/2021'],['Washington St.'],[123.0]
+523.0,94.0,Vincent Davis,Pittsburgh,545,2021-22,1,[11],['11/20/2021'],['Virginia'],[100.0]
+523.0,94.0,Israel Abanikanda,Pittsburgh,545,2021-22,1,[6],['10/16/2021'],['Virginia Tech'],[140.0]
+523.0,94.0,Rodney Hammond Jr.,Pittsburgh,545,2021-22,1,[4],['09/25/2021'],['New Hampshire'],[100.0]
+523.0,94.0,Jordan Myers,Rice,574,2021-22,1,[4],['09/25/2021'],['Texas Southern'],[160.0]
+523.0,94.0,Ari Broussard,Rice,574,2021-22,1,[9],['11/06/2021'],['Charlotte'],[186.0]
+523.0,94.0,Isaih Pacheco,Rutgers,587,2021-22,1,[4],['09/25/2021'],['Michigan'],[107.0]
+96.0,18.0,Greg Bell,San Diego St.,626,2021-22,3,"[1, 2, 3]","['09/04/2021', '09/11/2021', '09/18/2021']","['New Mexico St.', 'Arizona', 'Utah']","[161.0, 125.0, 119.0]"
+523.0,73.0,DeWayne McBride,UAB,9,2020-21,1,[8],['10/31/2020'],['Louisiana Tech'],[133.0]
+96.0,8.0,Spencer Brown,UAB,9,2020-21,3,"[7, 8, 9]","['10/23/2020', '10/31/2020', '12/18/2020']","['Louisiana', 'Louisiana Tech', 'Marshall']","[128.0, 140.0, 149.0]"
+199.0,23.0,Teon Dollard,Akron,5,2020-21,2,"[1, 2]","['11/17/2020', '12/05/2020']","['Kent St.', 'Bowling Green']","[202.0, 185.0]"
+199.0,23.0,Najee Harris,Alabama,8,2020-21,2,"[11, 12]","['12/19/2020', '01/01/2021']","['Florida', 'Notre Dame']","[178.0, 125.0]"
+523.0,73.0,Marcus Williams Jr.,App State,27,2020-21,1,[12],['12/21/2020'],['North Texas'],[101.0]
+523.0,73.0,Zac Thomas,App State,27,2020-21,1,[7],['10/31/2020'],['ULM'],[109.0]
+523.0,73.0,Nate Noel,App State,27,2020-21,1,[5],['12/12/2020'],['Ga. Southern'],[103.0]
+523.0,73.0,Camerun Peoples,App State,27,2020-21,1,[12],['12/21/2020'],['North Texas'],[317.0]
+199.0,23.0,Daetrich Harrington,App State,27,2020-21,2,"[3, 6]","['09/26/2020', '10/22/2020']","['Campbell', 'Arkansas St.']","[211.0, 137.0]"
+523.0,73.0,Jayden Daniels,Arizona St.,28,2020-21,1,[1],['11/07/2020'],['Southern California'],[111.0]
+523.0,73.0,DeaMonte Trayanum,Arizona St.,28,2020-21,1,[2],['12/05/2020'],['UCLA'],[108.0]
+199.0,23.0,Rachaad White,Arizona St.,28,2020-21,2,"[3, 4]","['12/11/2020', '12/19/2020']","['Arizona', 'Oregon St.']","[133.0, 158.0]"
+199.0,23.0,Gary Brightwell,Arizona,29,2020-21,2,"[1, 2]","['11/14/2020', '12/05/2020']","['Southern California', 'Colorado']","[112.0, 117.0]"
+523.0,73.0,Michael Wiley,Arizona,29,2020-21,1,[2],['12/05/2020'],['Colorado'],[122.0]
+523.0,73.0,Lincoln Pare,Arkansas St.,30,2020-21,1,[8],['11/07/2020'],['Louisiana'],[121.0]
+523.0,73.0,Jamal Jones,Arkansas St.,30,2020-21,1,[10],['11/21/2020'],['Texas St.'],[106.0]
+523.0,73.0,Trelon Smith,Arkansas,31,2020-21,1,[8],['12/05/2020'],['Missouri'],[172.0]
+523.0,73.0,Rakeem Boyd,Arkansas,31,2020-21,1,[4],['10/31/2020'],['Texas A&M'],[100.0]
+96.0,8.0,Tank Bigsby,Auburn,37,2020-21,3,"[3, 4, 5]","['10/10/2020', '10/17/2020', '10/24/2020']","['Arkansas', 'South Carolina', 'Ole Miss']","[146.0, 111.0, 129.0]"
+96.0,8.0,Caleb Huntley,Ball St.,47,2020-21,3,"[1, 4, 5]","['11/11/2020', '11/04/2020', '11/18/2020']","['Eastern Mich.', 'Miami (OH)', 'NIU']","[204.0, 130.0, 103.0]"
+523.0,73.0,Tye Evans,Ball St.,47,2020-21,1,[3],['11/28/2020'],['Toledo'],[101.0]
+523.0,73.0,Andrew Van Buren,Boise St.,66,2020-21,1,[1],['11/21/2020'],['Hawaii'],[113.0]
+523.0,73.0,George Holani,Boise St.,66,2020-21,1,[3],['10/24/2020'],['Utah St.'],[100.0]
+523.0,73.0,David Bailey,Boston College,67,2020-21,1,[7],['11/07/2020'],['Syracuse'],[125.0]
+523.0,73.0,Andrew Clair,Bowling Green,71,2020-21,1,[5],['11/28/2020'],['Ohio'],[118.0]
+523.0,73.0,Terion Stewart,Bowling Green,71,2020-21,1,[4],['11/10/2020'],['Kent St.'],[162.0]
+96.0,8.0,Tyler Allgeier,BYU,77,2020-21,3,"[13, 14, 15]","['10/10/2020', '12/05/2020', '12/22/2020']","['UTSA', 'Coastal Carolina', 'UCF']","[116.0, 106.0, 173.0]"
+199.0,23.0,Jaret Patterson,Buffalo,86,2020-21,2,"[4, 5]","['11/17/2020', '11/28/2020']","['Bowling Green', 'Kent St.']","[301.0, 409.0]"
+523.0,73.0,Kevin Marks,Buffalo,86,2020-21,1,[7],['12/25/2020'],['Marshall'],[138.0]
+199.0,23.0,Ronnie Rivers,Fresno St.,96,2020-21,2,"[3, 4]","['11/07/2020', '11/14/2020']","['UNLV', 'Utah St.']","[133.0, 132.0]"
+523.0,73.0,Damien Moore,California,107,2020-21,1,[2],['11/27/2020'],['Stanford'],[121.0]
+199.0,23.0,Demetric Felton,UCLA,110,2020-21,2,"[3, 4]","['11/21/2020', '11/28/2020']","['Oregon', 'Arizona']","[167.0, 206.0]"
+523.0,73.0,Dorian Thompson-Robinson,UCLA,110,2020-21,1,[2],['11/07/2020'],['Colorado'],[109.0]
+523.0,73.0,Brittain Brown,UCLA,110,2020-21,1,[7],['12/19/2020'],['Stanford'],[219.0]
+523.0,73.0,Otis Anderson,UCF,128,2020-21,1,[6],['10/31/2020'],['Houston'],[170.0]
+199.0,23.0,Greg McCrae,UCF,128,2020-21,2,"[5, 6]","['10/24/2020', '10/31/2020']","['Tulane', 'Houston']","[162.0, 107.0]"
+523.0,73.0,Bentavious Thompson,UCF,128,2020-21,1,[9],['11/27/2020'],['South Fla.'],[110.0]
+523.0,73.0,Lew Nichols,Central Mich.,129,2020-21,1,[3],['12/12/2020'],['Toledo'],[101.0]
+523.0,73.0,Kalil Pimpleton,Central Mich.,129,2020-21,1,[2],['11/18/2020'],['Western Mich.'],[108.0]
+199.0,23.0,Kobe Lewis,Central Mich.,129,2020-21,2,"[1, 2]","['11/27/2020', '11/18/2020']","['Eastern Mich.', 'Western Mich.']","[106.0, 114.0]"
+199.0,23.0,Gerrid Doaks,Cincinnati,140,2020-21,2,"[2, 3]","['10/03/2020', '10/24/2020']","['South Fla.', 'SMU']","[102.0, 105.0]"
+523.0,73.0,Jerome Ford,Cincinnati,140,2020-21,1,[4],['10/31/2020'],['Memphis'],[116.0]
+523.0,73.0,Desmond Ridder,Cincinnati,140,2020-21,1,[5],['11/07/2020'],['Houston'],[103.0]
+523.0,73.0,Travis Etienne,Clemson,147,2020-21,1,[11],['12/19/2020'],['Notre Dame'],[124.0]
+96.0,8.0,CJ Marable,Coastal Carolina,149,2020-21,3,"[9, 10, 11]","['11/28/2020', '12/12/2020', '12/05/2020']","['Texas St.', 'Troy', 'BYU']","[157.0, 120.0, 132.0]"
+96.0,8.0,Jarek Broussard,Colorado,157,2020-21,3,"[3, 4, 5]","['12/05/2020', '11/07/2020', '11/28/2020']","['Arizona', 'UCLA', 'San Diego St.']","[301.0, 187.0, 124.0]"
+199.0,23.0,Mataeo Durant,Duke,193,2020-21,2,"[5, 6]","['10/31/2020', '11/07/2020']","['Charlotte', 'North Carolina']","[104.0, 132.0]"
+523.0,73.0,Deon Jackson,Duke,193,2020-21,1,[5],['10/31/2020'],['Charlotte'],[101.0]
+96.0,8.0,Rahjai Harris,East Carolina,196,2020-21,3,"[3, 4, 5]","['10/10/2020', '10/17/2020', '10/30/2020']","['South Fla.', 'Navy', 'Tulsa']","[115.0, 172.0, 118.0]"
+199.0,23.0,Keaton Mitchell,East Carolina,196,2020-21,2,"[7, 8]","['11/13/2020', '11/21/2020']","['Cincinnati', 'Temple']","[124.0, 103.0]"
+523.0,73.0,Preston Hutchinson,Eastern Mich.,204,2020-21,1,[2],['11/11/2020'],['Ball St.'],[104.0]
+523.0,73.0,Darius Boone,Eastern Mich.,204,2020-21,1,[4],['12/05/2020'],['Western Mich.'],[148.0]
+523.0,73.0,Javion Posey,Fla. Atlantic,229,2020-21,1,[6],['11/13/2020'],['FIU'],[182.0]
+523.0,73.0,Malcolm Davidson,Fla. Atlantic,229,2020-21,1,[4],['10/31/2020'],['UTSA'],[115.0]
+523.0,73.0,Shaun Peterson Jr.,FIU,231,2020-21,1,[2],['10/10/2020'],['Middle Tenn.'],[117.0]
+54.0,4.0,D'vonte Price,FIU,231,2020-21,4,"[1, 2, 3, 4]","['09/26/2020', '10/10/2020', '11/13/2020', '11/21/2020']","['Liberty', 'Middle Tenn.', 'Fla. Atlantic', 'Western Ky.']","[148.0, 112.0, 178.0, 100.0]"
+523.0,73.0,La'Damian Webb,Florida St.,234,2020-21,1,[11],['10/17/2020'],['North Carolina'],[109.0]
+523.0,73.0,Lawrance Toafili,Florida St.,234,2020-21,1,[7],['12/12/2020'],['Duke'],[117.0]
+523.0,73.0,Jordan Travis,Florida St.,234,2020-21,1,[11],['10/17/2020'],['North Carolina'],[107.0]
+523.0,73.0,Gerald Green,Ga. Southern,253,2020-21,1,[13],['12/23/2020'],['Louisiana Tech'],[108.0]
+199.0,23.0,J.D. King,Ga. Southern,253,2020-21,2,"[2, 3]","['09/26/2020', '10/03/2020']","['Louisiana', 'ULM']","[100.0, 196.0]"
+523.0,73.0,Logan Wright,Ga. Southern,253,2020-21,1,[10],['11/28/2020'],['Georgia St.'],[143.0]
+523.0,73.0,Shai Werts,Ga. Southern,253,2020-21,1,[8],['11/14/2020'],['Texas St.'],[131.0]
+523.0,73.0,Wesley Kennedy III,Ga. Southern,253,2020-21,1,[12],['10/17/2020'],['Massachusetts'],[106.0]
+96.0,8.0,Destin Coates,Georgia St.,254,2020-21,3,"[1, 2, 4]","['09/19/2020', '10/03/2020', '10/24/2020']","['Louisiana', 'East Carolina', 'Troy']","[150.0, 113.0, 115.0]"
+523.0,73.0,Tucker Gregg,Georgia St.,254,2020-21,1,[3],['10/15/2020'],['Arkansas St.'],[142.0]
+523.0,73.0,Jeff Sims,Georgia Tech,255,2020-21,1,[9],['11/28/2020'],['Duke'],[108.0]
+523.0,73.0,Jordan Mason,Georgia Tech,255,2020-21,1,[9],['11/28/2020'],['Duke'],[105.0]
+523.0,73.0,Jahmyr Gibbs,Georgia Tech,255,2020-21,1,[3],['09/26/2020'],['Syracuse'],[105.0]
+523.0,73.0,James Cook,Georgia,257,2020-21,1,[9],['11/28/2020'],['South Carolina'],[104.0]
+523.0,73.0,Daijun Edwards,Georgia,257,2020-21,1,[7],['12/12/2020'],['Missouri'],[103.0]
+96.0,8.0,Zamir White,Georgia,257,2020-21,3,"[5, 6, 7]","['10/31/2020', '11/07/2020', '12/12/2020']","['Kentucky', 'Florida', 'Missouri']","[136.0, 107.0, 126.0]"
+523.0,73.0,Chevan Cordeiro,Hawaii,277,2020-21,1,[1],['10/24/2020'],['Fresno St.'],[116.0]
+523.0,73.0,Miles Reed,Hawaii,277,2020-21,1,[1],['10/24/2020'],['Fresno St.'],[109.0]
+523.0,73.0,Clayton Tune,Houston,288,2020-21,1,[7],['11/14/2020'],['South Fla.'],[120.0]
+523.0,73.0,Chase Brown,Illinois,301,2020-21,1,[7],['11/14/2020'],['Rutgers'],[131.0]
+523.0,73.0,Mike Epstein,Illinois,301,2020-21,1,[6],['11/07/2020'],['Minnesota'],[108.0]
+199.0,23.0,Isaiah Williams,Illinois,301,2020-21,2,"[7, 8]","['11/14/2020', '12/19/2020']","['Rutgers', 'Penn St.']","[192.0, 102.0]"
+523.0,73.0,Tim Baldwin Jr.,Indiana,306,2020-21,1,[4],['11/28/2020'],['Maryland'],[106.0]
+6.0,1.0,Breece Hall,Iowa St.,311,2020-21,8,"[1, 2, 3, 4, 5, 6, 7, 8]","['09/12/2020', '09/26/2020', '10/03/2020', '10/10/2020', '10/24/2020', '10/31/2020', '11/07/2020', '11/21/2020']","['Louisiana', 'TCU', 'Oklahoma', 'Texas Tech', 'Oklahoma St.', 'Kansas', 'Baylor', 'Kansas St.']","[103.0, 154.0, 139.0, 135.0, 185.0, 185.0, 133.0, 135.0]"
+523.0,73.0,Mekhi Sargent,Iowa,312,2020-21,1,[6],['11/21/2020'],['Penn St.'],[101.0]
+199.0,23.0,Tyler Goodson,Iowa,312,2020-21,2,"[4, 5]","['11/07/2020', '11/13/2020']","['Michigan St.', 'Minnesota']","[113.0, 142.0]"
+199.0,23.0,Deuce Vaughn,Kansas St.,327,2020-21,2,"[8, 9]","['11/28/2020', '12/05/2020']","['Baylor', 'Texas']","[102.0, 125.0]"
+523.0,73.0,Will Howard,Kansas St.,327,2020-21,1,[6],['11/07/2020'],['Oklahoma St.'],[125.0]
+523.0,73.0,Amauri Pesek-Hickson,Kansas,328,2020-21,1,[8],['11/28/2020'],['TCU'],[100.0]
+523.0,73.0,Bryan Bradford,Kent St.,331,2020-21,1,[4],['11/10/2020'],['Bowling Green'],[113.0]
+523.0,73.0,Marquez Cooper,Kent St.,331,2020-21,1,[2],['11/17/2020'],['Akron'],[107.0]
+523.0,73.0,Dustin Crum,Kent St.,331,2020-21,1,[2],['11/17/2020'],['Akron'],[104.0]
+199.0,23.0,Christopher Rodriguez Jr.,Kentucky,334,2020-21,2,"[7, 10]","['11/14/2020', '12/05/2020']","['Vanderbilt', 'South Carolina']","[149.0, 139.0]"
+199.0,23.0,Asim Rose,Kentucky,334,2020-21,2,"[10, 11]","['12/05/2020', '01/02/2021']","['South Carolina', 'NC State']","[101.0, 148.0]"
+523.0,73.0,Terry Wilson Jr.,Kentucky,334,2020-21,1,[2],['10/03/2020'],['Ole Miss'],[129.0]
+523.0,73.0,Tyrion Davis-Price,LSU,365,2020-21,1,[8],['11/21/2020'],['Arkansas'],[104.0]
+523.0,73.0,John Emery Jr.,LSU,365,2020-21,1,[2],['10/03/2020'],['Vanderbilt'],[103.0]
+523.0,73.0,Israel Tucker,Louisiana Tech,366,2020-21,1,[11],['12/23/2020'],['Ga. Southern'],[123.0]
+523.0,73.0,Malik Cunningham,Louisville,367,2020-21,1,[9],['11/28/2020'],['Boston College'],[133.0]
+523.0,73.0,Jalen Mitchell,Louisville,367,2020-21,1,[10],['12/12/2020'],['Wake Forest'],[168.0]
+96.0,8.0,Javian Hawkins,Louisville,367,2020-21,3,"[4, 5, 6]","['10/09/2020', '10/24/2020', '10/31/2020']","['Georgia Tech', 'Florida St.', 'Virginia Tech']","[155.0, 174.0, 129.0]"
+54.0,4.0,Brenden Knox,Marshall,388,2020-21,4,"[2, 3, 4, 5]","['09/19/2020', '10/10/2020', '10/17/2020', '10/24/2020']","['App State', 'Western Ky.', 'Louisiana Tech', 'Fla. Atlantic']","[138.0, 107.0, 125.0, 101.0]"
+199.0,23.0,Jake Funk,Maryland,392,2020-21,2,"[2, 4]","['10/30/2020', '10/30/2020']","['Minnesota', 'Minnesota']","[221.0, 221.0]"
+523.0,73.0,Kylan Watkins,Memphis,404,2020-21,1,[10],['11/21/2020'],['SFA'],[100.0]
+199.0,23.0,Rodrigues Clark,Memphis,404,2020-21,2,"[4, 5]","['10/17/2020', '10/24/2020']","['UCF', 'Temple']","[112.0, 106.0]"
+523.0,73.0,D'Eriq King,Miami (FL),415,2020-21,1,[7],['11/06/2020'],['NC State'],[105.0]
+199.0,23.0,Cam'Ron Harris,Miami (FL),415,2020-21,2,"[1, 2]","['09/10/2020', '09/19/2020']","['UAB', 'Louisville']","[134.0, 134.0]"
+199.0,23.0,Hassan Haskins,Michigan,418,2020-21,2,"[2, 3]","['11/28/2020', '11/22/2020']","['Penn St.', 'Rutgers']","[101.0, 111.0]"
+523.0,73.0,Chaton Mobley,Middle Tenn.,419,2020-21,1,[6],['10/17/2020'],['North Texas'],[156.0]
+523.0,73.0,Asher O'Hara,Middle Tenn.,419,2020-21,1,[5],['10/10/2020'],['FIU'],[106.0]
+6.0,1.0,Mohamed Ibrahim,Minnesota,428,2020-21,8,"[1, 2, 3, 4, 5, 6, 7, 8]","['11/13/2020', '12/12/2020', '11/20/2020', '10/30/2020', '10/24/2020', '10/30/2020', '11/07/2020', '12/19/2020']","['Iowa', 'Nebraska', 'Purdue', 'Maryland', 'Michigan', 'Maryland', 'Illinois', 'Wisconsin']","[144.0, 108.0, 102.0, 207.0, 140.0, 207.0, 224.0, 151.0]"
+523.0,73.0,Snoop Conner,Ole Miss,433,2020-21,1,[3],['10/10/2020'],['Alabama'],[128.0]
+523.0,73.0,Matt Corral,Ole Miss,433,2020-21,1,[9],['12/19/2020'],['LSU'],[158.0]
+199.0,23.0,Jerrion Ealy,Ole Miss,433,2020-21,2,"[3, 4]","['10/10/2020', '10/17/2020']","['Alabama', 'Arkansas']","[120.0, 112.0]"
+199.0,23.0,Larry Rountree,Missouri,434,2020-21,2,"[9, 10]","['12/05/2020', '12/19/2020']","['Arkansas', 'Mississippi St.']","[185.0, 121.0]"
+199.0,23.0,Javonte Williams,North Carolina,457,2020-21,2,"[9, 10]","['12/12/2020', '10/17/2020']","['Miami (FL)', 'Florida St.']","[236.0, 119.0]"
+96.0,8.0,Michael Carter,North Carolina,457,2020-21,3,"[2, 3, 4]","['10/03/2020', '10/10/2020', '10/24/2020']","['Boston College', 'Virginia Tech', 'NC State']","[121.0, 214.0, 106.0]"
+523.0,73.0,Aaron McAllister,Charlotte,458,2020-21,1,[3],['10/10/2020'],['North Texas'],[140.0]
+199.0,23.0,Adrian Martinez,Nebraska,463,2020-21,2,"[7, 8]","['11/07/2020', '12/18/2020']","['Northwestern', 'Rutgers']","[102.0, 157.0]"
+523.0,73.0,Luke McCaffrey,Nebraska,463,2020-21,1,[3],['11/21/2020'],['Illinois'],[122.0]
+523.0,73.0,Dedrick Mills,Nebraska,463,2020-21,1,[8],['12/18/2020'],['Rutgers'],[191.0]
+523.0,73.0,Max Gilliam,UNLV,465,2020-21,1,[2],['11/07/2020'],['Fresno St.'],[139.0]
+523.0,73.0,Charles Williams,UNLV,465,2020-21,1,[1],['12/12/2020'],['Hawaii'],[148.0]
+523.0,73.0,Toa Taua,Nevada,466,2020-21,1,[9],['12/22/2020'],['Tulane'],[102.0]
+523.0,73.0,Devonte Lee,Nevada,466,2020-21,1,[9],['12/22/2020'],['Tulane'],[105.0]
+523.0,73.0,Juwaun Price,New Mexico St.,472,2020-21,1,[2],['03/07/2021'],['Utah Tech'],[165.0]
+523.0,73.0,Bobby Cole,New Mexico,473,2020-21,1,[4],['12/05/2020'],['Wyoming'],[131.0]
+523.0,73.0,Zonovan Knight,NC State,490,2020-21,1,[4],['10/10/2020'],['Virginia'],[101.0]
+523.0,73.0,DeAndre Torrey,North Texas,497,2020-21,1,[8],['11/21/2020'],['Rice'],[102.0]
+523.0,73.0,Tre Siggers,North Texas,497,2020-21,1,[10],['12/21/2020'],['App State'],[120.0]
+199.0,23.0,Oscar Adaway III,North Texas,497,2020-21,2,"[1, 2]","['09/05/2020', '09/19/2020']","['Houston Christian', 'SMU']","[118.0, 104.0]"
+523.0,73.0,Jason Bean,North Texas,497,2020-21,1,[5],['10/17/2020'],['Middle Tenn.'],[169.0]
+523.0,73.0,Harrison Waylee,NIU,503,2020-21,1,[7],['12/12/2020'],['Eastern Mich.'],[122.0]
+523.0,73.0,Evan Hull,Northwestern,509,2020-21,1,[3],['12/12/2020'],['Illinois'],[149.0]
+523.0,73.0,Drake Anderson,Northwestern,509,2020-21,1,[7],['10/24/2020'],['Maryland'],[103.0]
+523.0,73.0,Cam Porter,Northwestern,509,2020-21,1,[3],['12/12/2020'],['Illinois'],[142.0]
+96.0,8.0,Kyren Williams,Notre Dame,513,2020-21,3,"[9, 10, 11]","['10/17/2020', '10/10/2020', '11/07/2020']","['Louisville', 'Florida St.', 'Clemson']","[127.0, 185.0, 140.0]"
+523.0,73.0,Chris Tyree,Notre Dame,513,2020-21,1,[10],['10/10/2020'],['Florida St.'],[103.0]
+199.0,23.0,C'Bo Flemister,Notre Dame,513,2020-21,2,"[7, 8]","['09/19/2020', '09/19/2020']","['South Fla.', 'South Fla.']","[127.0, 127.0]"
+523.0,73.0,Justin Fields,Ohio St.,518,2020-21,1,[5],['12/05/2020'],['Michigan St.'],[104.0]
+523.0,73.0,Master Teague,Ohio St.,518,2020-21,1,[4],['11/21/2020'],['Indiana'],[169.0]
+199.0,23.0,Trey Sermon,Ohio St.,518,2020-21,2,"[5, 6]","['12/05/2020', '12/19/2020']","['Michigan St.', 'Northwestern']","[112.0, 331.0]"
+523.0,73.0,De'Montre Tuggle,Ohio,519,2020-21,1,[3],['11/28/2020'],['Bowling Green'],[185.0]
+199.0,23.0,Dezmon Jackson,Oklahoma St.,521,2020-21,2,"[9, 10]","['11/28/2020', '12/05/2020']","['Texas Tech', 'TCU']","[235.0, 118.0]"
+523.0,73.0,Dominic Richardson,Oklahoma St.,521,2020-21,1,[4],['12/12/2020'],['Baylor'],[169.0]
+523.0,73.0,LD Brown,Oklahoma St.,521,2020-21,1,[11],['09/26/2020'],['West Virginia'],[103.0]
+96.0,8.0,Chuba Hubbard,Oklahoma St.,521,2020-21,3,"[2, 3, 5]","['09/26/2020', '10/03/2020', '10/24/2020']","['West Virginia', 'Kansas', 'Iowa St.']","[101.0, 145.0, 139.0]"
+523.0,73.0,Marcus Major,Oklahoma,522,2020-21,1,[11],['12/30/2020'],['Florida'],[110.0]
+523.0,73.0,T.J. Pledger,Oklahoma,522,2020-21,1,[9],['10/24/2020'],['TCU'],[122.0]
+199.0,23.0,Rhamondre Stevenson,Oklahoma,522,2020-21,2,"[6, 7]","['11/07/2020', '11/21/2020']","['Kansas', 'Oklahoma St.']","[104.0, 141.0]"
+54.0,4.0,Jermar Jefferson,Oregon St.,528,2020-21,4,"[1, 2, 4, 5]","['11/21/2020', '11/27/2020', '11/07/2020', '11/14/2020']","['California', 'Oregon', 'Washington St.', 'Washington']","[196.0, 226.0, 120.0, 133.0]"
+199.0,23.0,CJ Verdell,Oregon,529,2020-21,2,"[4, 5]","['11/14/2020', '11/07/2020']","['Washington St.', 'Stanford']","[118.0, 105.0]"
+523.0,73.0,Sean Clifford,Penn St.,539,2020-21,1,[3],['10/24/2020'],['Indiana'],[119.0]
+523.0,73.0,Keyvone Lee,Penn St.,539,2020-21,1,[7],['11/28/2020'],['Michigan'],[134.0]
+523.0,73.0,Vincent Davis,Pittsburgh,545,2020-21,1,[8],['12/10/2020'],['Georgia Tech'],[247.0]
+199.0,23.0,Zander Horvath,Purdue,559,2020-21,2,"[5, 6]","['11/28/2020', '10/31/2020']","['Rutgers', 'Illinois']","[101.0, 102.0]"
+523.0,73.0,Juma Otoviano,Rice,574,2020-21,1,[3],['10/31/2020'],['Southern Miss.'],[111.0]
+523.0,73.0,Isaih Pacheco,Rutgers,587,2020-21,1,[7],['11/14/2020'],['Illinois'],[133.0]
+199.0,23.0,Greg Bell,San Diego St.,626,2020-21,2,"[5, 6]","['10/31/2020', '11/06/2020']","['Utah St.', 'San Jose St.']","[157.0, 109.0]"
+523.0,73.0,Tyler Nevens,San Jose St.,630,2020-21,1,[3],['12/11/2020'],['Nevada'],[184.0]
+523.0,73.0,Kairee Robinson,San Jose St.,630,2020-21,1,[1],['12/05/2020'],['Hawaii'],[111.0]
+523.0,73.0,Carlos Davis,South Alabama,646,2020-21,1,[5],['10/17/2020'],['Texas St.'],[113.0]
+199.0,23.0,Kevin Harris,South Carolina,648,2020-21,2,"[2, 3]","['10/03/2020', '10/10/2020']","['Florida', 'Vanderbilt']","[100.0, 171.0]"
+523.0,73.0,Kelley Joiner,South Fla.,651,2020-21,1,[8],['11/27/2020'],['UCF'],[116.0]
+523.0,73.0,Brian Battie,South Fla.,651,2020-21,1,[8],['11/27/2020'],['UCF'],[102.0]
+523.0,73.0,Vavae Malepeai,Southern California,657,2020-21,1,[5],['12/12/2020'],['UCLA'],[110.0]
+199.0,23.0,Ulysses Bentley IV,SMU,663,2020-21,2,"[2, 3]","['09/19/2020', '09/26/2020']","['North Texas', 'SFA']","[227.0, 104.0]"
+523.0,73.0,TJ McDaniel,SMU,663,2020-21,1,[3],['09/26/2020'],['SFA'],[104.0]
+199.0,23.0,Frank Gore,Southern Miss.,664,2020-21,2,"[4, 5]","['10/03/2020', '12/10/2020']","['North Texas', 'Fla. Atlantic']","[130.0, 111.0]"
+523.0,73.0,Calvin Hill,Texas St.,670,2020-21,1,[1],['09/05/2020'],['SMU'],[100.0]
+523.0,73.0,Jahmyl Jeter,Texas St.,670,2020-21,1,[7],['11/07/2020'],['App State'],[135.0]
+523.0,73.0,Brock Sturges,Texas St.,670,2020-21,1,[6],['10/31/2020'],['Louisiana'],[128.0]
+523.0,73.0,Elijah Mitchell,Louisiana,671,2020-21,1,[11],['12/26/2020'],['UTSA'],[127.0]
+523.0,73.0,Trey Ragas,Louisiana,671,2020-21,1,[7],['10/31/2020'],['Texas St.'],[131.0]
+96.0,8.0,Austin Jones,Stanford,674,2020-21,3,"[3, 4, 5]","['12/12/2020', '11/07/2020', '12/05/2020']","['Oregon St.', 'Oregon', 'Washington']","[126.0, 100.0, 138.0]"
+523.0,73.0,Cooper Lutz,Syracuse,688,2020-21,1,[11],['12/05/2020'],['Notre Dame'],[114.0]
+523.0,73.0,Sean Tucker,Syracuse,688,2020-21,1,[11],['12/05/2020'],['Notre Dame'],[101.0]
+523.0,73.0,Ray Davis,Temple,690,2020-21,1,[3],['10/24/2020'],['Memphis'],[113.0]
+199.0,23.0,Eric Gray,Tennessee,694,2020-21,2,"[6, 8]","['11/07/2020', '11/21/2020']","['Arkansas', 'Auburn']","[123.0, 173.0]"
+523.0,73.0,Devon Achane,Texas A&M,697,2020-21,1,[10],['01/02/2021'],['North Carolina'],[140.0]
+199.0,23.0,Isaiah Spiller,Texas A&M,697,2020-21,2,"[8, 9]","['11/28/2020', '12/05/2020']","['LSU', 'Auburn']","[134.0, 120.0]"
+523.0,73.0,Darwin Barlow,TCU,698,2020-21,1,[3],['10/31/2020'],['Baylor'],[117.0]
+523.0,73.0,Max Duggan,TCU,698,2020-21,1,[7],['12/05/2020'],['Oklahoma St.'],[104.0]
+523.0,73.0,Zach Evans,TCU,698,2020-21,1,[11],['12/12/2020'],['Louisiana Tech'],[130.0]
+523.0,73.0,Kendre Miller,TCU,698,2020-21,1,[11],['12/12/2020'],['Louisiana Tech'],[136.0]
+523.0,73.0,Xavier White,Texas Tech,700,2020-21,1,[10],['12/05/2020'],['Kansas'],[135.0]
+199.0,23.0,SaRodorick Thompson,Texas Tech,700,2020-21,2,"[1, 2]","['09/12/2020', '09/26/2020']","['Houston Christian', 'Texas']","[118.0, 104.0]"
+523.0,73.0,Sam Ehlinger,Texas,703,2020-21,1,[4],['10/10/2020'],['Oklahoma'],[112.0]
+199.0,23.0,Bijan Robinson,Texas,703,2020-21,2,"[9, 10]","['12/05/2020', '12/29/2020']","['Kansas St.', 'Colorado']","[172.0, 183.0]"
+523.0,73.0,Roschon Johnson,Texas,703,2020-21,1,[9],['12/05/2020'],['Kansas St.'],[139.0]
+523.0,73.0,Calvin Brownholtz,UTEP,704,2020-21,1,[7],['12/11/2020'],['North Texas'],[114.0]
+523.0,73.0,Deion Hankins,UTEP,704,2020-21,1,[6],['10/24/2020'],['Charlotte'],[119.0]
+96.0,8.0,Sincere McCormick,UTSA,706,2020-21,3,"[4, 5, 6]","['10/03/2020', '10/17/2020', '10/24/2020']","['UAB', 'Army West Point', 'Louisiana Tech']","[150.0, 133.0, 165.0]"
+523.0,73.0,Brenden Brady,UTSA,706,2020-21,1,[8],['11/14/2020'],['UTEP'],[124.0]
+523.0,73.0,Frank Harris,UTSA,706,2020-21,1,[10],['11/28/2020'],['North Texas'],[113.0]
+199.0,23.0,Bryant Koback,Toledo,709,2020-21,2,"[5, 6]","['12/12/2020', '11/18/2020']","['Central Mich.', 'Eastern Mich.']","[123.0, 149.0]"
+199.0,23.0,Kimani Vidal,Troy,716,2020-21,2,"[4, 5]","['10/10/2020', '10/17/2020']","['Texas St.', 'Eastern Ky.']","[106.0, 143.0]"
+523.0,73.0,Cam Carroll,Tulane,718,2020-21,1,[12],['12/22/2020'],['Nevada'],[120.0]
+523.0,73.0,Stephon Huderson,Tulane,718,2020-21,1,[10],['11/19/2020'],['Tulsa'],[106.0]
+199.0,23.0,Tyjae Spears,Tulane,718,2020-21,2,"[1, 2]","['09/12/2020', '09/19/2020']","['South Alabama', 'Navy']","[105.0, 119.0]"
+523.0,73.0,Deneric Prince,Tulsa,719,2020-21,1,[3],['10/23/2020'],['South Fla.'],[109.0]
+523.0,73.0,Corey Taylor II,Tulsa,719,2020-21,1,[9],['12/19/2020'],['Cincinnati'],[102.0]
+523.0,73.0,Timothy Jackson,Air Force,721,2020-21,1,[1],['10/03/2020'],['Navy'],[118.0]
+523.0,73.0,Brandon Lewis,Air Force,721,2020-21,1,[3],['10/31/2020'],['Boise St.'],[112.0]
+523.0,73.0,Brad Roberts,Air Force,721,2020-21,1,[4],['11/20/2020'],['New Mexico'],[177.0]
+523.0,73.0,Kadin Remsberg,Air Force,721,2020-21,1,[5],['12/03/2020'],['Utah St.'],[107.0]
+523.0,73.0,Jakobi Buchanan,Army West Point,725,2020-21,1,[2],['09/12/2020'],['ULM'],[106.0]
+523.0,73.0,Tyrell Robinson,Army West Point,725,2020-21,1,[3],['10/03/2020'],['Abilene Christian'],[126.0]
+523.0,73.0,Jemel Jones,Army West Point,725,2020-21,1,[3],['10/03/2020'],['Abilene Christian'],[138.0]
+523.0,73.0,Tyhier Tyler,Army West Point,725,2020-21,1,[9],['11/21/2020'],['Ga. Southern'],[121.0]
+523.0,73.0,Anthony Adkins,Army West Point,725,2020-21,1,[5],['10/17/2020'],['UTSA'],[101.0]
+523.0,73.0,Nelson Smith,Navy,726,2020-21,1,[9],['11/28/2020'],['Memphis'],[142.0]
+523.0,73.0,Xavier Arline,Navy,726,2020-21,1,[10],['12/12/2020'],['Army West Point'],[109.0]
+523.0,73.0,Jamale Carothers,Navy,726,2020-21,1,[2],['09/19/2020'],['Tulane'],[127.0]
+523.0,73.0,Jaylen Warren,Utah St.,731,2020-21,1,[2],['11/14/2020'],['Fresno St.'],[136.0]
+523.0,73.0,Andrew Peasley,Utah St.,731,2020-21,1,[3],['11/26/2020'],['New Mexico'],[118.0]
+199.0,23.0,Ty Jordan,Utah,732,2020-21,2,"[2, 3]","['12/05/2020', '12/12/2020']","['Oregon St.', 'Colorado']","[167.0, 147.0]"
+199.0,23.0,Keyon Brooks,Vanderbilt,736,2020-21,2,"[6, 7]","['11/07/2020', '11/14/2020']","['Mississippi St.', 'Kentucky']","[115.0, 121.0]"
+31.0,3.0,Khalil Herbert,Virginia Tech,742,2020-21,5,"[1, 2, 3, 4, 5]","['09/26/2020', '12/12/2020', '10/03/2020', '10/10/2020', '10/17/2020']","['NC State', 'Virginia', 'Duke', 'North Carolina', 'Boston College']","[104.0, 162.0, 207.0, 138.0, 143.0]"
+523.0,73.0,Hendon Hooker,Virginia Tech,742,2020-21,1,[8],['11/07/2020'],['Liberty'],[156.0]
+523.0,73.0,Brennan Armstrong,Virginia,746,2020-21,1,[9],['12/05/2020'],['Boston College'],[130.0]
+199.0,23.0,Kenneth Walker III,Wake Forest,749,2020-21,2,"[2, 3]","['09/19/2020', '10/17/2020']","['NC State', 'Virginia']","[131.0, 128.0]"
+523.0,73.0,Christian Beal-Smith,Wake Forest,749,2020-21,1,[8],['10/02/2020'],['Campbell'],[130.0]
+523.0,73.0,Deon McIntosh,Washington St.,754,2020-21,1,[2],['11/07/2020'],['Oregon St.'],[147.0]
+199.0,23.0,Leddie Brown,West Virginia,768,2020-21,2,"[5, 6]","['10/17/2020', '10/31/2020']","['Kansas', 'Kansas St.']","[195.0, 102.0]"
+523.0,73.0,Alec Sinkfield,West Virginia,768,2020-21,1,[1],['09/12/2020'],['Eastern Ky.'],[123.0]
+523.0,73.0,Gaej Walker,Western Ky.,772,2020-21,1,[10],['11/21/2020'],['FIU'],[127.0]
+199.0,23.0,La'Darius Jefferson,Western Mich.,774,2020-21,2,"[5, 6]","['11/18/2020', '12/12/2020']","['Central Mich.', 'Ball St.']","[150.0, 159.0]"
+523.0,73.0,Sean Tyler,Western Mich.,774,2020-21,1,[4],['11/11/2020'],['Toledo'],[100.0]
+523.0,73.0,Garrett Groshek,Wisconsin,796,2020-21,1,[6],['12/19/2020'],['Minnesota'],[154.0]
+523.0,73.0,Trey Smith,Wyoming,811,2020-21,1,[5],['11/27/2020'],['UNLV'],[164.0]
+523.0,73.0,Xazavian Valladay,Wyoming,811,2020-21,1,[6],['11/05/2020'],['Colorado St.'],[147.0]
+523.0,73.0,Shedro Louis,Liberty,355,2020-21,1,[5],['10/17/2020'],['Syracuse'],[170.0]
+523.0,73.0,Malik Willis,Liberty,355,2020-21,1,[13],['12/26/2020'],['Coastal Carolina'],[137.0]
+54.0,4.0,Joshua Mack,Liberty,355,2020-21,4,"[10, 11, 12, 13]","['09/26/2020', '10/03/2020', '11/27/2020', '12/26/2020']","['FIU', 'North Ala.', 'Massachusetts', 'Coastal Carolina']","[107.0, 130.0, 109.0, 105.0]"
+523.0,73.0,Peytton Pickett,Liberty,355,2020-21,1,[12],['11/27/2020'],['Massachusetts'],[125.0]
+523.0,87.0,Jermaine Brown Jr.,UAB,9,2019-20,1,[10],['11/16/2019'],['UTEP'],[116.0]
+523.0,87.0,Spencer Brown,UAB,9,2019-20,1,[12],['11/30/2019'],['North Texas'],[111.0]
+523.0,87.0,Dylan Hopkins,UAB,9,2019-20,1,[10],['11/16/2019'],['UTEP'],[163.0]
+199.0,38.0,Najee Harris,Alabama,8,2019-20,2,"[12, 13]","['11/30/2019', '01/01/2020']","['Auburn', 'Michigan']","[146.0, 136.0]"
+199.0,38.0,Darrynton Evans,App State,27,2019-20,2,"[10, 11]","['11/16/2019', '11/23/2019']","['Georgia St.', 'Texas St.']","[131.0, 154.0]"
+96.0,22.0,Eno Benjamin,Arizona St.,28,2019-20,3,"[5, 6, 7]","['09/27/2019', '10/12/2019', '10/19/2019']","['California', 'Washington St.', 'Utah']","[100.0, 137.0, 104.0]"
+523.0,87.0,J.J. Taylor,Arizona,29,2019-20,1,[8],['10/26/2019'],['Stanford'],[107.0]
+523.0,87.0,Khalil Tate,Arizona,29,2019-20,1,[8],['10/26/2019'],['Stanford'],[103.0]
+523.0,87.0,Gary Brightwell,Arizona,29,2019-20,1,[2],['09/07/2019'],['Northern Ariz.'],[141.0]
+96.0,22.0,Marcel Murray,Arkansas St.,30,2019-20,3,"[7, 8, 9]","['10/17/2019', '10/26/2019', '11/02/2019']","['Louisiana', 'Texas St.', 'ULM']","[164.0, 114.0, 175.0]"
+523.0,87.0,Ryan Graham,Arkansas St.,30,2019-20,1,[2],['09/07/2019'],['UNLV'],[103.0]
+199.0,38.0,Rakeem Boyd,Arkansas,31,2019-20,2,"[9, 10]","['11/02/2019', '11/09/2019']","['Mississippi St.', 'Western Ky.']","[114.0, 185.0]"
+523.0,87.0,Shaun Shivers,Auburn,37,2019-20,1,[3],['09/14/2019'],['Kent St.'],[102.0]
+523.0,87.0,JaTarvious Whitlow,Auburn,37,2019-20,1,[12],['11/30/2019'],['Alabama'],[114.0]
+523.0,87.0,Joey Gatewood,Auburn,37,2019-20,1,[3],['09/14/2019'],['Kent St.'],[102.0]
+523.0,87.0,DJ Williams,Auburn,37,2019-20,1,[8],['10/26/2019'],['LSU'],[130.0]
+523.0,87.0,Walter Fletcher,Ball St.,47,2019-20,1,[10],['11/16/2019'],['Central Mich.'],[115.0]
+54.0,12.0,Caleb Huntley,Ball St.,47,2019-20,4,"[9, 10, 11, 12]","['11/05/2019', '11/16/2019', '11/23/2019', '11/29/2019']","['Western Mich.', 'Central Mich.', 'Kent St.', 'Miami (OH)']","[120.0, 106.0, 192.0, 134.0]"
+523.0,87.0,Jamycal Hasty,Baylor,51,2019-20,1,[7],['10/19/2019'],['Oklahoma St.'],[146.0]
+523.0,87.0,John Lovett,Baylor,51,2019-20,1,[1],['08/31/2019'],['SFA'],[108.0]
+523.0,87.0,Robert Mahone,Boise St.,66,2019-20,1,[1],['08/31/2019'],['Florida St.'],[142.0]
+523.0,87.0,George Holani,Boise St.,66,2019-20,1,[11],['11/23/2019'],['Utah St.'],[178.0]
+523.0,87.0,David Bailey,Boston College,67,2019-20,1,[9],['11/02/2019'],['Syracuse'],[172.0]
+31.0,7.0,AJ Dillon,Boston College,67,2019-20,5,"[3, 4, 5, 6, 7]","['09/13/2019', '09/21/2019', '09/28/2019', '10/05/2019', '10/19/2019']","['Kansas', 'Rutgers', 'Wake Forest', 'Louisville', 'NC State']","[151.0, 150.0, 159.0, 118.0, 223.0]"
+523.0,87.0,Bryson Denley,Bowling Green,71,2019-20,1,[10],['11/13/2019'],['Miami (OH)'],[105.0]
+523.0,87.0,Grant Loy,Bowling Green,71,2019-20,1,[6],['10/12/2019'],['Toledo'],[137.0]
+523.0,87.0,Sione Finau,BYU,77,2019-20,1,[10],['11/16/2019'],['Idaho St.'],[102.0]
+523.0,87.0,Jackson McChesney,BYU,77,2019-20,1,[11],['11/23/2019'],['Massachusetts'],[228.0]
+18.0,3.0,Jaret Patterson,Buffalo,86,2019-20,6,"[8, 9, 10, 11, 12, 13]","['10/26/2019', '11/02/2019', '11/14/2019', '11/20/2019', '11/29/2019', '12/20/2019']","['Central Mich.', 'Eastern Mich.', 'Kent St.', 'Toledo', 'Bowling Green', 'Charlotte']","[149.0, 160.0, 141.0, 192.0, 298.0, 173.0]"
+199.0,38.0,Kevin Marks,Buffalo,86,2019-20,2,"[11, 12]","['11/20/2019', '11/29/2019']","['Toledo', 'Bowling Green']","[118.0, 107.0]"
+96.0,22.0,Ronnie Rivers,Fresno St.,96,2019-20,3,"[7, 8, 9]","['10/26/2019', '11/02/2019', '11/09/2019']","['Colorado St.', 'Hawaii', 'Utah St.']","[146.0, 103.0, 102.0]"
+523.0,87.0,Jalen Moreno-Cropper,Fresno St.,96,2019-20,1,[4],['09/28/2019'],['New Mexico St.'],[118.0]
+523.0,87.0,DeShawn Collins,California,107,2019-20,1,[10],['11/16/2019'],['Southern California'],[103.0]
+199.0,38.0,Christopher Brooks,California,107,2019-20,2,"[12, 13]","['11/30/2019', '12/30/2019']","['UCLA', 'Illinois']","[111.0, 120.0]"
+96.0,22.0,Joshua Kelley,UCLA,110,2019-20,3,"[7, 8, 9]","['10/17/2019', '10/26/2019', '11/02/2019']","['Stanford', 'Arizona St.', 'Colorado']","[176.0, 164.0, 126.0]"
+523.0,87.0,Demetric Felton,UCLA,110,2019-20,1,[6],['10/05/2019'],['Oregon St.'],[111.0]
+523.0,87.0,Otis Anderson,UCF,128,2019-20,1,[8],['10/26/2019'],['Temple'],[205.0]
+523.0,87.0,Greg McCrae,UCF,128,2019-20,1,[3],['09/14/2019'],['Stanford'],[109.0]
+523.0,87.0,Adrian Killins,UCF,128,2019-20,1,[12],['11/29/2019'],['South Fla.'],[115.0]
+54.0,12.0,Jonathan Ward,Central Mich.,129,2019-20,4,"[5, 6, 7, 8]","['09/28/2019', '10/05/2019', '10/12/2019', '10/19/2019']","['Western Mich.', 'Eastern Mich.', 'New Mexico St.', 'Bowling Green']","[107.0, 132.0, 131.0, 130.0]"
+199.0,38.0,Kobe Lewis,Central Mich.,129,2019-20,2,"[7, 8]","['10/12/2019', '10/19/2019']","['New Mexico St.', 'Bowling Green']","[161.0, 125.0]"
+96.0,22.0,Michael Warren II,Cincinnati,140,2019-20,3,"[10, 11, 12]","['11/16/2019', '11/23/2019', '11/29/2019']","['South Fla.', 'Temple', 'Memphis']","[134.0, 106.0, 122.0]"
+199.0,38.0,Desmond Ridder,Cincinnati,140,2019-20,2,"[13, 14]","['12/07/2019', '01/02/2020']","['Memphis', 'Boston College']","[113.0, 105.0]"
+523.0,87.0,Gerrid Doaks,Cincinnati,140,2019-20,1,[9],['11/09/2019'],['UConn'],[123.0]
+523.0,87.0,Trevor Lawrence,Clemson,147,2019-20,1,[15],['12/28/2019'],['Ohio St.'],[107.0]
+18.0,3.0,Travis Etienne,Clemson,147,2019-20,6,"[6, 7, 8, 9, 10, 11]","['10/12/2019', '10/19/2019', '10/26/2019', '11/02/2019', '11/09/2019', '11/16/2019']","['Florida St.', 'Louisville', 'Boston College', 'Wofford', 'NC State', 'Wake Forest']","[127.0, 192.0, 109.0, 212.0, 112.0, 121.0]"
+54.0,12.0,CJ Marable,Coastal Carolina,149,2019-20,4,"[9, 10, 11, 12]","['11/16/2019', '11/23/2019', '11/30/2019', '09/07/2019']","['Arkansas St.', 'ULM', 'Texas St.', 'Kansas']","[142.0, 172.0, 121.0, 148.0]"
+523.0,87.0,Bryce Carpenter,Coastal Carolina,149,2019-20,1,[3],['09/21/2019'],['Massachusetts'],[102.0]
+523.0,87.0,"Marcus McElroy, Jr.",Colorado St.,156,2019-20,1,[8],['10/26/2019'],['Fresno St.'],[117.0]
+199.0,38.0,"Marvin Kinsey, Jr.",Colorado St.,156,2019-20,2,"[3, 4]","['09/14/2019', '09/21/2019']","['Arkansas', 'Toledo']","[180.0, 246.0]"
+523.0,87.0,Alex Fontenot,Colorado,157,2019-20,1,[11],['11/23/2019'],['Washington'],[105.0]
+96.0,22.0,Kevin Mensah,UConn,164,2019-20,3,"[8, 9, 10]","['10/26/2019', '11/01/2019', '11/09/2019']","['Massachusetts', 'Navy', 'Cincinnati']","[164.0, 107.0, 115.0]"
+523.0,87.0,Art Thompkins,UConn,164,2019-20,1,[8],['10/26/2019'],['Massachusetts'],[135.0]
+199.0,38.0,Quentin Harris,Duke,193,2019-20,2,"[3, 4]","['09/14/2019', '09/27/2019']","['Middle Tenn.', 'Virginia Tech']","[107.0, 100.0]"
+523.0,87.0,Demetrius Mauney,East Carolina,196,2019-20,1,[2],['09/07/2019'],['Gardner-Webb'],[107.0]
+199.0,38.0,Darius Pinnix,East Carolina,196,2019-20,2,"[2, 11]","['09/07/2019', '11/23/2019']","['Gardner-Webb', 'UConn']","[134.0, 105.0]"
+199.0,38.0,Shaq Vann,Eastern Mich.,204,2019-20,2,"[10, 11]","['11/12/2019', '11/19/2019']","['Akron', 'NIU']","[142.0, 101.0]"
+523.0,87.0,Malcolm Davidson,Fla. Atlantic,229,2019-20,1,[13],['12/07/2019'],['UAB'],[128.0]
+523.0,87.0,Kaylan Wiggins,FIU,231,2019-20,1,[3],['09/14/2019'],['New Hampshire'],[187.0]
+96.0,22.0,Anthony Jones,FIU,231,2019-20,3,"[5, 6, 7]","['10/05/2019', '10/12/2019', '10/19/2019']","['Massachusetts', 'Charlotte', 'UTEP']","[115.0, 117.0, 102.0]"
+523.0,87.0,Napoleon Maxwell,FIU,231,2019-20,1,[6],['10/12/2019'],['Charlotte'],[114.0]
+199.0,38.0,Cam Akers,Florida St.,234,2019-20,2,"[7, 8]","['10/19/2019', '10/26/2019']","['Wake Forest', 'Syracuse']","[157.0, 144.0]"
+523.0,87.0,Lamical Perine,Florida,235,2019-20,1,[13],['12/30/2019'],['Virginia'],[138.0]
+523.0,87.0,Shai Werts,Ga. Southern,253,2019-20,1,[11],['11/23/2019'],['Arkansas St.'],[158.0]
+199.0,38.0,J.D. King,Ga. Southern,253,2019-20,2,"[10, 12]","['11/16/2019', '11/30/2019']","['ULM', 'Georgia St.']","[102.0, 107.0]"
+523.0,87.0,Justin Tomlin,Ga. Southern,253,2019-20,1,[2],['09/07/2019'],['Maine'],[132.0]
+96.0,22.0,Wesley Kennedy III,Ga. Southern,253,2019-20,3,"[6, 7, 8]","['10/19/2019', '10/26/2019', '10/31/2019']","['Coastal Carolina', 'New Mexico St.', 'App State']","[117.0, 143.0, 145.0]"
+523.0,87.0,Matt LaRoche,Ga. Southern,253,2019-20,1,[2],['09/07/2019'],['Maine'],[154.0]
+523.0,87.0,Logan Wright,Ga. Southern,253,2019-20,1,[2],['09/07/2019'],['Maine'],[114.0]
+523.0,87.0,Seth Paige,Georgia St.,254,2019-20,1,[8],['10/26/2019'],['Troy'],[109.0]
+523.0,87.0,Destin Coates,Georgia St.,254,2019-20,1,[9],['11/09/2019'],['ULM'],[119.0]
+31.0,7.0,Tra Barnett,Georgia St.,254,2019-20,5,"[5, 6, 7, 8, 9]","['10/05/2019', '10/12/2019', '10/19/2019', '10/26/2019', '11/09/2019']","['Arkansas St.', 'Coastal Carolina', 'Army West Point', 'Troy', 'ULM']","[139.0, 110.0, 108.0, 242.0, 190.0]"
+523.0,87.0,Dan Ellington,Georgia St.,254,2019-20,1,[6],['10/12/2019'],['Coastal Carolina'],[128.0]
+523.0,87.0,James Graham,Georgia Tech,255,2019-20,1,[10],['11/21/2019'],['NC State'],[112.0]
+199.0,38.0,Jordan Mason,Georgia Tech,255,2019-20,2,"[5, 6]","['10/12/2019', '10/19/2019']","['Duke', 'Miami (FL)']","[106.0, 141.0]"
+199.0,38.0,D'Andre Swift,Georgia,257,2019-20,2,"[10, 11]","['11/16/2019', '11/23/2019']","['Auburn', 'Texas A&M']","[106.0, 103.0]"
+523.0,87.0,Miles Reed,Hawaii,277,2019-20,1,[10],['11/09/2019'],['San Jose St.'],[124.0]
+523.0,87.0,Cole McDonald,Hawaii,277,2019-20,1,[8],['10/26/2019'],['New Mexico'],[140.0]
+523.0,87.0,Kyle Porter,Houston,288,2019-20,1,[6],['10/12/2019'],['Cincinnati'],[107.0]
+199.0,38.0,Mulbah Car,Houston,288,2019-20,2,"[8, 9]","['10/24/2019', '11/02/2019']","['SMU', 'UCF']","[136.0, 132.0]"
+523.0,87.0,Clayton Tune,Houston,288,2019-20,1,[5],['09/28/2019'],['North Texas'],[100.0]
+523.0,87.0,D'Eriq King,Houston,288,2019-20,1,[4],['09/19/2019'],['Tulane'],[116.0]
+523.0,87.0,Patrick Carr,Houston,288,2019-20,1,[5],['09/28/2019'],['North Texas'],[139.0]
+523.0,87.0,Dre Brown,Illinois,301,2019-20,1,[8],['10/26/2019'],['Purdue'],[131.0]
+199.0,38.0,Reggie Corbin,Illinois,301,2019-20,2,"[3, 4]","['09/14/2019', '09/21/2019']","['Eastern Mich.', 'Nebraska']","[144.0, 134.0]"
+199.0,38.0,Stevie Scott III,Indiana,306,2019-20,2,"[6, 7]","['10/12/2019', '10/19/2019']","['Rutgers', 'Maryland']","[164.0, 108.0]"
+523.0,87.0,Sampson James,Indiana,306,2019-20,1,[12],['11/30/2019'],['Purdue'],[118.0]
+523.0,87.0,Brock Purdy,Iowa St.,311,2019-20,1,[5],['10/05/2019'],['TCU'],[102.0]
+199.0,38.0,Breece Hall,Iowa St.,311,2019-20,2,"[9, 10]","['11/09/2019', '11/16/2019']","['Oklahoma', 'Texas']","[110.0, 101.0]"
+523.0,87.0,Tyler Goodson,Iowa,312,2019-20,1,[12],['11/29/2019'],['Nebraska'],[116.0]
+523.0,87.0,Toren Young,Iowa,312,2019-20,1,[4],['09/28/2019'],['Middle Tenn.'],[131.0]
+199.0,38.0,James Gilbert,Kansas St.,327,2019-20,2,"[1, 2]","['08/31/2019', '09/07/2019']","['Nicholls', 'Bowling Green']","[115.0, 103.0]"
+523.0,87.0,Skylar Thompson,Kansas St.,327,2019-20,1,[8],['11/02/2019'],['Kansas'],[127.0]
+199.0,38.0,Pooka Williams,Kansas,328,2019-20,2,"[10, 11]","['11/23/2019', '11/30/2019']","['Iowa St.', 'Baylor']","[154.0, 116.0]"
+523.0,87.0,Khalil Herbert,Kansas,328,2019-20,1,[2],['09/13/2019'],['Boston College'],[187.0]
+523.0,87.0,Dustin Crum,Kent St.,331,2019-20,1,[13],['12/20/2019'],['Utah St.'],[147.0]
+523.0,87.0,Will Matthews,Kent St.,331,2019-20,1,[6],['10/12/2019'],['Akron'],[126.0]
+523.0,87.0,Joachim Bangda,Kent St.,331,2019-20,1,[4],['09/21/2019'],['Bowling Green'],[114.0]
+523.0,87.0,Jo-El Shaw,Kent St.,331,2019-20,1,[4],['09/21/2019'],['Bowling Green'],[109.0]
+523.0,87.0,Asim Rose,Kentucky,334,2019-20,1,[11],['11/23/2019'],['UT Martin'],[105.0]
+523.0,87.0,Christopher Rodriguez Jr.,Kentucky,334,2019-20,1,[12],['11/30/2019'],['Louisville'],[125.0]
+18.0,3.0,Lynn Bowden Jr.,Kentucky,334,2019-20,6,"[8, 9, 10, 11, 12, 13]","['10/26/2019', '11/09/2019', '11/16/2019', '11/23/2019', '11/30/2019', '12/31/2019']","['Missouri', 'Tennessee', 'Vanderbilt', 'UT Martin', 'Louisville', 'Virginia Tech']","[204.0, 114.0, 110.0, 129.0, 284.0, 233.0]"
+54.0,12.0,Clyde Edwards-Helaire,LSU,365,2019-20,4,"[8, 9, 10, 11]","['10/26/2019', '11/09/2019', '11/16/2019', '11/23/2019']","['Auburn', 'Alabama', 'Ole Miss', 'Arkansas']","[136.0, 103.0, 172.0, 188.0]"
+199.0,38.0,Justin Henderson,Louisiana Tech,366,2019-20,2,"[6, 7]","['10/12/2019', '10/19/2019']","['Massachusetts', 'Southern Miss.']","[137.0, 111.0]"
+96.0,22.0,Javian Hawkins,Louisville,367,2019-20,3,"[11, 12, 13]","['11/23/2019', '11/30/2019', '12/30/2019']","['Syracuse', 'Kentucky', 'Mississippi St.']","[233.0, 142.0, 105.0]"
+199.0,38.0,Brenden Knox,Marshall,388,2019-20,2,"[12, 13]","['11/30/2019', '12/23/2019']","['FIU', 'UCF']","[146.0, 103.0]"
+523.0,87.0,Javon Leake,Maryland,392,2019-20,1,[7],['10/19/2019'],['Indiana'],[158.0]
+523.0,87.0,Tyrrell Pigrome,Maryland,392,2019-20,1,[6],['10/12/2019'],['Purdue'],[107.0]
+523.0,87.0,Anthony McFarland,Maryland,392,2019-20,1,[12],['11/30/2019'],['Michigan St.'],[134.0]
+523.0,87.0,Bilal Ally,Massachusetts,400,2019-20,1,[12],['11/23/2019'],['BYU'],[127.0]
+523.0,87.0,Kylan Watkins,Memphis,404,2019-20,1,[3],['09/14/2019'],['South Alabama'],[113.0]
+523.0,87.0,Patrick Taylor,Memphis,404,2019-20,1,[1],['08/31/2019'],['Ole Miss'],[128.0]
+18.0,3.0,Kenny Gainwell,Memphis,404,2019-20,6,"[3, 4, 5, 6, 7, 8]","['09/14/2019', '09/26/2019', '10/05/2019', '10/12/2019', '10/19/2019', '10/26/2019']","['South Alabama', 'Navy', 'ULM', 'Temple', 'Tulane', 'Tulsa']","[145.0, 104.0, 209.0, 106.0, 104.0, 149.0]"
+523.0,87.0,Antonio Gibson,Memphis,404,2019-20,1,[13],['12/07/2019'],['Cincinnati'],[130.0]
+523.0,87.0,Jaylon Bester,Miami (OH),414,2019-20,1,[11],['11/20/2019'],['Akron'],[128.0]
+523.0,87.0,Tyre Shelton,Miami (OH),414,2019-20,1,[8],['10/26/2019'],['Kent St.'],[148.0]
+523.0,87.0,Cam'Ron Harris,Miami (FL),415,2019-20,1,[7],['10/19/2019'],['Georgia Tech'],[136.0]
+199.0,38.0,Deejay Dallas,Miami (FL),415,2019-20,2,"[2, 3]","['09/07/2019', '09/14/2019']","['North Carolina', 'Bethune-Cookman']","[107.0, 108.0]"
+523.0,87.0,Elijah Collins,Michigan St.,416,2019-20,1,[11],['11/23/2019'],['Rutgers'],[109.0]
+523.0,87.0,Hassan Haskins,Michigan,418,2019-20,1,[8],['10/26/2019'],['Notre Dame'],[149.0]
+523.0,87.0,Zach Charbonnet,Michigan,418,2019-20,1,[6],['10/12/2019'],['Illinois'],[116.0]
+523.0,87.0,Jayy McDonald,Middle Tenn.,419,2019-20,1,[8],['10/26/2019'],['FIU'],[138.0]
+199.0,38.0,Asher O'Hara,Middle Tenn.,419,2019-20,2,"[8, 9]","['10/26/2019', '11/02/2019']","['FIU', 'Charlotte']","[159.0, 148.0]"
+523.0,87.0,Chaton Mobley,Middle Tenn.,419,2019-20,1,[2],['09/07/2019'],['Tennessee St.'],[104.0]
+523.0,87.0,Terelle West,Middle Tenn.,419,2019-20,1,[8],['10/26/2019'],['FIU'],[130.0]
+31.0,7.0,Rodney Smith,Minnesota,428,2019-20,5,"[4, 5, 6, 7, 8]","['09/28/2019', '10/05/2019', '10/12/2019', '10/19/2019', '10/26/2019']","['Purdue', 'Illinois', 'Nebraska', 'Rutgers', 'Maryland']","[115.0, 211.0, 139.0, 111.0, 103.0]"
+523.0,87.0,Shannon Brooks,Minnesota,428,2019-20,1,[5],['10/05/2019'],['Illinois'],[111.0]
+523.0,87.0,Mohamed Ibrahim,Minnesota,428,2019-20,1,[13],['01/01/2020'],['Auburn'],[140.0]
+523.0,87.0,Garrett Shrader,Mississippi St.,430,2019-20,1,[4],['09/21/2019'],['Kentucky'],[125.0]
+523.0,87.0,Nick Gibson,Mississippi St.,430,2019-20,1,[9],['11/02/2019'],['Arkansas'],[129.0]
+54.0,12.0,Kylin Hill,Mississippi St.,430,2019-20,4,"[1, 2, 3, 4]","['08/31/2019', '09/07/2019', '09/14/2019', '09/21/2019']","['Louisiana', 'Southern Miss.', 'Kansas St.', 'Kentucky']","[197.0, 123.0, 111.0, 120.0]"
+523.0,87.0,Snoop Conner,Ole Miss,433,2019-20,1,[10],['11/09/2019'],['New Mexico St.'],[109.0]
+523.0,87.0,Jerrion Ealy,Ole Miss,433,2019-20,1,[11],['11/16/2019'],['LSU'],[141.0]
+199.0,38.0,Scottie Phillips,Ole Miss,433,2019-20,2,"[2, 3]","['09/07/2019', '09/14/2019']","['Arkansas', 'Southeastern La.']","[143.0, 103.0]"
+96.0,22.0,John Rhys Plumlee,Ole Miss,433,2019-20,3,"[5, 6, 7]","['09/28/2019', '10/05/2019', '10/12/2019']","['Alabama', 'Vanderbilt', 'Missouri']","[109.0, 165.0, 143.0]"
+199.0,38.0,Larry Rountree,Missouri,434,2019-20,2,"[2, 3]","['09/07/2019', '09/14/2019']","['West Virginia', 'Southeast Mo. St.']","[104.0, 142.0]"
+523.0,87.0,Javonte Williams,North Carolina,457,2019-20,1,[8],['10/26/2019'],['Duke'],[111.0]
+523.0,87.0,Antonio Williams,North Carolina,457,2019-20,1,[10],['11/14/2019'],['Pittsburgh'],[107.0]
+523.0,87.0,Michael Carter,North Carolina,457,2019-20,1,[11],['11/23/2019'],['Mercer'],[159.0]
+96.0,22.0,Benny Lemay,Charlotte,458,2019-20,3,"[8, 11, 12]","['10/26/2019', '11/23/2019', '11/30/2019']","['North Texas', 'Marshall', 'Old Dominion']","[155.0, 100.0, 105.0]"
+523.0,87.0,Aaron McAllister,Charlotte,458,2019-20,1,[9],['11/02/2019'],['Middle Tenn.'],[104.0]
+523.0,87.0,Chris Reynolds,Charlotte,458,2019-20,1,[11],['11/23/2019'],['Marshall'],[145.0]
+523.0,87.0,Adrian Martinez,Nebraska,463,2019-20,1,[4],['09/21/2019'],['Illinois'],[118.0]
+523.0,87.0,Dedrick Mills,Nebraska,463,2019-20,1,[10],['11/16/2019'],['Wisconsin'],[188.0]
+523.0,87.0,Armani Rogers,UNLV,465,2019-20,1,[1],['08/31/2019'],['Southern Utah'],[114.0]
+96.0,22.0,Charles Williams,UNLV,465,2019-20,3,"[1, 2, 3]","['08/31/2019', '09/07/2019', '09/14/2019']","['Southern Utah', 'Arkansas St.', 'Northwestern']","[143.0, 168.0, 144.0]"
+523.0,87.0,Chad Magyar,UNLV,465,2019-20,1,[6],['10/12/2019'],['Vanderbilt'],[116.0]
+523.0,87.0,Toa Taua,Nevada,466,2019-20,1,[10],['11/23/2019'],['Fresno St.'],[135.0]
+523.0,87.0,Cristian Solano,Nevada,466,2019-20,1,[12],['09/21/2019'],['UTEP'],[100.0]
+523.0,87.0,Christian Gibson,New Mexico St.,472,2019-20,1,[10],['11/16/2019'],['UIW'],[115.0]
+96.0,22.0,Jason Huntley,New Mexico St.,472,2019-20,3,"[10, 11, 12]","['11/16/2019', '11/23/2019', '11/30/2019']","['UIW', 'UTEP', 'Liberty']","[174.0, 191.0, 105.0]"
+523.0,87.0,Sheriron Jones,New Mexico,473,2019-20,1,[5],['10/04/2019'],['San Jose St.'],[104.0]
+523.0,87.0,Bryson Carroll,New Mexico,473,2019-20,1,[6],['10/11/2019'],['Colorado St.'],[193.0]
+523.0,87.0,Trae Hall,New Mexico,473,2019-20,1,[12],['11/30/2019'],['Utah St.'],[115.0]
+523.0,87.0,Ahmari Davis,New Mexico,473,2019-20,1,[8],['10/26/2019'],['Hawaii'],[200.0]
+523.0,87.0,Zonovan Knight,NC State,490,2019-20,1,[11],['11/21/2019'],['Georgia Tech'],[100.0]
+523.0,87.0,Tre Siggers,North Texas,497,2019-20,1,[8],['10/26/2019'],['Charlotte'],[131.0]
+199.0,38.0,Josh Johnson,ULM,498,2019-20,2,"[11, 12]","['11/23/2019', '11/30/2019']","['Coastal Carolina', 'Louisiana']","[129.0, 109.0]"
+199.0,38.0,Caleb Evans,ULM,498,2019-20,2,"[8, 9]","['11/02/2019', '11/09/2019']","['Arkansas St.', 'Georgia St.']","[148.0, 110.0]"
+199.0,38.0,Tre Harbison,NIU,503,2019-20,2,"[10, 11]","['11/13/2019', '11/19/2019']","['Toledo', 'Eastern Mich.']","[168.0, 112.0]"
+523.0,87.0,Evan Hull,Northwestern,509,2019-20,1,[10],['11/16/2019'],['Massachusetts'],[220.0]
+523.0,87.0,Coco Azema,Northwestern,509,2019-20,1,[12],['11/30/2019'],['Illinois'],[123.0]
+523.0,87.0,Andrew Marty,Northwestern,509,2019-20,1,[12],['11/30/2019'],['Illinois'],[111.0]
+523.0,87.0,Kyric McGowan,Northwestern,509,2019-20,1,[9],['11/09/2019'],['Purdue'],[146.0]
+523.0,87.0,Drake Anderson,Northwestern,509,2019-20,1,[2],['09/14/2019'],['UNLV'],[141.0]
+96.0,22.0,Tony Jones Jr.,Notre Dame,513,2019-20,3,"[4, 5, 6]","['09/28/2019', '10/05/2019', '10/12/2019']","['Virginia', 'Bowling Green', 'Southern California']","[131.0, 102.0, 176.0]"
+523.0,87.0,Ian Book,Notre Dame,513,2019-20,1,[9],['11/09/2019'],['Duke'],[139.0]
+54.0,12.0,J.K. Dobbins,Ohio St.,518,2019-20,4,"[11, 12, 13, 14]","['11/23/2019', '11/30/2019', '12/07/2019', '12/28/2019']","['Penn St.', 'Michigan', 'Wisconsin', 'Clemson']","[157.0, 211.0, 172.0, 174.0]"
+523.0,87.0,Master Teague,Ohio St.,518,2019-20,1,[9],['11/09/2019'],['Maryland'],[111.0]
+523.0,87.0,O'Shaan Allison,Ohio,519,2019-20,1,[11],['11/19/2019'],['Bowling Green'],[175.0]
+523.0,87.0,Nathan Rourke,Ohio,519,2019-20,1,[8],['10/26/2019'],['Ball St.'],[127.0]
+1.0,1.0,Chuba Hubbard,Oklahoma St.,521,2019-20,11,"[3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]","['09/14/2019', '09/21/2019', '09/28/2019', '10/05/2019', '10/19/2019', '10/26/2019', '11/02/2019', '11/16/2019', '11/23/2019', '11/30/2019', '12/27/2019']","['Tulsa', 'Texas', 'Kansas St.', 'Texas Tech', 'Baylor', 'Iowa St.', 'TCU', 'Kansas', 'West Virginia', 'Oklahoma', 'Texas A&M']","[256.0, 121.0, 296.0, 156.0, 171.0, 116.0, 223.0, 122.0, 106.0, 104.0, 158.0]"
+523.0,87.0,Spencer Sanders,Oklahoma St.,521,2019-20,1,[4],['09/21/2019'],['Texas'],[109.0]
+199.0,38.0,Kennedy Brooks,Oklahoma,522,2019-20,2,"[11, 12]","['11/23/2019', '11/30/2019']","['TCU', 'Oklahoma St.']","[149.0, 160.0]"
+199.0,38.0,Jalen Hurts,Oklahoma,522,2019-20,2,"[10, 11]","['11/16/2019', '11/23/2019']","['Baylor', 'TCU']","[114.0, 173.0]"
+523.0,87.0,Rhamondre Stevenson,Oklahoma,522,2019-20,1,[5],['10/05/2019'],['Kansas'],[109.0]
+199.0,38.0,Artavis Pierce,Oregon St.,528,2019-20,2,"[4, 5]","['09/28/2019', '10/05/2019']","['Stanford', 'UCLA']","[141.0, 119.0]"
+523.0,87.0,B.J. Baylor,Oregon St.,528,2019-20,1,[3],['09/14/2019'],['Cal Poly'],[101.0]
+523.0,87.0,Jermar Jefferson,Oregon St.,528,2019-20,1,[11],['11/23/2019'],['Washington St.'],[132.0]
+523.0,87.0,CJ Verdell,Oregon,529,2019-20,1,[13],['12/06/2019'],['Utah'],[208.0]
+523.0,87.0,Travis Dye,Oregon,529,2019-20,1,[12],['09/14/2019'],['Montana'],[101.0]
+199.0,38.0,Journey Brown,Penn St.,539,2019-20,2,"[12, 13]","['11/30/2019', '12/28/2019']","['Rutgers', 'Memphis']","[103.0, 202.0]"
+199.0,38.0,Noah Cain,Penn St.,539,2019-20,2,"[5, 6]","['10/05/2019', '10/12/2019']","['Purdue', 'Iowa']","[105.0, 102.0]"
+523.0,87.0,Will Levis,Penn St.,539,2019-20,1,[12],['11/30/2019'],['Rutgers'],[108.0]
+523.0,87.0,Devyn Ford,Penn St.,539,2019-20,1,[1],['08/31/2019'],['Idaho'],[107.0]
+523.0,87.0,A.J. Davis,Pittsburgh,545,2019-20,1,[7],['10/18/2019'],['Syracuse'],[103.0]
+523.0,87.0,Todd Sibley,Pittsburgh,545,2019-20,1,[5],['09/28/2019'],['Delaware'],[106.0]
+523.0,87.0,Zander Horvath,Purdue,559,2019-20,1,[12],['11/30/2019'],['Indiana'],[164.0]
+96.0,22.0,Aston Walter,Rice,574,2019-20,3,"[5, 6, 7]","['09/28/2019', '10/05/2019', '10/19/2019']","['Louisiana Tech', 'UAB', 'UTSA']","[112.0, 102.0, 109.0]"
+523.0,87.0,Nahshon Ellerbe,Rice,574,2019-20,1,[1],['08/30/2019'],['Army West Point'],[103.0]
+523.0,87.0,Isaih Pacheco,Rutgers,587,2019-20,1,[12],['11/30/2019'],['Penn St.'],[102.0]
+523.0,87.0,Johnny Langan,Rutgers,587,2019-20,1,[8],['10/26/2019'],['Liberty'],[118.0]
+523.0,87.0,Chance Bell,San Diego St.,626,2019-20,1,[3],['09/14/2019'],['New Mexico St.'],[116.0]
+523.0,87.0,Jordan Byrd,San Diego St.,626,2019-20,1,[13],['12/21/2019'],['Central Mich.'],[139.0]
+523.0,87.0,Dejon Packer,San Jose St.,630,2019-20,1,[10],['11/09/2019'],['Hawaii'],[112.0]
+523.0,87.0,Tra Minter,South Alabama,646,2019-20,1,[12],['11/29/2019'],['Arkansas St.'],[106.0]
+523.0,87.0,Carlos Davis,South Alabama,646,2019-20,1,[10],['11/16/2019'],['Louisiana'],[122.0]
+523.0,87.0,Mon Denson,South Carolina,648,2019-20,1,[2],['09/07/2019'],['Charleston So.'],[118.0]
+523.0,87.0,Rico Dowdle,South Carolina,648,2019-20,1,[5],['09/28/2019'],['Kentucky'],[102.0]
+523.0,87.0,Tavien Feaster,South Carolina,648,2019-20,1,[7],['10/19/2019'],['Florida'],[175.0]
+523.0,87.0,Kevin Harris,South Carolina,648,2019-20,1,[2],['09/07/2019'],['Charleston So.'],[147.0]
+523.0,87.0,Deshaun Fenwick,South Carolina,648,2019-20,1,[9],['11/02/2019'],['Vanderbilt'],[102.0]
+523.0,87.0,Kelley Joiner,South Fla.,651,2019-20,1,[10],['11/23/2019'],['Memphis'],[115.0]
+199.0,38.0,Jordan Cronkrite,South Fla.,651,2019-20,2,"[4, 5]","['10/05/2019', '10/12/2019']","['UConn', 'BYU']","[148.0, 158.0]"
+523.0,87.0,Kenan Christon,Southern California,657,2019-20,1,[7],['10/19/2019'],['Arizona'],[103.0]
+523.0,87.0,Vavae Malepeai,Southern California,657,2019-20,1,[1],['08/31/2019'],['Fresno St.'],[134.0]
+523.0,87.0,TJ McDaniel,SMU,663,2019-20,1,[3],['09/14/2019'],['Texas St.'],[159.0]
+54.0,12.0,Xavier Jones,SMU,663,2019-20,4,"[5, 6, 7, 8]","['09/28/2019', '10/05/2019', '10/19/2019', '10/24/2019']","['South Fla.', 'Tulsa', 'Temple', 'Houston']","[155.0, 121.0, 105.0, 133.0]"
+523.0,87.0,De'Michael Harris,Southern Miss.,664,2019-20,1,[10],['11/16/2019'],['UTSA'],[121.0]
+523.0,87.0,Caleb Twyford,Texas St.,670,2019-20,1,[4],['09/21/2019'],['Georgia St.'],[137.0]
+199.0,38.0,Elijah Mitchell,Louisiana,671,2019-20,2,"[7, 8]","['10/17/2019', '11/02/2019']","['Arkansas St.', 'Texas St.']","[109.0, 126.0]"
+199.0,38.0,Trey Ragas,Louisiana,671,2019-20,2,"[4, 5]","['09/21/2019', '09/28/2019']","['Ohio', 'Ga. Southern']","[129.0, 131.0]"
+523.0,87.0,T.J. Wisham,Louisiana,671,2019-20,1,[3],['09/14/2019'],['Texas Southern'],[105.0]
+523.0,87.0,Raymond Calais,Louisiana,671,2019-20,1,[12],['11/30/2019'],['ULM'],[107.0]
+523.0,87.0,Cameron Scarlett,Stanford,674,2019-20,1,[8],['10/26/2019'],['Arizona'],[102.0]
+523.0,87.0,Jarveon Howard,Syracuse,688,2019-20,1,[10],['11/16/2019'],['Duke'],[115.0]
+199.0,38.0,Moe Neal,Syracuse,688,2019-20,2,"[10, 11]","['11/16/2019', '11/23/2019']","['Duke', 'Louisville']","[115.0, 163.0]"
+523.0,87.0,Jager Gardner,Temple,690,2019-20,1,[9],['11/07/2019'],['South Fla.'],[133.0]
+199.0,38.0,Ray Davis,Temple,690,2019-20,2,"[4, 5]","['09/28/2019', '10/03/2019']","['Georgia Tech', 'East Carolina']","[135.0, 157.0]"
+523.0,87.0,Ty Chandler,Tennessee,694,2019-20,1,[2],['09/07/2019'],['BYU'],[154.0]
+523.0,87.0,Eric Gray,Tennessee,694,2019-20,1,[12],['11/30/2019'],['Vanderbilt'],[246.0]
+523.0,87.0,Kellen Mond,Texas A&M,697,2019-20,1,[13],['12/27/2019'],['Oklahoma St.'],[117.0]
+523.0,87.0,Cordarrian Richardson,Texas A&M,697,2019-20,1,[10],['11/16/2019'],['South Carolina'],[130.0]
+199.0,38.0,Isaiah Spiller,Texas A&M,697,2019-20,2,"[9, 10]","['11/02/2019', '11/16/2019']","['UTSA', 'South Carolina']","[217.0, 129.0]"
+523.0,87.0,Jashaun Corbin,Texas A&M,697,2019-20,1,[1],['08/29/2019'],['Texas St.'],[103.0]
+523.0,87.0,Max Duggan,TCU,698,2019-20,1,[6],['10/19/2019'],['Kansas St.'],[115.0]
+96.0,22.0,Darius Anderson,TCU,698,2019-20,3,"[2, 3, 4]","['09/14/2019', '09/21/2019', '09/28/2019']","['Purdue', 'SMU', 'Kansas']","[179.0, 161.0, 115.0]"
+523.0,87.0,Sewo Olonilua,TCU,698,2019-20,1,[2],['09/14/2019'],['Purdue'],[106.0]
+523.0,87.0,SaRodorick Thompson,Texas Tech,700,2019-20,1,[6],['10/12/2019'],['Baylor'],[153.0]
+523.0,87.0,Armand Shyne,Texas Tech,700,2019-20,1,[1],['08/31/2019'],['Montana St.'],[125.0]
+523.0,87.0,Keaontay Ingram,Texas,703,2019-20,1,[13],['12/31/2019'],['Utah'],[108.0]
+523.0,87.0,Roschon Johnson,Texas,703,2019-20,1,[12],['11/29/2019'],['Texas Tech'],[105.0]
+523.0,87.0,Treyvon Hughes,UTEP,704,2019-20,1,[1],['08/31/2019'],['Houston Christian'],[144.0]
+523.0,87.0,Kai Locksley,UTEP,704,2019-20,1,[10],['11/23/2019'],['New Mexico St.'],[103.0]
+523.0,87.0,Frank Harris,UTSA,706,2019-20,1,[1],['08/31/2019'],['UIW'],[123.0]
+523.0,87.0,Lowell Narcisse,UTSA,706,2019-20,1,[5],['10/05/2019'],['UTEP'],[115.0]
+523.0,87.0,Sincere McCormick,UTSA,706,2019-20,1,[12],['11/30/2019'],['Louisiana Tech'],[119.0]
+199.0,38.0,Shakif Seymour,Toledo,709,2019-20,2,"[9, 10]","['11/05/2019', '11/13/2019']","['Kent St.', 'NIU']","[175.0, 133.0]"
+523.0,87.0,Mitchell Guadagni,Toledo,709,2019-20,1,[3],['09/21/2019'],['Colorado St.'],[119.0]
+523.0,87.0,Bryant Koback,Toledo,709,2019-20,1,[8],['10/26/2019'],['Eastern Mich.'],[259.0]
+523.0,87.0,B.J. Smith,Troy,716,2019-20,1,[1],['08/31/2019'],['Campbell'],[108.0]
+199.0,38.0,DK Billingsley,Troy,716,2019-20,2,"[3, 4]","['09/21/2019', '09/28/2019']","['Akron', 'Arkansas St.']","[100.0, 103.0]"
+523.0,87.0,J. McMILLAN,Tulane,718,2019-20,1,[11],['11/23/2019'],['UCF'],[102.0]
+523.0,87.0,Stephon Huderson,Tulane,718,2019-20,1,[9],['11/02/2019'],['Tulsa'],[100.0]
+523.0,87.0,Darius Bradwell,Tulane,718,2019-20,1,[4],['09/19/2019'],['Houston'],[113.0]
+199.0,38.0,Shamari Brooks,Tulsa,719,2019-20,2,"[2, 3]","['09/07/2019', '09/14/2019']","['San Jose St.', 'Oklahoma St.']","[140.0, 107.0]"
+54.0,12.0,Timothy Jackson,Air Force,721,2019-20,4,"[6, 7, 8, 9]","['10/12/2019', '10/19/2019', '10/26/2019', '11/02/2019']","['Fresno St.', 'Hawaii', 'Utah St.', 'Army West Point']","[117.0, 113.0, 148.0, 155.0]"
+523.0,87.0,Taven Birdow,Air Force,721,2019-20,1,[13],['12/27/2019'],['Washington St.'],[108.0]
+523.0,87.0,Mike Schmidt,Air Force,721,2019-20,1,[7],['10/19/2019'],['Hawaii'],[120.0]
+523.0,87.0,Kadin Remsberg,Air Force,721,2019-20,1,[13],['12/27/2019'],['Washington St.'],[178.0]
+523.0,87.0,Jabari Laws,Army West Point,725,2019-20,1,[10],['11/09/2019'],['Massachusetts'],[140.0]
+523.0,87.0,Kelvin Hopkins Jr.,Army West Point,725,2019-20,1,[11],['11/16/2019'],['VMI'],[208.0]
+523.0,87.0,Connor Slomka,Army West Point,725,2019-20,1,[4],['09/21/2019'],['Morgan St.'],[110.0]
+523.0,87.0,Christian Anderson,Army West Point,725,2019-20,1,[12],['11/30/2019'],['Hawaii'],[114.0]
+2.0,2.0,Malcolm Perry,Navy,726,2019-20,10,"[4, 5, 6, 7, 8, 9, 10, 11, 12, 13]","['10/05/2019', '10/12/2019', '10/19/2019', '10/26/2019', '11/01/2019', '11/16/2019', '11/23/2019', '11/30/2019', '12/14/2019', '12/31/2019']","['Air Force', 'Tulsa', 'South Fla.', 'Tulane', 'UConn', 'Notre Dame', 'SMU', 'Houston', 'Army West Point', 'Kansas St.']","[111.0, 218.0, 188.0, 142.0, 108.0, 117.0, 195.0, 146.0, 304.0, 213.0]"
+523.0,87.0,Keoni-Kordell Makekau,Navy,726,2019-20,1,[3],['09/26/2019'],['Memphis'],[101.0]
+523.0,87.0,Jamale Carothers,Navy,726,2019-20,1,[11],['11/30/2019'],['Houston'],[188.0]
+523.0,87.0,Gerold Bright,Utah St.,731,2019-20,1,[12],['11/30/2019'],['New Mexico'],[113.0]
+199.0,38.0,Jaylen Warren,Utah St.,731,2019-20,2,"[1, 2]","['08/30/2019', '09/07/2019']","['Wake Forest', 'Stony Brook']","[141.0, 105.0]"
+54.0,12.0,Zack Moss,Utah,732,2019-20,4,"[8, 9, 10, 11]","['10/26/2019', '11/02/2019', '11/16/2019', '11/23/2019']","['California', 'Washington', 'UCLA', 'Arizona']","[115.0, 100.0, 127.0, 203.0]"
+199.0,38.0,Ke'Shawn Vaughn,Vanderbilt,736,2019-20,2,"[3, 4]","['09/21/2019', '09/28/2019']","['LSU', 'NIU']","[130.0, 138.0]"
+523.0,87.0,Quincy Patterson,Virginia Tech,742,2019-20,1,[7],['10/19/2019'],['North Carolina'],[122.0]
+523.0,87.0,Deshawn McClease,Virginia Tech,742,2019-20,1,[13],['12/31/2019'],['Kentucky'],[126.0]
+523.0,87.0,Keshawn King,Virginia Tech,742,2019-20,1,[3],['09/14/2019'],['Furman'],[119.0]
+199.0,38.0,Bryce Perkins,Virginia,746,2019-20,2,"[9, 10]","['11/02/2019', '11/09/2019']","['North Carolina', 'Georgia Tech']","[112.0, 106.0]"
+523.0,87.0,Kenneth Walker III,Wake Forest,749,2019-20,1,[11],['11/23/2019'],['Duke'],[113.0]
+523.0,87.0,Cade Carney,Wake Forest,749,2019-20,1,[1],['08/30/2019'],['Utah St.'],[105.0]
+523.0,87.0,Jamie Newman,Wake Forest,749,2019-20,1,[11],['11/23/2019'],['Duke'],[144.0]
+523.0,87.0,Christian Beal-Smith,Wake Forest,749,2019-20,1,[6],['10/12/2019'],['Louisville'],[123.0]
+523.0,87.0,Max Borghi,Washington St.,754,2019-20,1,[10],['11/16/2019'],['Stanford'],[111.0]
+523.0,87.0,Sean McGrew,Washington,756,2019-20,1,[6],['10/12/2019'],['Arizona'],[106.0]
+523.0,87.0,Salvon Ahmed,Washington,756,2019-20,1,[9],['11/08/2019'],['Oregon St.'],[174.0]
+199.0,38.0,Gaej Walker,Western Ky.,772,2019-20,2,"[5, 6]","['10/05/2019', '10/12/2019']","['Old Dominion', 'Army West Point']","[114.0, 132.0]"
+523.0,87.0,Sean Tyler,Western Mich.,774,2019-20,1,[3],['09/14/2019'],['Georgia St.'],[138.0]
+523.0,87.0,Jon Wassink,Western Mich.,774,2019-20,1,[10],['11/05/2019'],['Ball St.'],[131.0]
+54.0,12.0,Levante Bellamy,Western Mich.,774,2019-20,4,"[7, 8, 9, 10]","['10/12/2019', '10/19/2019', '10/26/2019', '11/05/2019']","['Miami (OH)', 'Eastern Mich.', 'Bowling Green', 'Ball St.']","[135.0, 113.0, 178.0, 157.0]"
+31.0,7.0,Jonathan Taylor,Wisconsin,796,2019-20,5,"[1, 2, 3, 4, 5]","['08/30/2019', '09/07/2019', '09/21/2019', '09/28/2019', '10/05/2019']","['South Fla.', 'Central Mich.', 'Michigan', 'Northwestern', 'Kent St.']","[135.0, 102.0, 203.0, 119.0, 186.0]"
+523.0,87.0,Trey Smith,Wyoming,811,2019-20,1,[3],['09/14/2019'],['Idaho'],[152.0]
+523.0,87.0,Titus Swen,Wyoming,811,2019-20,1,[5],['09/28/2019'],['UNLV'],[136.0]
+31.0,7.0,Xazavian Valladay,Wyoming,811,2019-20,5,"[7, 8, 9, 10, 11]","['10/19/2019', '10/26/2019', '11/09/2019', '11/16/2019', '11/22/2019']","['New Mexico', 'Nevada', 'Boise St.', 'Utah St.', 'Colorado St.']","[127.0, 206.0, 124.0, 114.0, 154.0]"
+523.0,87.0,Sean Chambers,Wyoming,811,2019-20,1,[7],['10/19/2019'],['New Mexico'],[117.0]
+199.0,38.0,Frankie Hickson,Liberty,355,2019-20,2,"[12, 13]","['11/30/2019', '12/21/2019']","['New Mexico St.', 'Ga. Southern']","[196.0, 120.0]"
+523.0,87.0,Joshua Mack,Liberty,355,2019-20,1,[12],['11/30/2019'],['New Mexico St.'],[118.0]
+523.0,87.0,Brandon Robinson,Liberty,355,2019-20,1,[4],['09/21/2019'],['Hampton'],[105.0]
+96.0,19.0,Spencer Brown,UAB,9,2018-19,3,"[7, 8, 9]","['10/20/2018', '10/27/2018', '11/03/2018']","['North Texas', 'UTEP', 'UTSA']","[100.0, 100.0, 147.0]"
+523.0,102.0,Van Edwards,Akron,5,2018-19,1,[1],['09/08/2018'],['Morgan St.'],[109.0]
+523.0,102.0,Najee Harris,Alabama,8,2018-19,1,[2],['09/08/2018'],['Arkansas St.'],[135.0]
+523.0,102.0,Damien Harris,Alabama,8,2018-19,1,[9],['11/03/2018'],['LSU'],[107.0]
+523.0,102.0,D'Andre Hicks,App State,27,2018-19,1,[3],['09/22/2018'],['Gardner-Webb'],[150.0]
+199.0,43.0,Jalin Moore,App State,27,2018-19,2,"[3, 4]","['09/22/2018', '09/29/2018']","['Gardner-Webb', 'South Alabama']","[119.0, 123.0]"
+54.0,7.0,Darrynton Evans,App State,27,2018-19,4,"[10, 11, 12, 13]","['11/17/2018', '11/24/2018', '12/01/2018', '12/15/2018']","['Georgia St.', 'Troy', 'Louisiana', 'Middle Tenn.']","[127.0, 108.0, 111.0, 108.0]"
+523.0,102.0,Marcus Williams Jr.,App State,27,2018-19,1,[8],['11/03/2018'],['Coastal Carolina'],[103.0]
+54.0,7.0,Eno Benjamin,Arizona St.,28,2018-19,4,"[8, 9, 10, 11]","['10/27/2018', '11/03/2018', '11/10/2018', '11/17/2018']","['Southern California', 'Utah', 'UCLA', 'Oregon']","[185.0, 175.0, 182.0, 149.0]"
+523.0,102.0,Gary Brightwell,Arizona,29,2018-19,1,[8],['10/20/2018'],['UCLA'],[121.0]
+96.0,19.0,J.J. Taylor,Arizona,29,2018-19,3,"[8, 9, 10]","['10/20/2018', '10/27/2018', '11/02/2018']","['UCLA', 'Oregon', 'Colorado']","[154.0, 212.0, 192.0]"
+199.0,43.0,Warren Wand,Arkansas St.,30,2018-19,2,"[12, 13]","['11/24/2018', '12/29/2018']","['Texas St.', 'Nevada']","[145.0, 140.0]"
+199.0,43.0,Marcel Murray,Arkansas St.,30,2018-19,2,"[7, 8]","['10/18/2018', '10/27/2018']","['Georgia St.', 'Louisiana']","[115.0, 121.0]"
+523.0,102.0,Devwah Whaley,Arkansas,31,2018-19,1,[2],['09/08/2018'],['Colorado St.'],[165.0]
+199.0,43.0,Rakeem Boyd,Arkansas,31,2018-19,2,"[6, 7]","['10/06/2018', '10/13/2018']","['Alabama', 'Ole Miss']","[102.0, 109.0]"
+523.0,102.0,Shaun Shivers,Auburn,37,2018-19,1,[2],['09/08/2018'],['Alabama St.'],[117.0]
+523.0,102.0,Kam Martin,Auburn,37,2018-19,1,[11],['11/17/2018'],['Liberty'],[116.0]
+199.0,43.0,JaTarvious Whitlow,Auburn,37,2018-19,2,"[2, 3]","['09/08/2018', '09/15/2018']","['Alabama St.', 'LSU']","[122.0, 104.0]"
+523.0,102.0,James Gilbert,Ball St.,47,2018-19,1,[1],['08/30/2018'],['Central Conn. St.'],[100.0]
+523.0,102.0,Trestan Ebner,Baylor,51,2018-19,1,[6],['10/06/2018'],['Kansas St.'],[100.0]
+523.0,102.0,John Lovett,Baylor,51,2018-19,1,[12],['11/24/2018'],['Texas Tech'],[125.0]
+523.0,102.0,Jamycal Hasty,Baylor,51,2018-19,1,[1],['09/01/2018'],['Abilene Christian'],[102.0]
+523.0,102.0,Charlie Brewer,Baylor,51,2018-19,1,[13],['12/27/2018'],['Vanderbilt'],[109.0]
+54.0,7.0,Alexander Mattison,Boise St.,66,2018-19,4,"[10, 11, 12, 13]","['11/09/2018', '11/16/2018', '11/24/2018', '12/01/2018']","['Fresno St.', 'New Mexico', 'Utah St.', 'Fresno St.']","[144.0, 145.0, 200.0, 200.0]"
+199.0,43.0,AJ Dillon,Boston College,67,2018-19,2,"[5, 8]","['09/29/2018', '10/26/2018']","['Temple', 'Miami (FL)']","[161.0, 149.0]"
+523.0,102.0,Ben Glines,Boston College,67,2018-19,1,[7],['10/13/2018'],['Louisville'],[107.0]
+523.0,102.0,David Bailey,Boston College,67,2018-19,1,[7],['10/13/2018'],['Louisville'],[112.0]
+523.0,102.0,Andrew Clair,Bowling Green,71,2018-19,1,[11],['11/17/2018'],['Akron'],[112.0]
+523.0,102.0,Squally Canada,BYU,77,2018-19,1,[3],['09/15/2018'],['Wisconsin'],[118.0]
+523.0,102.0,Riley Burt,BYU,77,2018-19,1,[13],['12/21/2018'],['Western Mich.'],[110.0]
+523.0,102.0,Lopini Katoa,BYU,77,2018-19,1,[11],['11/17/2018'],['New Mexico St.'],[155.0]
+523.0,102.0,Jaret Patterson,Buffalo,86,2018-19,1,[10],['11/06/2018'],['Kent St.'],[187.0]
+523.0,102.0,Kevin Marks,Buffalo,86,2018-19,1,[6],['10/06/2018'],['Central Mich.'],[167.0]
+523.0,102.0,Emmanuel Reed,Buffalo,86,2018-19,1,[12],['11/23/2018'],['Bowling Green'],[109.0]
+523.0,102.0,Ronnie Rivers,Fresno St.,96,2018-19,1,[14],['12/15/2018'],['Arizona St.'],[212.0]
+199.0,43.0,Brandon McIlwain,California,107,2018-19,2,"[4, 5]","['09/29/2018', '10/06/2018']","['Oregon', 'Arizona']","[123.0, 107.0]"
+523.0,102.0,Patrick Laird,California,107,2018-19,1,[11],['12/01/2018'],['Stanford'],[116.0]
+54.0,7.0,Joshua Kelley,UCLA,110,2018-19,4,"[4, 5, 6, 7]","['09/28/2018', '10/06/2018', '10/13/2018', '10/20/2018']","['Colorado', 'Washington', 'California', 'Arizona']","[124.0, 125.0, 157.0, 136.0]"
+523.0,102.0,Kazmeir Allen,UCLA,110,2018-19,1,[1],['09/01/2018'],['Cincinnati'],[103.0]
+523.0,102.0,Adrian Killins,UCF,128,2018-19,1,[5],['10/06/2018'],['SMU'],[113.0]
+199.0,43.0,Greg McCrae,UCF,128,2018-19,2,"[11, 12]","['11/23/2018', '12/01/2018']","['South Fla.', 'Memphis']","[181.0, 206.0]"
+523.0,102.0,D.J. Mack Jr.,UCF,128,2018-19,1,[7],['10/20/2018'],['East Carolina'],[120.0]
+523.0,102.0,Romello Ross,Central Mich.,129,2018-19,1,[7],['10/13/2018'],['Ball St.'],[111.0]
+199.0,43.0,Tommy Lazzaro,Central Mich.,129,2018-19,2,"[6, 7]","['10/06/2018', '10/13/2018']","['Buffalo', 'Ball St.']","[102.0, 110.0]"
+54.0,7.0,Michael Warren II,Cincinnati,140,2018-19,4,"[4, 5, 6, 7]","['09/22/2018', '09/29/2018', '10/06/2018', '10/20/2018']","['Ohio', 'UConn', 'Tulane', 'Temple']","[124.0, 106.0, 123.0, 132.0]"
+523.0,102.0,Desmond Ridder,Cincinnati,140,2018-19,1,[2],['09/08/2018'],['Miami (OH)'],[100.0]
+523.0,102.0,Charles McClelland,Cincinnati,140,2018-19,1,[12],['11/23/2018'],['East Carolina'],[114.0]
+523.0,102.0,Tavion Thomas,Cincinnati,140,2018-19,1,[12],['11/23/2018'],['East Carolina'],[106.0]
+31.0,3.0,Travis Etienne,Clemson,147,2018-19,5,"[10, 11, 12, 13, 14]","['11/24/2018', '09/15/2018', '10/06/2018', '12/01/2018', '12/29/2018']","['South Carolina', 'Ga. Southern', 'Wake Forest', 'Pittsburgh', 'Notre Dame']","[150.0, 162.0, 167.0, 156.0, 109.0]"
+523.0,102.0,Adam Choice,Clemson,147,2018-19,1,[12],['10/06/2018'],['Wake Forest'],[128.0]
+523.0,102.0,Lyn-J Dixon,Clemson,147,2018-19,1,[12],['10/06/2018'],['Wake Forest'],[163.0]
+523.0,102.0,Tavien Feaster,Clemson,147,2018-19,1,[7],['11/03/2018'],['Louisville'],[101.0]
+523.0,102.0,CJ Marable,Coastal Carolina,149,2018-19,1,[8],['10/27/2018'],['Georgia St.'],[128.0]
+523.0,102.0,Marcus Outlow,Coastal Carolina,149,2018-19,1,[6],['10/13/2018'],['ULM'],[104.0]
+523.0,102.0,Izzy Matthews,Colorado St.,156,2018-19,1,[11],['11/17/2018'],['Utah St.'],[100.0]
+96.0,19.0,Travon McMillian,Colorado,157,2018-19,3,"[3, 4, 5]","['09/15/2018', '09/28/2018', '10/06/2018']","['New Hampshire', 'UCLA', 'Arizona St.']","[162.0, 102.0, 136.0]"
+523.0,102.0,Kevin Mensah,UConn,164,2018-19,1,[10],['11/10/2018'],['SMU'],[187.0]
+54.0,7.0,David Pindell,UConn,164,2018-19,4,"[7, 8, 9, 10]","['10/20/2018', '10/27/2018', '11/03/2018', '11/10/2018']","['South Fla.', 'Massachusetts', 'Tulsa', 'SMU']","[197.0, 120.0, 150.0, 178.0]"
+523.0,102.0,Brittain Brown,Duke,193,2018-19,1,[4],['09/22/2018'],['N.C. Central'],[118.0]
+523.0,102.0,Daniel Jones,Duke,193,2018-19,1,[10],['11/10/2018'],['North Carolina'],[186.0]
+199.0,43.0,Deon Jackson,Duke,193,2018-19,2,"[8, 9]","['10/27/2018', '11/03/2018']","['Pittsburgh', 'Miami (FL)']","[162.0, 113.0]"
+523.0,102.0,Trace Christian,East Carolina,196,2018-19,1,[10],['11/17/2018'],['UConn'],[102.0]
+523.0,102.0,Holton Ahlers,East Carolina,196,2018-19,1,[10],['11/17/2018'],['UConn'],[130.0]
+523.0,102.0,Ian Eriksen,Eastern Mich.,204,2018-19,1,[12],['11/23/2018'],['Kent St.'],[118.0]
+523.0,102.0,Shaq Vann,Eastern Mich.,204,2018-19,1,[10],['11/03/2018'],['Central Mich.'],[114.0]
+199.0,43.0,Mike Glass III,Eastern Mich.,204,2018-19,2,"[6, 7]","['10/06/2018', '10/13/2018']","['Western Mich.', 'Toledo']","[101.0, 125.0]"
+199.0,43.0,Kerrith Whyte,Fla. Atlantic,229,2018-19,2,"[7, 8]","['11/03/2018', '11/10/2018']","['FIU', 'Western Ky.']","[165.0, 163.0]"
+96.0,19.0,Devin Singletary,Fla. Atlantic,229,2018-19,3,"[6, 7, 8]","['10/26/2018', '11/03/2018', '11/10/2018']","['Louisiana Tech', 'FIU', 'Western Ky.']","[171.0, 184.0, 148.0]"
+523.0,102.0,D'vonte Price,FIU,231,2018-19,1,[8],['10/27/2018'],['Western Ky.'],[119.0]
+523.0,102.0,Shawndarrius Phillips,FIU,231,2018-19,1,[3],['09/15/2018'],['Massachusetts'],[117.0]
+523.0,102.0,Napoleon Maxwell,FIU,231,2018-19,1,[11],['11/17/2018'],['Charlotte'],[102.0]
+523.0,102.0,Cam Akers,Florida St.,234,2018-19,1,[11],['11/17/2018'],['Boston College'],[110.0]
+523.0,102.0,Lamical Perine,Florida,235,2018-19,1,[12],['11/24/2018'],['Florida St.'],[129.0]
+523.0,102.0,Jordan Scarlett,Florida,235,2018-19,1,[10],['11/10/2018'],['South Carolina'],[159.0]
+523.0,102.0,Shai Werts,Ga. Southern,253,2018-19,1,[7],['10/25/2018'],['App State'],[129.0]
+523.0,102.0,Wesley Kennedy III,Ga. Southern,253,2018-19,1,[13],['12/15/2018'],['Eastern Mich.'],[107.0]
+523.0,102.0,Logan Wright,Ga. Southern,253,2018-19,1,[6],['10/20/2018'],['New Mexico St.'],[136.0]
+199.0,43.0,Wesley Fields,Ga. Southern,253,2018-19,2,"[10, 11]","['11/17/2018', '11/24/2018']","['Coastal Carolina', 'Georgia St.']","[148.0, 151.0]"
+523.0,102.0,Tra Barnett,Georgia St.,254,2018-19,1,[7],['10/27/2018'],['Coastal Carolina'],[161.0]
+523.0,102.0,Seth Paige,Georgia St.,254,2018-19,1,[12],['09/29/2018'],['ULM'],[145.0]
+523.0,102.0,Dan Ellington,Georgia St.,254,2018-19,1,[10],['11/17/2018'],['App State'],[113.0]
+199.0,43.0,Taquon Marshall,Georgia Tech,255,2018-19,2,"[2, 3]","['09/08/2018', '09/15/2018']","['South Fla.', 'Pittsburgh']","[113.0, 103.0]"
+199.0,43.0,Tobias Oliver,Georgia Tech,255,2018-19,2,"[8, 9]","['10/25/2018', '11/03/2018']","['Virginia Tech', 'North Carolina']","[215.0, 120.0]"
+96.0,19.0,D'Andre Swift,Georgia,257,2018-19,3,"[8, 9, 10]","['10/27/2018', '11/03/2018', '11/10/2018']","['Florida', 'Kentucky', 'Auburn']","[104.0, 156.0, 186.0]"
+523.0,102.0,Elijah Holyfield,Georgia,257,2018-19,1,[9],['11/03/2018'],['Kentucky'],[115.0]
+523.0,102.0,Justin Fields,Georgia,257,2018-19,1,[11],['11/17/2018'],['Massachusetts'],[100.0]
+523.0,102.0,Dayton Furuta,Hawaii,277,2018-19,1,[7],['10/06/2018'],['Wyoming'],[101.0]
+523.0,102.0,Freddie Holly III,Hawaii,277,2018-19,1,[3],['09/08/2018'],['Rice'],[100.0]
+523.0,102.0,Patrick Carr,Houston,288,2018-19,1,[11],['11/15/2018'],['Tulane'],[139.0]
+523.0,102.0,Kelan Walker,Houston,288,2018-19,1,[4],['09/22/2018'],['Texas Southern'],[105.0]
+523.0,102.0,D'Eriq King,Houston,288,2018-19,1,[10],['11/10/2018'],['Temple'],[125.0]
+199.0,43.0,Mike Epstein,Illinois,301,2018-19,2,"[2, 3]","['09/08/2018', '09/15/2018']","['Western Ill.', 'South Fla.']","[105.0, 113.0]"
+96.0,19.0,Reggie Corbin,Illinois,301,2018-19,3,"[7, 8, 9]","['10/20/2018', '10/27/2018', '11/03/2018']","['Wisconsin', 'Maryland', 'Minnesota']","[100.0, 155.0, 213.0]"
+199.0,43.0,AJ Bush,Illinois,301,2018-19,2,"[9, 10]","['11/03/2018', '11/10/2018']","['Minnesota', 'Nebraska']","[127.0, 187.0]"
+96.0,19.0,Stevie Scott III,Indiana,306,2018-19,3,"[10, 11, 12]","['11/10/2018', '11/17/2018', '11/24/2018']","['Maryland', 'Michigan', 'Purdue']","[103.0, 139.0, 104.0]"
+54.0,7.0,David Montgomery,Iowa St.,311,2018-19,4,"[3, 4, 6, 7]","['09/22/2018', '09/29/2018', '10/13/2018', '10/27/2018']","['Akron', 'TCU', 'West Virginia', 'Texas Tech']","[107.0, 101.0, 189.0, 125.0]"
+199.0,43.0,Mekhi Sargent,Iowa,312,2018-19,2,"[11, 12]","['11/17/2018', '11/23/2018']","['Illinois', 'Nebraska']","[121.0, 173.0]"
+54.0,7.0,Alex Barnes,Kansas St.,327,2018-19,4,"[9, 10, 11, 12]","['11/03/2018', '11/10/2018', '11/17/2018', '11/24/2018']","['TCU', 'Kansas', 'Texas Tech', 'Iowa St.']","[102.0, 117.0, 136.0, 184.0]"
+199.0,43.0,Pooka Williams,Kansas,328,2018-19,2,"[11, 12]","['11/17/2018', '11/23/2018']","['Oklahoma', 'Texas']","[252.0, 103.0]"
+96.0,19.0,Jo-El Shaw,Kent St.,331,2018-19,3,"[10, 11, 12]","['11/15/2018', '11/23/2018', '09/08/2018']","['Toledo', 'Eastern Mich.', 'Howard']","[116.0, 159.0, 105.0]"
+523.0,102.0,Woody Barrett,Kent St.,331,2018-19,1,[1],['09/01/2018'],['Illinois'],[117.0]
+523.0,102.0,Justin Rankin,Kent St.,331,2018-19,1,[12],['09/08/2018'],['Howard'],[147.0]
+96.0,19.0,Benny Snell Jr.,Kentucky,334,2018-19,3,"[11, 12, 13]","['11/17/2018', '11/24/2018', '01/01/2019']","['Middle Tenn.', 'Louisville', 'Penn St.']","[116.0, 100.0, 144.0]"
+523.0,102.0,Terry Wilson Jr.,Kentucky,334,2018-19,1,[2],['09/08/2018'],['Florida'],[105.0]
+523.0,102.0,Asim Rose,Kentucky,334,2018-19,1,[12],['11/24/2018'],['Louisville'],[112.0]
+523.0,102.0,Joe Burrow,LSU,365,2018-19,1,[12],['11/24/2018'],['Texas A&M'],[100.0]
+523.0,102.0,Clyde Edwards-Helaire,LSU,365,2018-19,1,[7],['10/13/2018'],['Georgia'],[145.0]
+199.0,43.0,Nick Brossette,LSU,365,2018-19,2,"[1, 2]","['09/02/2018', '09/08/2018']","['Miami (FL)', 'Southeastern La.']","[125.0, 137.0]"
+523.0,102.0,Jaqwis Dancy,Louisiana Tech,366,2018-19,1,[8],['10/26/2018'],['Fla. Atlantic'],[138.0]
+523.0,102.0,Malik Cunningham,Louisville,367,2018-19,1,[11],['11/17/2018'],['NC State'],[100.0]
+199.0,43.0,Brenden Knox,Marshall,388,2018-19,2,"[11, 12]","['11/24/2018', '12/01/2018']","['FIU', 'Virginia Tech']","[109.0, 204.0]"
+96.0,19.0,Tyler King,Marshall,388,2018-19,3,"[5, 6, 7]","['10/05/2018', '10/13/2018', '10/20/2018']","['Middle Tenn.', 'Old Dominion', 'Fla. Atlantic']","[165.0, 195.0, 125.0]"
+523.0,102.0,Javon Leake,Maryland,392,2018-19,1,[8],['10/27/2018'],['Illinois'],[140.0]
+199.0,43.0,Anthony McFarland,Maryland,392,2018-19,2,"[10, 11]","['11/10/2018', '11/17/2018']","['Indiana', 'Ohio St.']","[210.0, 298.0]"
+523.0,102.0,Ty Johnson,Maryland,392,2018-19,1,[6],['10/13/2018'],['Rutgers'],[132.0]
+523.0,102.0,Tayon Fleet-Davis,Maryland,392,2018-19,1,[2],['09/08/2018'],['Bowling Green'],[102.0]
+199.0,43.0,Marquis Young,Massachusetts,400,2018-19,2,"[9, 10]","['10/27/2018', '11/03/2018']","['UConn', 'Liberty']","[148.0, 148.0]"
+523.0,102.0,Bilal Ally,Massachusetts,400,2018-19,1,[1],['08/25/2018'],['Duquesne'],[109.0]
+54.0,7.0,Patrick Taylor,Memphis,404,2018-19,4,"[11, 12, 13, 14]","['11/16/2018', '11/23/2018', '12/01/2018', '12/22/2018']","['SMU', 'Houston', 'UCF', 'Wake Forest']","[112.0, 128.0, 118.0, 110.0]"
+96.0,19.0,Darrell Henderson,Memphis,404,2018-19,3,"[2, 3, 4]","['09/08/2018', '09/14/2018', '09/22/2018']","['Navy', 'Georgia St.', 'South Alabama']","[212.0, 233.0, 188.0]"
+523.0,102.0,Tony Pollard,Memphis,404,2018-19,1,[14],['12/22/2018'],['Wake Forest'],[109.0]
+523.0,102.0,Alonzo Smith,Miami (OH),414,2018-19,1,[12],['11/20/2018'],['Ball St.'],[207.0]
+523.0,102.0,Travis Homer,Miami (FL),415,2018-19,1,[12],['11/24/2018'],['Pittsburgh'],[168.0]
+523.0,102.0,Deejay Dallas,Miami (FL),415,2018-19,1,[9],['11/03/2018'],['Duke'],[124.0]
+523.0,102.0,Connor Heyward,Michigan St.,416,2018-19,1,[9],['11/03/2018'],['Maryland'],[157.0]
+11.0,1.0,Karan Higdon,Michigan,418,2018-19,7,"[2, 4, 5, 6, 7, 8, 9]","['09/08/2018', '09/22/2018', '09/29/2018', '10/06/2018', '10/13/2018', '10/20/2018', '11/03/2018']","['Western Mich.', 'Nebraska', 'Northwestern', 'Maryland', 'Wisconsin', 'Michigan St.', 'Penn St.']","[156.0, 136.0, 115.0, 103.0, 105.0, 144.0, 132.0]"
+523.0,102.0,Terelle West,Middle Tenn.,419,2018-19,1,[7],['10/27/2018'],['Old Dominion'],[120.0]
+523.0,102.0,Chaton Mobley,Middle Tenn.,419,2018-19,1,[10],['11/17/2018'],['Kentucky'],[145.0]
+523.0,102.0,Rodney Smith,Minnesota,428,2018-19,1,[1],['08/30/2018'],['New Mexico St.'],[153.0]
+523.0,102.0,Shannon Brooks,Minnesota,428,2018-19,1,[8],['10/26/2018'],['Indiana'],[154.0]
+523.0,102.0,Bryce Williams,Minnesota,428,2018-19,1,[3],['09/15/2018'],['Miami (OH)'],[141.0]
+199.0,43.0,Mohamed Ibrahim,Minnesota,428,2018-19,2,"[12, 13]","['11/24/2018', '12/26/2018']","['Wisconsin', 'Georgia Tech']","[121.0, 224.0]"
+523.0,102.0,Aeris Williams,Mississippi St.,430,2018-19,1,[11],['11/17/2018'],['Arkansas'],[104.0]
+523.0,102.0,Kylin Hill,Mississippi St.,430,2018-19,1,[12],['11/22/2018'],['Ole Miss'],[108.0]
+523.0,102.0,Keytaon Thompson,Mississippi St.,430,2018-19,1,[1],['09/01/2018'],['SFA'],[109.0]
+199.0,43.0,Nick Fitzgerald,Mississippi St.,430,2018-19,2,"[12, 13]","['11/22/2018', '01/01/2019']","['Ole Miss', 'Iowa']","[117.0, 103.0]"
+523.0,102.0,Isaiah Woullard,Ole Miss,433,2018-19,1,[11],['11/17/2018'],['Vanderbilt'],[107.0]
+523.0,102.0,Jordan Ta'amu,Ole Miss,433,2018-19,1,[7],['10/13/2018'],['Arkansas'],[141.0]
+199.0,43.0,Scottie Phillips,Ole Miss,433,2018-19,2,"[1, 2]","['09/01/2018', '09/08/2018']","['Texas Tech', 'Southern Ill.']","[204.0, 107.0]"
+96.0,19.0,Larry Rountree,Missouri,434,2018-19,3,"[11, 12, 13]","['11/17/2018', '11/23/2018', '12/31/2018']","['Tennessee', 'Arkansas', 'Oklahoma St.']","[135.0, 119.0, 204.0]"
+199.0,43.0,Damarea Crockett,Missouri,434,2018-19,2,"[9, 10]","['11/03/2018', '11/10/2018']","['Florida', 'Vanderbilt']","[114.0, 122.0]"
+523.0,102.0,Antonio Williams,North Carolina,457,2018-19,1,[6],['10/20/2018'],['Syracuse'],[116.0]
+523.0,102.0,Michael Carter,North Carolina,457,2018-19,1,[9],['11/10/2018'],['Duke'],[148.0]
+523.0,102.0,Hasaan Klugh,Charlotte,458,2018-19,1,[12],['11/24/2018'],['Fla. Atlantic'],[102.0]
+199.0,43.0,Benny Lemay,Charlotte,458,2018-19,2,"[11, 12]","['11/17/2018', '11/24/2018']","['FIU', 'Fla. Atlantic']","[159.0, 188.0]"
+199.0,43.0,Devine Ozigbo,Nebraska,463,2018-19,2,"[6, 7]","['10/13/2018', '10/20/2018']","['Northwestern', 'Minnesota']","[159.0, 152.0]"
+523.0,102.0,Adrian Martinez,Nebraska,463,2018-19,1,[7],['10/20/2018'],['Minnesota'],[125.0]
+523.0,102.0,Greg Bell,Nebraska,463,2018-19,1,[1],['09/08/2018'],['Colorado'],[104.0]
+523.0,102.0,Maurice Washington,Nebraska,463,2018-19,1,[7],['10/20/2018'],['Minnesota'],[109.0]
+199.0,43.0,Armani Rogers,UNLV,465,2018-19,2,"[2, 3]","['09/08/2018', '09/22/2018']","['UTEP', 'Arkansas St.']","[103.0, 181.0]"
+523.0,102.0,Charles Williams,UNLV,465,2018-19,1,[8],['11/03/2018'],['Fresno St.'],[121.0]
+199.0,43.0,Lexington Thomas,UNLV,465,2018-19,2,"[9, 10]","['11/10/2018', '11/17/2018']","['San Diego St.', 'Hawaii']","[133.0, 129.0]"
+523.0,102.0,Kelton Moore,Nevada,466,2018-19,1,[12],['11/24/2018'],['UNLV'],[129.0]
+523.0,102.0,Toa Taua,Nevada,466,2018-19,1,[11],['11/17/2018'],['San Jose St.'],[121.0]
+199.0,43.0,Christian Gibson,New Mexico St.,472,2018-19,2,"[5, 6]","['09/22/2018', '10/06/2018']","['UTEP', 'Liberty']","[103.0, 127.0]"
+523.0,102.0,Tyrone Owens,New Mexico,473,2018-19,1,[3],['09/15/2018'],['New Mexico St.'],[110.0]
+199.0,43.0,Reggie Gallaspy,NC State,490,2018-19,2,"[11, 12]","['11/24/2018', '12/01/2018']","['North Carolina', 'East Carolina']","[129.0, 220.0]"
+523.0,102.0,Ricky Person,NC State,490,2018-19,1,[4],['09/29/2018'],['Virginia'],[108.0]
+54.0,7.0,DeAndre Torrey,North Texas,497,2018-19,4,"[9, 10, 11, 12]","['10/27/2018', '11/10/2018', '11/15/2018', '11/24/2018']","['Rice', 'Old Dominion', 'Fla. Atlantic', 'UTSA']","[130.0, 145.0, 184.0, 155.0]"
+199.0,43.0,Loren Easly,North Texas,497,2018-19,2,"[4, 5]","['09/22/2018', '09/29/2018']","['Liberty', 'Louisiana Tech']","[177.0, 110.0]"
+523.0,102.0,Caleb Evans,ULM,498,2018-19,1,[8],['11/03/2018'],['Ga. Southern'],[102.0]
+523.0,102.0,Derrick Gore,ULM,498,2018-19,1,[8],['11/03/2018'],['Ga. Southern'],[114.0]
+523.0,102.0,Marcus Jones,NIU,503,2018-19,1,[10],['11/07/2018'],['Toledo'],[103.0]
+523.0,102.0,Marcus Childers,NIU,503,2018-19,1,[7],['10/13/2018'],['Ohio'],[169.0]
+96.0,19.0,Tre Harbison,NIU,503,2018-19,3,"[9, 10, 11]","['11/01/2018', '11/07/2018', '11/14/2018']","['Akron', 'Toledo', 'Miami (OH)']","[169.0, 139.0, 103.0]"
+199.0,43.0,Isaiah Bowser,Northwestern,509,2018-19,2,"[7, 8]","['10/20/2018', '10/27/2018']","['Rutgers', 'Wisconsin']","[108.0, 117.0]"
+199.0,43.0,Jeremy Larkin,Northwestern,509,2018-19,2,"[1, 2]","['08/30/2018', '09/08/2018']","['Purdue', 'Duke']","[143.0, 121.0]"
+199.0,43.0,Dexter Williams,Notre Dame,513,2018-19,2,"[5, 6]","['09/29/2018', '10/06/2018']","['Stanford', 'Virginia Tech']","[161.0, 178.0]"
+523.0,102.0,Tony Jones Jr.,Notre Dame,513,2018-19,1,[3],['09/15/2018'],['Vanderbilt'],[118.0]
+523.0,102.0,Mike Weber,Ohio St.,518,2018-19,1,[10],['11/10/2018'],['Michigan St.'],[104.0]
+523.0,102.0,J.K. Dobbins,Ohio St.,518,2018-19,1,[11],['11/17/2018'],['Maryland'],[203.0]
+523.0,102.0,Nathan Rourke,Ohio,519,2018-19,1,[7],['10/20/2018'],['Bowling Green'],[101.0]
+54.0,7.0,A.J. Ouellette,Ohio,519,2018-19,4,"[10, 11, 12, 13]","['11/07/2018', '11/14/2018', '11/23/2018', '12/19/2018']","['Miami (OH)', 'Buffalo', 'Akron', 'San Diego St.']","[168.0, 196.0, 169.0, 164.0]"
+199.0,43.0,Maleek Irons,Ohio,519,2018-19,2,"[7, 8]","['10/20/2018', '10/25/2018']","['Bowling Green', 'Ball St.']","[116.0, 102.0]"
+523.0,102.0,Taylor Cornelius,Oklahoma St.,521,2018-19,1,[11],['11/17/2018'],['West Virginia'],[106.0]
+199.0,43.0,Chuba Hubbard,Oklahoma St.,521,2018-19,2,"[10, 11]","['11/10/2018', '11/17/2018']","['Oklahoma', 'West Virginia']","[104.0, 134.0]"
+96.0,19.0,Justice Hill,Oklahoma St.,521,2018-19,3,"[3, 4, 5]","['09/15/2018', '09/22/2018', '09/29/2018']","['Boise St.', 'Texas Tech', 'Kansas']","[123.0, 111.0, 189.0]"
+523.0,102.0,LD Brown,Oklahoma St.,521,2018-19,1,[1],['08/30/2018'],['Missouri St.'],[110.0]
+96.0,19.0,Kennedy Brooks,Oklahoma,522,2018-19,3,"[10, 11, 12]","['11/10/2018', '11/17/2018', '11/23/2018']","['Oklahoma St.', 'Kansas', 'West Virginia']","[165.0, 171.0, 182.0]"
+199.0,43.0,Trey Sermon,Oklahoma,522,2018-19,2,"[9, 10]","['11/03/2018', '11/10/2018']","['Texas Tech', 'Oklahoma St.']","[206.0, 124.0]"
+523.0,102.0,Kyler Murray,Oklahoma,522,2018-19,1,[14],['12/29/2018'],['Alabama'],[109.0]
+523.0,102.0,Rodney Anderson,Oklahoma,522,2018-19,1,[1],['09/01/2018'],['Fla. Atlantic'],[100.0]
+523.0,102.0,Jeremy Cox,Old Dominion,523,2018-19,1,[4],['09/22/2018'],['Virginia Tech'],[130.0]
+199.0,43.0,Kesean Strong,Old Dominion,523,2018-19,2,"[8, 9]","['10/20/2018', '10/27/2018']","['Western Ky.', 'Middle Tenn.']","[125.0, 108.0]"
+199.0,43.0,Jermar Jefferson,Oregon St.,528,2018-19,2,"[10, 11]","['11/10/2018', '11/17/2018']","['Stanford', 'Washington']","[109.0, 115.0]"
+523.0,102.0,Artavis Pierce,Oregon St.,528,2018-19,1,[1],['09/01/2018'],['Ohio St.'],[168.0]
+523.0,102.0,Tony Brooks-James,Oregon,529,2018-19,1,[2],['09/08/2018'],['Portland St.'],[107.0]
+96.0,19.0,CJ Verdell,Oregon,529,2018-19,3,"[4, 5, 6]","['09/22/2018', '09/29/2018', '10/13/2018']","['Stanford', 'California', 'Washington']","[115.0, 106.0, 111.0]"
+199.0,43.0,Travis Dye,Oregon,529,2018-19,2,"[10, 11]","['11/17/2018', '11/23/2018']","['Arizona St.', 'Oregon St.']","[105.0, 199.0]"
+523.0,102.0,Miles Sanders,Penn St.,539,2018-19,1,[12],['11/24/2018'],['Maryland'],[128.0]
+523.0,102.0,Trace McSorley,Penn St.,539,2018-19,1,[7],['10/20/2018'],['Indiana'],[107.0]
+523.0,102.0,Qadree Ollison,Pittsburgh,545,2018-19,1,[10],['11/10/2018'],['Virginia Tech'],[235.0]
+523.0,102.0,V'Lique Carter,Pittsburgh,545,2018-19,1,[8],['10/27/2018'],['Duke'],[137.0]
+199.0,43.0,Darrin Hall,Pittsburgh,545,2018-19,2,"[9, 10]","['11/02/2018', '11/10/2018']","['Virginia', 'Virginia Tech']","[229.0, 186.0]"
+523.0,102.0,Markell Jones,Purdue,559,2018-19,1,[2],['09/08/2018'],['Eastern Mich.'],[109.0]
+199.0,43.0,D.J. Knox,Purdue,559,2018-19,2,"[6, 7]","['10/13/2018', '10/20/2018']","['Illinois', 'Ohio St.']","[150.0, 128.0]"
+523.0,102.0,Emmanuel Esukpa,Rice,574,2018-19,1,[3],['09/08/2018'],['Hawaii'],[104.0]
+523.0,102.0,Austin Walter,Rice,574,2018-19,1,[5],['09/29/2018'],['Wake Forest'],[165.0]
+523.0,102.0,Juma Otoviano,Rice,574,2018-19,1,[13],['11/24/2018'],['Old Dominion'],[224.0]
+523.0,102.0,Raheem Blackshear,Rutgers,587,2018-19,1,[11],['11/17/2018'],['Penn St.'],[102.0]
+523.0,102.0,Isaih Pacheco,Rutgers,587,2018-19,1,[10],['11/10/2018'],['Michigan'],[142.0]
+523.0,102.0,Chase Jasmin,San Diego St.,626,2018-19,1,[3],['09/15/2018'],['Arizona St.'],[112.0]
+96.0,19.0,Juwan Washington,San Diego St.,626,2018-19,3,"[1, 2, 3]","['08/31/2018', '09/08/2018', '09/15/2018']","['Stanford', 'Sacramento St.', 'Arizona St.']","[158.0, 156.0, 138.0]"
+523.0,102.0,Tyler Nevens,San Jose St.,630,2018-19,1,[8],['10/27/2018'],['UNLV'],[103.0]
+523.0,102.0,Tra Minter,South Alabama,646,2018-19,1,[12],['11/23/2018'],['Coastal Carolina'],[203.0]
+523.0,102.0,Mon Denson,South Carolina,648,2018-19,1,[12],['12/01/2018'],['Akron'],[110.0]
+523.0,102.0,Deshaun Fenwick,South Carolina,648,2018-19,1,[10],['11/17/2018'],['Chattanooga'],[112.0]
+523.0,102.0,Rico Dowdle,South Carolina,648,2018-19,1,[7],['10/27/2018'],['Tennessee'],[140.0]
+199.0,43.0,Johnny Ford,South Fla.,651,2018-19,2,"[7, 8]","['10/20/2018', '10/27/2018']","['UConn', 'Houston']","[164.0, 106.0]"
+31.0,3.0,Jordan Cronkrite,South Fla.,651,2018-19,5,"[3, 4, 5, 6, 7]","['09/15/2018', '09/22/2018', '10/06/2018', '10/12/2018', '10/20/2018']","['Illinois', 'East Carolina', 'Massachusetts', 'Tulsa', 'UConn']","[136.0, 129.0, 302.0, 151.0, 103.0]"
+199.0,43.0,Aca'Cedric Ware,Southern California,657,2018-19,2,"[9, 10]","['11/03/2018', '11/10/2018']","['Oregon St.', 'California']","[205.0, 103.0]"
+523.0,102.0,Vavae Malepeai,Southern California,657,2018-19,1,[9],['11/03/2018'],['Oregon St.'],[101.0]
+523.0,102.0,Braeden West,SMU,663,2018-19,1,[4],['09/22/2018'],['Navy'],[145.0]
+199.0,43.0,Ke'Mon Freeman,SMU,663,2018-19,2,"[9, 10]","['11/03/2018', '11/10/2018']","['Houston', 'UConn']","[107.0, 116.0]"
+523.0,102.0,Xavier Jones,SMU,663,2018-19,1,[10],['11/10/2018'],['UConn'],[133.0]
+523.0,102.0,Trivenskey Mosley,Southern Miss.,664,2018-19,1,[11],['11/24/2018'],['UTEP'],[107.0]
+523.0,102.0,Willie Jones III,Texas St.,670,2018-19,1,[8],['10/27/2018'],['New Mexico St.'],[110.0]
+199.0,43.0,Elijah Mitchell,Louisiana,671,2018-19,2,"[10, 11]","['11/10/2018', '11/17/2018']","['Georgia St.', 'South Alabama']","[136.0, 104.0]"
+523.0,102.0,Raymond Calais,Louisiana,671,2018-19,1,[10],['11/10/2018'],['Georgia St.'],[186.0]
+96.0,19.0,Trey Ragas,Louisiana,671,2018-19,3,"[3, 4, 5]","['09/22/2018', '09/29/2018', '10/06/2018']","['Coastal Carolina', 'Alabama', 'Texas St.']","[103.0, 111.0, 100.0]"
+523.0,102.0,Bryce Love,Stanford,674,2018-19,1,[2],['09/08/2018'],['Southern California'],[136.0]
+523.0,102.0,Dontae Strickland,Syracuse,688,2018-19,1,[12],['11/24/2018'],['Boston College'],[140.0]
+523.0,102.0,Eric Dungey,Syracuse,688,2018-19,1,[9],['11/03/2018'],['Wake Forest'],[119.0]
+523.0,102.0,Moe Neal,Syracuse,688,2018-19,1,[10],['11/09/2018'],['Louisville'],[159.0]
+54.0,7.0,Ryquell Armstead,Temple,690,2018-19,4,"[2, 3, 4, 5]","['09/08/2018', '09/15/2018', '09/20/2018', '09/29/2018']","['Buffalo', 'Maryland', 'Tulsa', 'Boston College']","[107.0, 118.0, 108.0, 171.0]"
+523.0,102.0,Tim Jordan,Tennessee,694,2018-19,1,[1],['09/01/2018'],['West Virginia'],[118.0]
+523.0,102.0,Ty Chandler,Tennessee,694,2018-19,1,[3],['09/15/2018'],['UTEP'],[158.0]
+31.0,3.0,Trayveon Williams,Texas A&M,697,2018-19,5,"[9, 10, 11, 12, 13]","['11/03/2018', '11/10/2018', '11/17/2018', '11/24/2018', '12/31/2018']","['Auburn', 'Ole Miss', 'UAB', 'LSU', 'NC State']","[107.0, 228.0, 167.0, 198.0, 236.0]"
+523.0,102.0,Sewo Olonilua,TCU,698,2018-19,1,[13],['12/26/2018'],['California'],[194.0]
+523.0,102.0,Darius Anderson,TCU,698,2018-19,1,[3],['09/15/2018'],['Ohio St.'],[154.0]
+523.0,102.0,Jalen Reagor,TCU,698,2018-19,1,[12],['11/24/2018'],['Oklahoma St.'],[121.0]
+523.0,102.0,Demarcus Felton,Texas Tech,700,2018-19,1,[4],['09/22/2018'],['Oklahoma St.'],[130.0]
+523.0,102.0,Ta'Zhawn Henry,Texas Tech,700,2018-19,1,[3],['09/15/2018'],['Houston'],[111.0]
+523.0,102.0,Keaontay Ingram,Texas,703,2018-19,1,[7],['10/13/2018'],['Baylor'],[110.0]
+523.0,102.0,Quardraiz Wadley,UTEP,704,2018-19,1,[4],['09/22/2018'],['New Mexico St.'],[111.0]
+523.0,102.0,Kai Locksley,UTEP,704,2018-19,1,[5],['09/29/2018'],['UTSA'],[106.0]
+523.0,102.0,Shakif Seymour,Toledo,709,2018-19,1,[5],['10/06/2018'],['Bowling Green'],[101.0]
+199.0,43.0,Bryant Koback,Toledo,709,2018-19,2,"[11, 12]","['11/15/2018', '11/23/2018']","['Kent St.', 'Central Mich.']","[192.0, 124.0]"
+523.0,102.0,Art Thompkins,Toledo,709,2018-19,1,[11],['11/15/2018'],['Kent St.'],[122.0]
+523.0,102.0,Mitchell Guadagni,Toledo,709,2018-19,1,[6],['10/13/2018'],['Eastern Mich.'],[134.0]
+523.0,102.0,Jabir Daughtry-Frye,Troy,716,2018-19,1,[5],['09/29/2018'],['Coastal Carolina'],[140.0]
+31.0,3.0,B.J. Smith,Troy,716,2018-19,5,"[5, 6, 7, 8, 9]","['09/29/2018', '10/04/2018', '10/13/2018', '10/23/2018', '11/03/2018']","['Coastal Carolina', 'Georgia St.', 'Liberty', 'South Alabama', 'Louisiana']","[103.0, 143.0, 111.0, 170.0, 103.0]"
+523.0,102.0,Kaleb Barker,Troy,716,2018-19,1,[6],['10/04/2018'],['Georgia St.'],[111.0]
+199.0,43.0,Corey Dauphine,Tulane,718,2018-19,2,"[8, 9]","['10/27/2018', '11/03/2018']","['Tulsa', 'South Fla.']","[107.0, 121.0]"
+523.0,102.0,Darius Bradwell,Tulane,718,2018-19,1,[13],['12/15/2018'],['Louisiana'],[150.0]
+523.0,102.0,Shamari Brooks,Tulsa,719,2018-19,1,[9],['11/03/2018'],['UConn'],[151.0]
+199.0,43.0,Corey Taylor II,Tulsa,719,2018-19,2,"[9, 10]","['11/03/2018', '11/10/2018']","['UConn', 'Memphis']","[133.0, 117.0]"
+523.0,102.0,Donald Hammond III,Air Force,721,2018-19,1,[9],['11/10/2018'],['New Mexico'],[136.0]
+523.0,102.0,Kadin Remsberg,Air Force,721,2018-19,1,[10],['11/17/2018'],['Wyoming'],[128.0]
+199.0,43.0,Cole Fagan,Air Force,721,2018-19,2,"[10, 11]","['11/17/2018', '11/22/2018']","['Wyoming', 'Colorado St.']","[116.0, 260.0]"
+523.0,102.0,Isaiah Sanders,Air Force,721,2018-19,1,[6],['10/19/2018'],['UNLV'],[173.0]
+523.0,102.0,Darnell Woolfolk,Army West Point,725,2018-19,1,[9],['11/03/2018'],['Air Force'],[117.0]
+199.0,43.0,Kelvin Hopkins Jr.,Army West Point,725,2018-19,2,"[3, 4]","['09/15/2018', '09/22/2018']","['Hawaii', 'Oklahoma']","[110.0, 102.0]"
+523.0,102.0,Cam Thomas,Army West Point,725,2018-19,1,[7],['10/20/2018'],['Miami (OH)'],[137.0]
+523.0,102.0,Zach Abey,Navy,726,2018-19,1,[11],['11/17/2018'],['Tulsa'],[128.0]
+523.0,102.0,Nelson Smith,Navy,726,2018-19,1,[6],['10/13/2018'],['Temple'],[108.0]
+96.0,19.0,Malcolm Perry,Navy,726,2018-19,3,"[1, 2, 3]","['09/01/2018', '09/08/2018', '09/15/2018']","['Hawaii', 'Memphis', 'Lehigh']","[108.0, 166.0, 223.0]"
+199.0,43.0,Darwin Thompson,Utah St.,731,2018-19,2,"[9, 10]","['11/03/2018', '11/10/2018']","['Hawaii', 'San Jose St.']","[141.0, 140.0]"
+523.0,102.0,Gerold Bright,Utah St.,731,2018-19,1,[13],['12/15/2018'],['North Texas'],[103.0]
+96.0,19.0,Zack Moss,Utah,732,2018-19,3,"[7, 8, 9]","['10/20/2018', '10/26/2018', '11/03/2018']","['Southern California', 'UCLA', 'Arizona St.']","[140.0, 211.0, 128.0]"
+523.0,102.0,Armand Shyne,Utah,732,2018-19,1,[10],['11/10/2018'],['Oregon'],[174.0]
+96.0,19.0,Ke'Shawn Vaughn,Vanderbilt,736,2018-19,3,"[9, 10, 11]","['10/27/2018', '11/10/2018', '11/17/2018']","['Arkansas', 'Missouri', 'Ole Miss']","[172.0, 182.0, 127.0]"
+523.0,102.0,Steven Peoples,Virginia Tech,742,2018-19,1,[3],['09/22/2018'],['Old Dominion'],[156.0]
+523.0,102.0,Deshawn McClease,Virginia Tech,742,2018-19,1,[13],['12/31/2018'],['Cincinnati'],[102.0]
+523.0,102.0,Jordan Ellis,Virginia,746,2018-19,1,[13],['12/29/2018'],['South Carolina'],[106.0]
+199.0,43.0,Bryce Perkins,Virginia,746,2018-19,2,"[1, 2]","['09/01/2018', '09/08/2018']","['Richmond', 'Indiana']","[108.0, 123.0]"
+523.0,102.0,Matt Colburn II,Wake Forest,749,2018-19,1,[7],['10/27/2018'],['Louisville'],[243.0]
+199.0,43.0,Cade Carney,Wake Forest,749,2018-19,2,"[2, 3]","['09/08/2018', '09/13/2018']","['Towson', 'Boston College']","[130.0, 116.0]"
+96.0,19.0,Myles Gaskin,Washington,756,2018-19,3,"[10, 11, 12]","['11/03/2018', '11/17/2018', '11/23/2018']","['Stanford', 'Oregon St.', 'Washington St.']","[148.0, 135.0, 170.0]"
+523.0,102.0,Kennedy McKoy,West Virginia,768,2018-19,1,[10],['11/17/2018'],['Oklahoma St.'],[148.0]
+523.0,102.0,Martell Pettaway,West Virginia,768,2018-19,1,[8],['11/03/2018'],['Texas'],[121.0]
+523.0,102.0,Leddie Brown,West Virginia,768,2018-19,1,[5],['10/06/2018'],['Kansas'],[107.0]
+523.0,102.0,Josh Samuel,Western Ky.,772,2018-19,1,[10],['11/10/2018'],['Fla. Atlantic'],[101.0]
+523.0,102.0,Jamauri Bogan,Western Mich.,774,2018-19,1,[11],['11/13/2018'],['Ball St.'],[105.0]
+199.0,43.0,Levante Bellamy,Western Mich.,774,2018-19,2,"[7, 8]","['10/13/2018', '10/20/2018']","['Bowling Green', 'Central Mich.']","[145.0, 145.0]"
+11.0,1.0,Jonathan Taylor,Wisconsin,796,2018-19,7,"[1, 2, 3, 4, 5, 6, 7]","['08/31/2018', '09/08/2018', '09/15/2018', '09/22/2018', '10/06/2018', '10/13/2018', '10/20/2018']","['Western Ky.', 'New Mexico', 'BYU', 'Iowa', 'Nebraska', 'Michigan', 'Illinois']","[145.0, 253.0, 117.0, 113.0, 221.0, 101.0, 159.0]"
+523.0,102.0,Taiwan Deal,Wisconsin,796,2018-19,1,[7],['10/20/2018'],['Illinois'],[111.0]
+523.0,102.0,Xazavian Valladay,Wyoming,811,2018-19,1,[12],['11/24/2018'],['New Mexico'],[192.0]
+96.0,19.0,Sean Chambers,Wyoming,811,2018-19,3,"[8, 9, 10]","['10/20/2018', '10/26/2018', '11/03/2018']","['Utah St.', 'Colorado St.', 'San Jose St.']","[100.0, 101.0, 129.0]"
+96.0,19.0,Nico Evans,Wyoming,811,2018-19,3,"[8, 9, 10]","['10/20/2018', '10/26/2018', '11/03/2018']","['Utah St.', 'Colorado St.', 'San Jose St.']","[133.0, 176.0, 187.0]"
+199.0,43.0,Frankie Hickson,Liberty,355,2018-19,2,"[8, 9]","['10/20/2018', '11/03/2018']","['Idaho St.', 'Massachusetts']","[133.0, 133.0]"
+523.0,102.0,Kentory Matthews,Liberty,355,2018-19,1,[3],['12/01/2018'],['Norfolk St.'],[151.0]
+523.0,102.0,Peytton Pickett,Liberty,355,2018-19,1,[10],['11/10/2018'],['Virginia'],[117.0]
