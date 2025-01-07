@@ -1,0 +1,220 @@
+---
+title: "Kael"
+author: "Anurag"
+date: "2024-07-26"
+output: html_document
+---
+
+```{r}
+library(stringr)
+library(httr)
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(plotly)
+library(writexl)
+```
+
+## Read required files.
+
+```{r}
+Rushing_longest<- read.csv("/Users/anuragreddy/Desktop/Kael/rushing_yards_longest_df.csv")
+Passing_longest<- read.csv("/Users/anuragreddy/Desktop/Kael/passing_yards_longest_df.csv")
+Reception_longest<- read.csv("/Users/anuragreddy/Desktop/Kael/receptions_longest_df.csv")
+Receiving_longest <- read.csv("/Users/anuragreddy/Desktop/Kael/receiving_yards_longest_df.csv")
+
+Rushing_total<- read.csv("/Users/anuragreddy/Desktop/Kael/rushing_yards_total_df.csv")
+Passing_total<- read.csv("/Users/anuragreddy/Desktop/Kael/passing_yards_total_df.csv")
+Reception_total<- read.csv("/Users/anuragreddy/Desktop/Kael/receptions_total_df.csv")
+Receiving_total <- read.csv("/Users/anuragreddy/Desktop/Kael/receiving_yards_total_df.csv")
+
+```
+
+### Rushing Data
+
+```{r}
+
+wide_to_long_df <- function(data,type){
+  if(type!="Receptions"){
+    type_col <- paste0(type,".Yards")
+  }
+  else{
+    type_col <- paste0(type)
+  }
+  
+  a <- data %>%
+  separate_rows(Game.Numbers, sep = ",") |>
+  select(Overall.Rank,Season.Rank,Season,Player,Team,Org.ID,Game.Count,Game.Numbers)
+  b <- data %>%
+  separate_rows(Game.Dates, sep = ",") |>
+  select(Game.Dates)
+  c <- data %>%
+  separate_rows(Opponents, sep = ",") |>
+  select(Opponents)
+  d <- data %>%
+    separate_rows(!!type_col, sep = ",") %>%
+    rename(Yards = !!type_col) %>%
+    select(Yards)
+  
+  data_combined <- bind_cols(a,b,c,d)
+  
+  
+  data_combined <- data_combined |>
+  mutate(across(everything(), ~ str_replace_all(.,"\\[|\\'|\\]", "")))
+  
+  data_combined$Yards <- as.integer(data_combined$Yards)
+  data_combined$Game.Count <- as.integer(data_combined$Game.Count)
+
+  data_combined$type <- type
+  return(data_combined)
+
+}
+```
+
+```{r}
+rushing_longest_df <- wide_to_long_df(Rushing_longest,"Rushing")
+passing_longest_df <- wide_to_long_df(Passing_longest,"Pass")
+receiving_longest_df <- wide_to_long_df(Receiving_longest,"Receiving")
+reception_longest_df <- wide_to_long_df(Reception_longest,"Receptions")
+```
+
+```{r}
+rushing_total_df <- wide_to_long_df(Rushing_total,"Rushing")
+passing_total_df <- wide_to_long_df(Passing_total,"Pass")
+receiving_total_df <- wide_to_long_df(Receiving_total,"Receiving")
+reception_total_df <- wide_to_long_df(Reception_total,"Receptions")
+```
+
+```{r}
+
+add_longest_streaks <- function(longest_df,total_df){
+  new <- longest_df %>%
+  distinct(Season, Player, Game.Count)
+  
+  # Perform the join with many-to-many relationship handling
+  new_df <- total_df %>%
+    left_join(new,by = c("Season", "Player"),relationship = "many-to-many")|>
+    rename(Longest_streaks = Game.Count.y)
+  
+  return(new_df)
+  
+}
+
+
+```
+
+```{r}
+rushing_total_streaks <- add_longest_streaks(rushing_longest_df,rushing_total_df)
+passing_total_streaks <- add_longest_streaks(passing_longest_df,passing_total_df)
+receiving_total_streaks <- add_longest_streaks(receiving_longest_df,receiving_total_df)
+receptions_total_streaks <- add_longest_streaks(reception_longest_df,reception_total_df)
+
+```
+
+```{r}
+write_xlsx(rushing_total_streaks,path = "rushing_total_streaks.xlsx")
+write_xlsx(passing_total_streaks,path = "passing_total_streaks.xlsx")
+write_xlsx(receiving_total_streaks,path = "receiving_total_streaks.xlsx")
+write_xlsx(receptions_total_streaks,path = "receptions_total_streaks.xlsx")
+```
+
+```{r}
+All_stats_total_streaks <- bind_rows(rushing_total_streaks,passing_total_streaks,receiving_total_streaks,receptions_total_streaks)
+
+```
+
+```{r}
+wide_to_long <- function(data,type){
+  
+  a <- data %>%
+  separate_rows(Game.Numbers, sep = ",") |>
+  select(Season,Player,Team,Org.ID,Game.Count,Game.Numbers)
+  b <- data %>%
+  separate_rows(Game.Dates, sep = ",") |>
+  select(Game.Dates)
+  c <- data %>%
+  separate_rows(Opponents, sep = ",") |>
+  select(Opponents)
+  d <- data %>%
+    separate_rows(type, sep = ",") %>%
+    rename(Yards = type) %>%
+    select(Yards)
+  
+  data_combined <- bind_cols(a,b,c,d)
+  
+  
+  data_combined <- data_combined |>
+  mutate(across(everything(), ~ str_replace_all(.,"\\[|\\'|\\]", "")))
+  
+  data_combined$Yards <- as.integer(data_combined$Yards)
+  data_combined$Game.Count <- as.integer(data_combined$Game.Count)
+
+  data_combined$type <- type
+  return(data_combined)
+
+}
+```
+
+```{r}
+Interceptions_total<- read.csv("/Users/anuragreddy/Desktop/Kael/interceptions_total_df.csv")
+Sack_total<- read.csv("/Users/anuragreddy/Desktop/Kael/sack_total_df.csv")
+Tackle_total<- read.csv("/Users/anuragreddy/Desktop/Kael/tackle_for_loss_total_df.csv")
+
+Interceptions_long<- read.csv("/Users/anuragreddy/Desktop/Kael/interceptions_longest_df.csv")
+Sack_long<- read.csv("/Users/anuragreddy/Desktop/Kael/sack_longest_df.csv")
+Tackle_long<- read.csv("/Users/anuragreddy/Desktop/Kael/tackle_for_loss_longest_df.csv")
+```
+
+```{r}
+TT_long <- read.csv("/Users/anuragreddy/Desktop/Kael/total_tackles_longest_df.csv")
+TT_Total <- read.csv("/Users/anuragreddy/Desktop/Kael/total_tackles_total_df.csv")
+```
+
+```{r}
+Interceptions_long_df <- wide_to_long(Interceptions_long,"Interceptions")
+Sack_long_df <- wide_to_long(Sack_long,"Sacks")
+Tackle_long_df <- wide_to_long(Tackle_long,"Total.Tackles.For.Loss")
+
+Interceptions_total_df <- wide_to_long(Interceptions_total,"Interceptions")
+Sack_total_df <- wide_to_long(Sack_total,"Sacks")
+Tackle_total_df <- wide_to_long(Tackle_total,"Total.Tackles.For.Loss")
+```
+
+```{r}
+TT_long_df <- wide_to_long(TT_long,"Total.Tackles")
+TT_total_df <- wide_to_long(TT_Total,"Total.Tackles")
+```
+
+```{r}
+Interceptions_total_streaks <- add_longest_streaks(Interceptions_long_df,Interceptions_total_df)
+Sacks_total_streaks <- add_longest_streaks(Sack_long_df,Sack_total_df)
+Tackle_total_streaks <- add_longest_streaks(Tackle_long_df,Tackle_total_df)
+TT_streaks <- add_longest_streaks(TT_long_df,TT_total_df)
+
+All_stats_total_streaks_def <- bind_rows(Interceptions_total_streaks,Sacks_total_streaks,Tackle_total_streaks,TT_streaks)
+
+```
+
+```{r}
+All_stats_total_streaks_def <- All_stats_total_streaks_def |>
+  mutate(play_type = "Deffense")
+All_stats_total_streaks_off <- All_stats_total_streaks |>
+  mutate(play_type = "Offense")
+```
+
+```{r}
+Off_Deff <- bind_rows(All_stats_total_streaks_off,All_stats_total_streaks_def)
+
+Off_Deff <- Off_Deff|>
+  mutate(type = ifelse(type=="Pass","Passing",type))|>
+  mutate(type = ifelse(type=="Total.Tackles.For.Loss","Tackle.Loss",type))|>
+  mutate(type = ifelse(type=="Total.Tackles","Tackles",type))|>
+  mutate(play_type = ifelse(play_type=="Offense","Offense","Defense"))
+
+  
+```
+
+```{r}
+library(writexl)
+write_xlsx(Off_Deff,path = "Off_Deff.xlsx")
+```
